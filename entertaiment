@@ -1,1929 +1,1309 @@
 #EXTM3U
-#EXTINF:-1,CAN: TSN Sport 1
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3046.ts
-#EXTINF:-1,CAN: TSN Sport 2
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3047.ts
-#EXTINF:-1,CAN: TSN Sport 3
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3048.ts
-#EXTINF:-1,CAN: TSN Sport 4
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3049.ts
-#EXTINF:-1,CAN: TSN Sport 5
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3050.ts
-#EXTINF:-1,CAN: History HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2906.ts
-#EXTINF:-1,US: Sportsnet World HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/4279.ts
-#EXTINF:-1,US: FOX Sport 1
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2860.ts
-#EXTINF:-1,US: FOX Sport 2
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2861.ts
-#EXTINF:-1,US: NBA TV
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5387.ts
-#EXTINF:-1,US: TBS HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3587.ts
-#EXTINF:-1,US: SYFY HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5238.ts
-#EXTINF:-1,US: SPIKE HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5237.ts
-#EXTINF:-1,US: NICKELODEN HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5236.ts
-#EXTINF:-1,US: Cartoon Network HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/7932.ts
-#EXTINF:-1,US: Cuzi
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5225.ts
-#EXTINF:-1,US: STARZ EDGE HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5397.ts
-#EXTINF:-1,US: Starz Comedy
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5396.ts
-#EXTINF:-1,US: Showtime Showcase
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5402.ts
-#EXTINF:-1,US: Showtime Next
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5399.ts
-#EXTINF:-1,US: Showtime Extreme
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5398.ts
-#EXTINF:-1,US: ShowTime 2 HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5401.ts
-#EXTINF:-1,US: ShowTime HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5390.ts
-#EXTINF:-1,US: FreeRom HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5234.ts
-#EXTINF:-1,US: CBS HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/7800.ts
-#EXTINF:-1,US: National Geographic HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5404.ts
-#EXTINF:-1,US: Investigation Discovery
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5410.ts
-#EXTINF:-1,US: HISTORY
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5405.ts
-#EXTINF:-1,US: HBO Family
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5400.ts
-#EXTINF:-1,US: Food Network HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5403.ts
-#EXTINF:-1,US: TENNIS HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5407.ts
-#EXTINF:-1,US: Discovery Science HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5409.ts
-#EXTINF:-1,US: Discovery Channel HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5408.ts
-#EXTINF:-1,US: Cinemax Moremax
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5395.ts
-#EXTINF:-1,US: Cinemax East
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5393.ts
-#EXTINF:-1,US: Cinemax ActionMax East
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5394.ts
-#EXTINF:-1,US: Cinemax 5 StarMax
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5392.ts
-#EXTINF:-1,US: Bein Sports USA HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5391.ts
-#EXTINF:-1,US: Animal Planet HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5406.ts
-#EXTINF:-1,US:  HBO Zone HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5389.ts
-#EXTINF:-1,US:  HBO East HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5388.ts
-#EXTINF:-1,US: FX HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5231.ts
-#EXTINF:-1,US: FOX 59 HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5232.ts
-#EXTINF:-1,US: FOX Business HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5233.ts
-#EXTINF:-1,US: ESPN HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5227.ts
-#EXTINF:-1,US: CW HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5230.ts
-#EXTINF:-1,US: COMEDY CENTRAL HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5242.ts
-#EXTINF:-1,US: Buzzr
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5244.ts
-#EXTINF:-1,US: Al Jazeera News English
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/8097.ts
-#EXTINF:-1,US: CBS News HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/8098.ts
-#EXTINF:-1,US: BRAVO HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5228.ts
-#EXTINF:-1,US: AMC HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5229.ts
-#EXTINF:-1,US: ABC HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5239.ts
-#EXTINF:-1,US: A&E TV HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5240.ts
-#EXTINF:-1,US: LIFE TIME HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3588.ts
-#EXTINF:-1,US: HIFI
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3589.ts
-#EXTINF:-1,US: Fox 4 HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3590.ts
-#EXTINF:-1,US: HBO SIGNATURE
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3591.ts
-#EXTINF:-1,US: MSNBC HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/8000.ts
-#EXTINF:-1,US: HBO HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3592.ts
-#EXTINF:-1,US: HALLMARK
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3593.ts
-#EXTINF:-1,US: H2
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3594.ts
-#EXTINF:-1,US: A&E HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/3585.ts
-#EXTINF:-1,US: Bravo
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2654.ts
-#EXTINF:-1,US: CNN HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/876.ts
-#EXTINF:-1,US: NFL Network HD 1080P
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2863.ts
-#EXTINF:-1,US: NBC SPORT
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/2864.ts
-#EXTINF:-1,US: USA Network HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/871.ts
-#EXTINF:-1,US: HBO Family HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/878.ts
-#EXTINF:-1,US: Starz Cinema HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/874.ts
-#EXTINF:-1,US: HBO Plus
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/875.ts
+#EXTINF:-1,USA HBO Signature
+http://212.8.242.102:25461/live/ahmed/ahmed/3711.ts
+#EXTINF:-1,USA HBO
+http://212.8.242.102:25461/live/ahmed/ahmed/3710.ts
+#EXTINF:-1,USA HBO FAMILY
+http://212.8.242.102:25461/live/ahmed/ahmed/3709.ts
+#EXTINF:-1,USA HBO ZONE
+http://212.8.242.102:25461/live/ahmed/ahmed/3708.ts
+#EXTINF:-1,USA A&E
+http://212.8.242.102:25461/live/ahmed/ahmed/3704.ts
+#EXTINF:-1,ABC
+http://212.8.242.102:25461/live/ahmed/ahmed/3719.ts
+#EXTINF:-1,NBCSN
+http://212.8.242.102:25461/live/ahmed/ahmed/3723.ts
+#EXTINF:-1,USA ABC NEWS
+http://212.8.242.102:25461/live/ahmed/ahmed/3720.ts
+#EXTINF:-1,USA CBS
+http://212.8.242.102:25461/live/ahmed/ahmed/3721.ts
+#EXTINF:-1,USA NBC
+http://212.8.242.102:25461/live/ahmed/ahmed/3724.ts
+#EXTINF:-1,USA AFN Movie
+http://212.8.242.102:25461/live/ahmed/ahmed/3696.ts
+#EXTINF:-1,USA CineMax
+http://212.8.242.102:25461/live/ahmed/ahmed/3699.ts
+#EXTINF:-1,USA Bloomberg
+http://212.8.242.102:25461/live/ahmed/ahmed/3694.ts
+#EXTINF:-1,USA Bravo
+http://212.8.242.102:25461/live/ahmed/ahmed/3693.ts
+#EXTINF:-1,USA CNBC
+http://212.8.242.102:25461/live/ahmed/ahmed/3722.ts
+#EXTINF:-1,USA CW
+http://212.8.242.102:25461/live/ahmed/ahmed/3706.ts
+#EXTINF:-1,USA ESPN
+http://212.8.242.102:25461/live/ahmed/ahmed/3692.ts
+#EXTINF:-1,USA ESPN 2
+http://212.8.242.102:25461/live/ahmed/ahmed/3691.ts
+#EXTINF:-1,USA FOX
+http://212.8.242.102:25461/live/ahmed/ahmed/3718.ts
+#EXTINF:-1,USA Fox News
+http://212.8.242.102:25461/live/ahmed/ahmed/3717.ts
+#EXTINF:-1,USA FoxSports 1
+http://212.8.242.102:25461/live/ahmed/ahmed/3716.ts
+#EXTINF:-1,USA Fox Sports 2 HD
+http://212.8.242.102:25461/live/ahmed/ahmed/3715.ts
+#EXTINF:-1,USA FX
+http://212.8.242.102:25461/live/ahmed/ahmed/3697.ts
+#EXTINF:-1,USA Hallmark
+http://212.8.242.102:25461/live/ahmed/ahmed/3698.ts
+#EXTINF:-1,USA HISTORY
+http://212.8.242.102:25461/live/ahmed/ahmed/3686.ts
+#EXTINF:-1,USA MTV Live
+http://212.8.242.102:25461/live/ahmed/ahmed/3687.ts
+#EXTINF:-1,USA NBA TV
+http://212.8.242.102:25461/live/ahmed/ahmed/3690.ts
+#EXTINF:-1,USA NFL NETWORK
+http://212.8.242.102:25461/live/ahmed/ahmed/3689.ts
+#EXTINF:-1,USA NHL NETWORK
+http://212.8.242.102:25461/live/ahmed/ahmed/3688.ts
+#EXTINF:-1,USA Showtime
+http://212.8.242.102:25461/live/ahmed/ahmed/3714.ts
+#EXTINF:-1,USA SHOWTIME SHOWCASE
+http://212.8.242.102:25461/live/ahmed/ahmed/3713.ts
+#EXTINF:-1,USA STARZ CINEMA
+http://212.8.242.102:25461/live/ahmed/ahmed/3703.ts
+#EXTINF:-1,USA STARZ COMEDY
+http://212.8.242.102:25461/live/ahmed/ahmed/3702.ts
+#EXTINF:-1,USA NETWORK
+http://212.8.242.102:25461/live/ahmed/ahmed/3705.ts
+#EXTINF:-1,USA STARZ ENCORE
+http://212.8.242.102:25461/live/ahmed/ahmed/3701.ts
+#EXTINF:-1,USA SYFY
+http://212.8.242.102:25461/live/ahmed/ahmed/3700.ts
+#EXTINF:-1,USA WWEHD
+http://212.8.242.102:25461/live/ahmed/ahmed/3695.ts
+#EXTINF:-1,CA-TSN1
+http://212.8.242.102:25461/live/ahmed/ahmed/3684.ts
+#EXTINF:-1,CA-TSN2
+http://212.8.242.102:25461/live/ahmed/ahmed/3683.ts
+#EXTINF:-1,CA-TSN3
+http://212.8.242.102:25461/live/ahmed/ahmed/3682.ts
+#EXTINF:-1,CA-TSN4
+http://212.8.242.102:25461/live/ahmed/ahmed/3681.ts
+#EXTINF:-1,CA-TSN5
+http://212.8.242.102:25461/live/ahmed/ahmed/3680.ts
+#EXTINF:-1,CA-FOX EAST
+http://212.8.242.102:25461/live/ahmed/ahmed/6800.ts
+#EXTINF:-1,CA-ABC WEST
+http://212.8.242.102:25461/live/ahmed/ahmed/6790.ts
+#EXTINF:-1,CA-AMC
+http://212.8.242.102:25461/live/ahmed/ahmed/6791.ts
+#EXTINF:-1,CA-NBC WEST
+http://212.8.242.102:25461/live/ahmed/ahmed/6806.ts
+#EXTINF:-1,CA-MSNBC
+http://212.8.242.102:25461/live/ahmed/ahmed/6803.ts
+#EXTINF:-1,CA-Animal Planet
+http://212.8.242.102:25461/live/ahmed/ahmed/6792.ts
+#EXTINF:-1,CA-HISTORY
+http://212.8.242.102:25461/live/ahmed/ahmed/6801.ts
+#EXTINF:-1,CA-Sportsnet One
+http://212.8.242.102:25461/live/ahmed/ahmed/6808.ts
+#EXTINF:-1,CA-Sportsnet 360
+http://212.8.242.102:25461/live/ahmed/ahmed/6807.ts
+#EXTINF:-1,CA-Sportsnet World
+http://212.8.242.102:25461/live/ahmed/ahmed/6810.ts
+#EXTINF:-1,CA-Sportsnet Ontario
+http://212.8.242.102:25461/live/ahmed/ahmed/6809.ts
+#EXTINF:-1,BBC One
+http://212.8.242.102:25461/live/ahmed/ahmed/3785.ts
+#EXTINF:-1,BBC Two
+http://212.8.242.102:25461/live/ahmed/ahmed/3783.ts
+#EXTINF:-1,BBC Three
+http://212.8.242.102:25461/live/ahmed/ahmed/3782.ts
+#EXTINF:-1,BBC Four HD
+http://212.8.242.102:25461/live/ahmed/ahmed/6034.ts
+#EXTINF:-1,BBC World News
+http://212.8.242.102:25461/live/ahmed/ahmed/3772.ts
+#EXTINF:-1,BBC News UK
+http://212.8.242.102:25461/live/ahmed/ahmed/3771.ts
+#EXTINF:-1,BBC Alba
+http://212.8.242.102:25461/live/ahmed/ahmed/6035.ts
+#EXTINF:-1,Sky News
+http://212.8.242.102:25461/live/ahmed/ahmed/4830.ts
+#EXTINF:-1,CNBC
+http://212.8.242.102:25461/live/ahmed/ahmed/3761.ts
+#EXTINF:-1,CBBC HD
+http://212.8.242.102:25461/live/ahmed/ahmed/3781.ts
+#EXTINF:-1,Euronews UK
+http://212.8.242.102:25461/live/ahmed/ahmed/3767.ts
+#EXTINF:-1,ITV HD
+http://212.8.242.102:25461/live/ahmed/ahmed/6032.ts
+#EXTINF:-1,ITV 2
+http://212.8.242.102:25461/live/ahmed/ahmed/6033.ts
+#EXTINF:-1,ITV 3
+http://212.8.242.102:25461/live/ahmed/ahmed/3780.ts
+#EXTINF:-1,ITV 4
+http://212.8.242.102:25461/live/ahmed/ahmed/3779.ts
+#EXTINF:-1,ITV BE
+http://212.8.242.102:25461/live/ahmed/ahmed/3778.ts
+#EXTINF:-1,ITV Encore
+http://212.8.242.102:25461/live/ahmed/ahmed/3777.ts
+#EXTINF:-1,Channel 4
+http://212.8.242.102:25461/live/ahmed/ahmed/3776.ts
+#EXTINF:-1,Channel 5
+http://212.8.242.102:25461/live/ahmed/ahmed/3775.ts
+#EXTINF:-1,Channel 5 +1
+http://212.8.242.102:25461/live/ahmed/ahmed/3760.ts
+#EXTINF:-1,More 4
+http://212.8.242.102:25461/live/ahmed/ahmed/3774.ts
+#EXTINF:-1,E4
+http://212.8.242.102:25461/live/ahmed/ahmed/3773.ts
+#EXTINF:-1,RTE ONE HD
+http://212.8.242.102:25461/live/ahmed/ahmed/3759.ts
+#EXTINF:-1,Bloomberg
+http://212.8.242.102:25461/live/ahmed/ahmed/3763.ts
+#EXTINF:-1,FOX News
+http://212.8.242.102:25461/live/ahmed/ahmed/3765.ts
+#EXTINF:-1,CNN International
+http://212.8.242.102:25461/live/ahmed/ahmed/3769.ts
+#EXTINF:-1,CGTN News
+http://212.8.242.102:25461/live/ahmed/ahmed/3764.ts
+#EXTINF:-1,Gold
+http://212.8.242.102:25461/live/ahmed/ahmed/4818.ts
+#EXTINF:-1,Good Food
+http://212.8.242.102:25461/live/ahmed/ahmed/4842.ts
+#EXTINF:-1,Food Network
+http://212.8.242.102:25461/live/ahmed/ahmed/3736.ts
+#EXTINF:-1,TCM.
+http://212.8.242.102:25461/live/ahmed/ahmed/3745.ts
+#EXTINF:-1,CBS.Action
+http://212.8.242.102:25461/live/ahmed/ahmed/3743.ts
+#EXTINF:-1,CBS Drama
+http://212.8.242.102:25461/live/ahmed/ahmed/3742.ts
+#EXTINF:-1,CBS Reality
+http://212.8.242.102:25461/live/ahmed/ahmed/4862.ts
+#EXTINF:-1,Film4
+http://212.8.242.102:25461/live/ahmed/ahmed/3744.ts
+#EXTINF:-1,Comedy Central Extra
+http://212.8.242.102:25461/live/ahmed/ahmed/4841.ts
+#EXTINF:-1,Crime & Investigation
+http://212.8.242.102:25461/live/ahmed/ahmed/4810.ts
+#EXTINF:-1,Fox
+http://212.8.242.102:25461/live/ahmed/ahmed/4838.ts
+#EXTINF:-1,Movies24
+http://212.8.242.102:25461/live/ahmed/ahmed/6036.ts
+#EXTINF:-1,Movies4Men
+http://212.8.242.102:25461/live/ahmed/ahmed/6037.ts
+#EXTINF:-1,Sky Cinema Premier HD
+http://212.8.242.102:25461/live/ahmed/ahmed/4852.ts
+#EXTINF:-1,Sky Cinema Select HD
+http://212.8.242.102:25461/live/ahmed/ahmed/4850.ts
+#EXTINF:-1,Sky Cinema Action HD
+http://212.8.242.102:25461/live/ahmed/ahmed/4853.ts
+#EXTINF:-1,Sky Cinema Thriller HD
+http://212.8.242.102:25461/live/ahmed/ahmed/4860.ts
+#EXTINF:-1,Sky Cinema Scifi & Horror HD
+http://212.8.242.102:25461/live/ahmed/ahmed/4858.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://212.8.242.102:25461/live/ahmed/ahmed/4855.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://212.8.242.102:25461/live/ahmed/ahmed/4859.ts
+#EXTINF:-1,Sky Cinema Bourne HD
+http://212.8.242.102:25461/live/ahmed/ahmed/4856.ts
+#EXTINF:-1,Sky Cinema Christmas HD
+http://212.8.242.102:25461/live/ahmed/ahmed/6039.ts
+#EXTINF:-1,Sky Cinema Superhero HD
+http://212.8.242.102:25461/live/ahmed/ahmed/6038.ts
+#EXTINF:-1,Sky Cinema Greats
+http://212.8.242.102:25461/live/ahmed/ahmed/4857.ts
+#EXTINF:-1,Sky Cinema Disney HD
+http://212.8.242.102:25461/live/ahmed/ahmed/4861.ts
+#EXTINF:-1,Horror Channel
+http://212.8.242.102:25461/live/ahmed/ahmed/3738.ts
+#EXTINF:-1,Comedy Central
+http://212.8.242.102:25461/live/ahmed/ahmed/3733.ts
+#EXTINF:-1,Sky One
+http://212.8.242.102:25461/live/ahmed/ahmed/4865.ts
+#EXTINF:-1,Sky 2
+http://212.8.242.102:25461/live/ahmed/ahmed/4864.ts
+#EXTINF:-1,Sky Arts
+http://212.8.242.102:25461/live/ahmed/ahmed/4863.ts
+#EXTINF:-1,Sky.Atlantic
+http://212.8.242.102:25461/live/ahmed/ahmed/4851.ts
+#EXTINF:-1,Sky Living
+http://212.8.242.102:25461/live/ahmed/ahmed/4854.ts
+#EXTINF:-1,Capital TV
+http://212.8.242.102:25461/live/ahmed/ahmed/4741.ts
+#EXTINF:-1,Tru TV
+http://212.8.242.102:25461/live/ahmed/ahmed/4840.ts
+#EXTINF:-1,True Crime
+http://212.8.242.102:25461/live/ahmed/ahmed/4844.ts
+#EXTINF:-1,True Movies 1
+http://212.8.242.102:25461/live/ahmed/ahmed/3741.ts
+#EXTINF:-1,True Entertainment
+http://212.8.242.102:25461/live/ahmed/ahmed/3739.ts
+#EXTINF:-1,E!'
+http://212.8.242.102:25461/live/ahmed/ahmed/4867.ts
+#EXTINF:-1,STV Central West
+http://212.8.242.102:25461/live/ahmed/ahmed/4820.ts
+#EXTINF:-1,TG4
+http://212.8.242.102:25461/live/ahmed/ahmed/4821.ts
+#EXTINF:-1,The Vault
+http://212.8.242.102:25461/live/ahmed/ahmed/4878.ts
+#EXTINF:-1,Travel Channel
+http://212.8.242.102:25461/live/ahmed/ahmed/4808.ts
+#EXTINF:-1,Universal Channel
+http://212.8.242.102:25461/live/ahmed/ahmed/4809.ts
+#EXTINF:-1,Animal Planet.
+http://212.8.242.102:25461/live/ahmed/ahmed/4804.ts
+#EXTINF:-1,Discovery History
+http://212.8.242.102:25461/live/ahmed/ahmed/4813.ts
+#EXTINF:-1,Discovery.Investigation
+http://212.8.242.102:25461/live/ahmed/ahmed/4812.ts
+#EXTINF:-1,Discovery Shed
+http://212.8.242.102:25461/live/ahmed/ahmed/4814.ts
+#EXTINF:-1,Discovery Turbo
+http://212.8.242.102:25461/live/ahmed/ahmed/4811.ts
+#EXTINF:-1,National Geo.graphic
+http://212.8.242.102:25461/live/ahmed/ahmed/4806.ts
+#EXTINF:-1,National Geography Wild
+http://212.8.242.102:25461/live/ahmed/ahmed/4807.ts
+#EXTINF:-1,Quest
+http://212.8.242.102:25461/live/ahmed/ahmed/3731.ts
+#EXTINF:-1,Challenge
+http://212.8.242.102:25461/live/ahmed/ahmed/4756.ts
+#EXTINF:-1,Channel 3e
+http://212.8.242.102:25461/live/ahmed/ahmed/4758.ts
+#EXTINF:-1,Channel Aka
+http://212.8.242.102:25461/live/ahmed/ahmed/4755.ts
+#EXTINF:-1,Christmas Gold
+http://212.8.242.102:25461/live/ahmed/ahmed/4848.ts
+#EXTINF:-1,Hum Europe
+http://212.8.242.102:25461/live/ahmed/ahmed/4798.ts
+#EXTINF:-1,MUTV
+http://212.8.242.102:25461/live/ahmed/ahmed/4769.ts
+#EXTINF:-1,My 5
+http://212.8.242.102:25461/live/ahmed/ahmed/4835.ts
+#EXTINF:-1,NDTV 24x7
+http://212.8.242.102:25461/live/ahmed/ahmed/4797.ts
+#EXTINF:-1,NHK
+http://212.8.242.102:25461/live/ahmed/ahmed/4739.ts
+#EXTINF:-1,Pick
+http://212.8.242.102:25461/live/ahmed/ahmed/4866.ts
+#EXTINF:-1,Prime_TV
+http://212.8.242.102:25461/live/ahmed/ahmed/4751.ts
+#EXTINF:-1,Really
+http://212.8.242.102:25461/live/ahmed/ahmed/4748.ts
+#EXTINF:-1,Real Lives
+http://212.8.242.102:25461/live/ahmed/ahmed/4826.ts
+#EXTINF:-1,Rishtey
+http://212.8.242.102:25461/live/ahmed/ahmed/4788.ts
+#EXTINF:-1,RTE TWO HD
+http://212.8.242.102:25461/live/ahmed/ahmed/4823.ts
+#EXTINF:-1,Dmax UK
+http://212.8.242.102:25461/live/ahmed/ahmed/3728.ts
+#EXTINF:-1,Lifetime
+http://212.8.242.102:25461/live/ahmed/ahmed/3737.ts
+#EXTINF:-1,4Seven
+http://212.8.242.102:25461/live/ahmed/ahmed/4837.ts
+#EXTINF:-1,5 Star
+http://212.8.242.102:25461/live/ahmed/ahmed/4831.ts
+#EXTINF:-1,Alibi
+http://212.8.242.102:25461/live/ahmed/ahmed/4839.ts
+#EXTINF:-1,PBS America
+http://212.8.242.102:25461/live/ahmed/ahmed/3730.ts
+#EXTINF:-1,At The Races
+http://212.8.242.102:25461/live/ahmed/ahmed/4763.ts
+#EXTINF:-1,BET
+http://212.8.242.102:25461/live/ahmed/ahmed/4816.ts
+#EXTINF:-1,Bike
+http://212.8.242.102:25461/live/ahmed/ahmed/4757.ts
+#EXTINF:-1,Colors
+http://212.8.242.102:25461/live/ahmed/ahmed/4789.ts
+#EXTINF:-1,Dave ja vu
+http://212.8.242.102:25461/live/ahmed/ahmed/4828.ts
+#EXTINF:-1,S4C
+http://212.8.242.102:25461/live/ahmed/ahmed/4752.ts
+#EXTINF:-1,Scuzz
+http://212.8.242.102:25461/live/ahmed/ahmed/4872.ts
+#EXTINF:-1,MTV Dance
+http://212.8.242.102:25461/live/ahmed/ahmed/4885.ts
+#EXTINF:-1,MTV Hits
+http://212.8.242.102:25461/live/ahmed/ahmed/4882.ts
+#EXTINF:-1,MTV Music
+http://212.8.242.102:25461/live/ahmed/ahmed/4881.ts
+#EXTINF:-1,MTV Rocks
+http://212.8.242.102:25461/live/ahmed/ahmed/4883.ts
+#EXTINF:-1,MTV.Base
+http://212.8.242.102:25461/live/ahmed/ahmed/4737.ts
+#EXTINF:-1,MTV.
+http://212.8.242.102:25461/live/ahmed/ahmed/3729.ts
+#EXTINF:-1,VH1
+http://212.8.242.102:25461/live/ahmed/ahmed/4877.ts
+#EXTINF:-1,Viceland
+http://212.8.242.102:25461/live/ahmed/ahmed/4827.ts
+#EXTINF:-1,CITV
+http://212.8.242.102:25461/live/ahmed/ahmed/3726.ts
+#EXTINF:-1,4Music
+http://212.8.242.102:25461/live/ahmed/ahmed/4874.ts
+#EXTINF:-1,Box Nation
+http://212.8.242.102:25461/live/ahmed/ahmed/4772.ts
+#EXTINF:-1,Premier Sports
+http://212.8.242.102:25461/live/ahmed/ahmed/4761.ts
+#EXTINF:-1,Eurosport 1.
+http://212.8.242.102:25461/live/ahmed/ahmed/4771.ts
+#EXTINF:-1,Eurosport 2.
+http://212.8.242.102:25461/live/ahmed/ahmed/4770.ts
+#EXTINF:-1,Eir Sport1
+http://212.8.242.102:25461/live/ahmed/ahmed/4765.ts
+#EXTINF:-1,Eir Sport 2
+http://212.8.242.102:25461/live/ahmed/ahmed/4740.ts
+#EXTINF:-1,Sky Sports News UK
+http://212.8.242.102:25461/live/ahmed/ahmed/4785.ts
+#EXTINF:-1,Sky Sports Action
+http://212.8.242.102:25461/live/ahmed/ahmed/4783.ts
+#EXTINF:-1,Sky Sports F1
+http://212.8.242.102:25461/live/ahmed/ahmed/4778.ts
+#EXTINF:-1,Sky Sports 5 HD
+http://212.8.242.102:25461/live/ahmed/ahmed/4779.ts
+#EXTINF:-1,Sky Sports Main Event
+http://212.8.242.102:25461/live/ahmed/ahmed/4784.ts
+#EXTINF:-1,Sky Sports MIX
+http://212.8.242.102:25461/live/ahmed/ahmed/4782.ts
+#EXTINF:-1,Sky Sports Cricket
+http://212.8.242.102:25461/live/ahmed/ahmed/4781.ts
+#EXTINF:-1,Bt Sport Extra1
+http://212.8.242.102:25461/live/ahmed/ahmed/4746.ts
+#EXTINF:-1,Sky Sports Golf
+http://212.8.242.102:25461/live/ahmed/ahmed/4780.ts
+#EXTINF:-1,BT Sports 1
+http://212.8.242.102:25461/live/ahmed/ahmed/4777.ts
+#EXTINF:-1,BT Sports 2
+http://212.8.242.102:25461/live/ahmed/ahmed/4776.ts
+#EXTINF:-1,BT Sports 3
+http://212.8.242.102:25461/live/ahmed/ahmed/4775.ts
+#EXTINF:-1,BT Sport Extra_2
+http://212.8.242.102:25461/live/ahmed/ahmed/4745.ts
+#EXTINF:-1,BT Sport Extra 3
+http://212.8.242.102:25461/live/ahmed/ahmed/4744.ts
+#EXTINF:-1,BT Sport Extra 4
+http://212.8.242.102:25461/live/ahmed/ahmed/4743.ts
+#EXTINF:-1,BT Sport ESPN
+http://212.8.242.102:25461/live/ahmed/ahmed/4742.ts
+#EXTINF:-1,BT Sports ESPN
+http://212.8.242.102:25461/live/ahmed/ahmed/4774.ts
+#EXTINF:-1,Racing
+http://212.8.242.102:25461/live/ahmed/ahmed/4764.ts
+#EXTINF:-1,Chelsea TV
+http://212.8.242.102:25461/live/ahmed/ahmed/4768.ts
+#EXTINF:-1,Eden
+http://212.8.242.102:25461/live/ahmed/ahmed/4833.ts
+#EXTINF:-1,Horse and Country
+http://212.8.242.102:25461/live/ahmed/ahmed/4760.ts
+#EXTINF:-1,Motorsport TV
+http://212.8.242.102:25461/live/ahmed/ahmed/4762.ts
+
 #EXTINF:-1,US: ABC News HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/873.ts
-#EXTINF:-1,US: ESPN
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/872.ts
-#EXTINF:-1,US: ESPN 2 HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5386.ts
-#EXTINF:-1,US: WWE HD
-http://client-proiptv.com:8080/live/arminbhcardteam/5vfBIFvn7p/5184.ts
-
-#EXTINF:-1,USA: ABC Atlanta
-http://147.135.128.132:8000/live/lescobar/lescobar/8614.ts
-#EXTINF:-1,USA: ABC Baltimore
-http://147.135.128.132:8000/live/lescobar/lescobar/8599.ts
-#EXTINF:-1,USA: ABC Boston
-http://147.135.128.132:8000/live/lescobar/lescobar/823.ts
-#EXTINF:-1,USA: ABC Charlotte
-http://147.135.128.132:8000/live/lescobar/lescobar/8605.ts
-#EXTINF:-1,USA: ABC Chicago
-http://147.135.128.132:8000/live/lescobar/lescobar/8620.ts
-#EXTINF:-1,USA: ABC Cleveland
-http://147.135.128.132:8000/live/lescobar/lescobar/8603.ts
-#EXTINF:-1,USA: ABC Connecticut
-http://147.135.128.132:8000/live/lescobar/lescobar/8616.ts
-#EXTINF:-1,USA: ABC Dallas
-http://147.135.128.132:8000/live/lescobar/lescobar/824.ts
-#EXTINF:-1,USA: ABC Denver
-http://147.135.128.132:8000/live/lescobar/lescobar/8609.ts
-#EXTINF:-1,USA: ABC Detroit
-http://147.135.128.132:8000/live/lescobar/lescobar/8613.ts
-#EXTINF:-1,USA: ABC Durham
-http://147.135.128.132:8000/live/lescobar/lescobar/8619.ts
-#EXTINF:-1,USA: ABC Fresno
-http://147.135.128.132:8000/live/lescobar/lescobar/8617.ts
-#EXTINF:-1,USA: ABC Houston
-http://147.135.128.132:8000/live/lescobar/lescobar/8618.ts
-#EXTINF:-1,USA: ABC Indianapolis
-http://147.135.128.132:8000/live/lescobar/lescobar/8602.ts
-#EXTINF:-1,USA: ABC Kansascity
-http://147.135.128.132:8000/live/lescobar/lescobar/8594.ts
-#EXTINF:-1,USA: ABC Los Angeles
-http://147.135.128.132:8000/live/lescobar/lescobar/817.ts
-#EXTINF:-1,USA: ABC Manchester
-http://147.135.128.132:8000/live/lescobar/lescobar/8612.ts
-#EXTINF:-1,USA: ABC Miami
-http://147.135.128.132:8000/live/lescobar/lescobar/8606.ts
-#EXTINF:-1,USA: ABC Milwaukee
-http://147.135.128.132:8000/live/lescobar/lescobar/8593.ts
-#EXTINF:-1,USA: ABC Nashville
-http://147.135.128.132:8000/live/lescobar/lescobar/8607.ts
-#EXTINF:-1,USA: ABC New York
-http://147.135.128.132:8000/live/lescobar/lescobar/8621.ts
-#EXTINF:-1,USA: ABC NEWS HD
-http://147.135.128.132:8000/live/lescobar/lescobar/1516.ts
-#EXTINF:-1,USA: ABC Orlando
-http://147.135.128.132:8000/live/lescobar/lescobar/827.ts
-#EXTINF:-1,USA: ABC Philadelphia
-http://147.135.128.132:8000/live/lescobar/lescobar/8622.ts
-#EXTINF:-1,USA: ABC Phoenix
-http://147.135.128.132:8000/live/lescobar/lescobar/8601.ts
-#EXTINF:-1,USA: ABC Pittsburgh
-http://147.135.128.132:8000/live/lescobar/lescobar/8611.ts
-#EXTINF:-1,USA: ABC Portland
-http://147.135.128.132:8000/live/lescobar/lescobar/8610.ts
-#EXTINF:-1,USA: ABC Sacramento
-http://147.135.128.132:8000/live/lescobar/lescobar/8604.ts
-#EXTINF:-1,USA: ABC Saintpaul
-http://147.135.128.132:8000/live/lescobar/lescobar/8598.ts
-#EXTINF:-1,USA: ABC Saltlakecity
-http://147.135.128.132:8000/live/lescobar/lescobar/8596.ts
-#EXTINF:-1,USA: ABC San Diego
-http://147.135.128.132:8000/live/lescobar/lescobar/8608.ts
-#EXTINF:-1,USA: ABC San Francisco
-http://147.135.128.132:8000/live/lescobar/lescobar/818.ts
-#EXTINF:-1,USA: ABC Sanantonio
-http://147.135.128.132:8000/live/lescobar/lescobar/8595.ts
-#EXTINF:-1,USA: ABC Seattle
-http://147.135.128.132:8000/live/lescobar/lescobar/825.ts
-#EXTINF:-1,USA: ABC Stlouis
-http://147.135.128.132:8000/live/lescobar/lescobar/8597.ts
-#EXTINF:-1,USA: ABC Tampabay
-http://147.135.128.132:8000/live/lescobar/lescobar/8600.ts
-#EXTINF:-1,USA: ABC Washington
-http://147.135.128.132:8000/live/lescobar/lescobar/8615.ts
-#EXTINF:-1,USA: Cbs Atlanta
-http://147.135.128.132:8000/live/lescobar/lescobar/8818.ts
-#EXTINF:-1,USA: CBS Baltimore
-http://147.135.128.132:8000/live/lescobar/lescobar/8756.ts
-#EXTINF:-1,USA: CBS Boston
-http://147.135.128.132:8000/live/lescobar/lescobar/8755.ts
-#EXTINF:-1,USA: CBS Charlotte
-http://147.135.128.132:8000/live/lescobar/lescobar/8754.ts
-#EXTINF:-1,USA: CBS Chicago
-http://147.135.128.132:8000/live/lescobar/lescobar/8753.ts
-#EXTINF:-1,USA: CBS Cleveland
-http://147.135.128.132:8000/live/lescobar/lescobar/8752.ts
-#EXTINF:-1,USA: CBS Columbus
-http://147.135.128.132:8000/live/lescobar/lescobar/8751.ts
-#EXTINF:-1,USA: CBS Dallas
-http://147.135.128.132:8000/live/lescobar/lescobar/8750.ts
-#EXTINF:-1,USA: CBS Denver
-http://147.135.128.132:8000/live/lescobar/lescobar/8749.ts
-#EXTINF:-1,USA: CBS Detroit
-http://147.135.128.132:8000/live/lescobar/lescobar/8748.ts
-#EXTINF:-1,USA: CBS Greensboro
-http://147.135.128.132:8000/live/lescobar/lescobar/8747.ts
-#EXTINF:-1,USA: CBS Hartford
-http://147.135.128.132:8000/live/lescobar/lescobar/8746.ts
-#EXTINF:-1,USA: CBS Houston
-http://147.135.128.132:8000/live/lescobar/lescobar/8745.ts
-#EXTINF:-1,USA: CBS Jacksonville
-http://147.135.128.132:8000/live/lescobar/lescobar/8744.ts
-#EXTINF:-1,USA: CBS Kansas City
-http://147.135.128.132:8000/live/lescobar/lescobar/8743.ts
-#EXTINF:-1,USA: CBS Los Angeles
-http://147.135.128.132:8000/live/lescobar/lescobar/828.ts
-#EXTINF:-1,USA: CBS Miami
-http://147.135.128.132:8000/live/lescobar/lescobar/8742.ts
-#EXTINF:-1,USA: CBS Milwaukee
-http://147.135.128.132:8000/live/lescobar/lescobar/8740.ts
-#EXTINF:-1,USA: CBS Minneapolis
-http://147.135.128.132:8000/live/lescobar/lescobar/8741.ts
-#EXTINF:-1,USA: CBS Nashville
-http://147.135.128.132:8000/live/lescobar/lescobar/8739.ts
-#EXTINF:-1,USA: CBS New Orleans
-http://147.135.128.132:8000/live/lescobar/lescobar/8738.ts
-#EXTINF:-1,USA: CBS New York
-http://147.135.128.132:8000/live/lescobar/lescobar/8737.ts
-#EXTINF:-1,USA: CBS Orlando
-http://147.135.128.132:8000/live/lescobar/lescobar/8736.ts
-#EXTINF:-1,USA: CBS Philadelphia
-http://147.135.128.132:8000/live/lescobar/lescobar/8735.ts
-#EXTINF:-1,USA: CBS Phoenix
-http://147.135.128.132:8000/live/lescobar/lescobar/8734.ts
-#EXTINF:-1,USA: CBS Pittsburgh
-http://147.135.128.132:8000/live/lescobar/lescobar/8733.ts
-#EXTINF:-1,USA: CBS Sacramento
-http://147.135.128.132:8000/live/lescobar/lescobar/8732.ts
-#EXTINF:-1,USA: CBS San Antonio
-http://147.135.128.132:8000/live/lescobar/lescobar/8731.ts
-#EXTINF:-1,USA: CBS San Diego
-http://147.135.128.132:8000/live/lescobar/lescobar/8730.ts
-#EXTINF:-1,USA: CBS San Francisco
-http://147.135.128.132:8000/live/lescobar/lescobar/8729.ts
-#EXTINF:-1,USA: CBS Seattle
-http://147.135.128.132:8000/live/lescobar/lescobar/8728.ts
-#EXTINF:-1,USA: CBS Sports
-http://147.135.128.132:8000/live/lescobar/lescobar/8794.ts
-#EXTINF:-1,USA: CBS Stlouis
-http://147.135.128.132:8000/live/lescobar/lescobar/8727.ts
-#EXTINF:-1,USA: CBS Tampast
-http://147.135.128.132:8000/live/lescobar/lescobar/8726.ts
-#EXTINF:-1,USA: CBS Washington
-http://147.135.128.132:8000/live/lescobar/lescobar/8725.ts
-#EXTINF:-1,USA: FOX
-http://147.135.128.132:8000/live/lescobar/lescobar/8713.ts
-#EXTINF:-1,USA: FOX Atlanta
-http://147.135.128.132:8000/live/lescobar/lescobar/8723.ts
-#EXTINF:-1,USA: FOX Austin
-http://147.135.128.132:8000/live/lescobar/lescobar/8722.ts
-#EXTINF:-1,USA: FOX Baltimore
-http://147.135.128.132:8000/live/lescobar/lescobar/8721.ts
-#EXTINF:-1,USA: FOX Belmont
-http://147.135.128.132:8000/live/lescobar/lescobar/8720.ts
-#EXTINF:-1,USA: FOX Boston
-http://147.135.128.132:8000/live/lescobar/lescobar/8719.ts
-#EXTINF:-1,USA: FOX Buffalo
-http://147.135.128.132:8000/live/lescobar/lescobar/8718.ts
-#EXTINF:-1,USA: Fox Business Network
-http://147.135.128.132:8000/live/lescobar/lescobar/8773.ts
-#EXTINF:-1,USA: FOX Chicago
-http://147.135.128.132:8000/live/lescobar/lescobar/8717.ts
-#EXTINF:-1,USA: FOX Cleveland
-http://147.135.128.132:8000/live/lescobar/lescobar/8716.ts
-#EXTINF:-1,USA: Fox College Sport Central
-http://147.135.128.132:8000/live/lescobar/lescobar/8814.ts
-#EXTINF:-1,USA: Fox College Sports Atlantic
-http://147.135.128.132:8000/live/lescobar/lescobar/8784.ts
-#EXTINF:-1,USA: Fox College Sports Pacific
-http://147.135.128.132:8000/live/lescobar/lescobar/8783.ts
-#EXTINF:-1,USA: FOX Columbus
-http://147.135.128.132:8000/live/lescobar/lescobar/8715.ts
-#EXTINF:-1,USA: FOX Dallas
-http://147.135.128.132:8000/live/lescobar/lescobar/829.ts
-#EXTINF:-1,USA: FOX Denver
-http://147.135.128.132:8000/live/lescobar/lescobar/8714.ts
-#EXTINF:-1,USA: Fox Deportes
-http://147.135.128.132:8000/live/lescobar/lescobar/8767.ts
-#EXTINF:-1,USA: FOX Detroit
-http://147.135.128.132:8000/live/lescobar/lescobar/830.ts
-#EXTINF:-1,USA: FOX Greeb Bay
-http://147.135.128.132:8000/live/lescobar/lescobar/8712.ts
-#EXTINF:-1,USA: FOX Hartfort
-http://147.135.128.132:8000/live/lescobar/lescobar/8711.ts
-#EXTINF:-1,USA: FOX Houston
-http://147.135.128.132:8000/live/lescobar/lescobar/8710.ts
-#EXTINF:-1,USA: FOX Indianapolis
-http://147.135.128.132:8000/live/lescobar/lescobar/8709.ts
-#EXTINF:-1,USA: FOX Jacksonville
-http://147.135.128.132:8000/live/lescobar/lescobar/8708.ts
-#EXTINF:-1,USA: FOX Kansas-city
-http://147.135.128.132:8000/live/lescobar/lescobar/8707.ts
-#EXTINF:-1,USA: FOX Los Angeles
-http://147.135.128.132:8000/live/lescobar/lescobar/833.ts
-#EXTINF:-1,USA: FOX Miami
-http://147.135.128.132:8000/live/lescobar/lescobar/834.ts
-#EXTINF:-1,USA: FOX Milwaukee
-http://147.135.128.132:8000/live/lescobar/lescobar/8706.ts
-#EXTINF:-1,USA: FOX Minneapolis
-http://147.135.128.132:8000/live/lescobar/lescobar/8705.ts
-#EXTINF:-1,USA: FOX Nashville
-http://147.135.128.132:8000/live/lescobar/lescobar/8704.ts
-#EXTINF:-1,USA: Fox Natgeo Pacific
-http://147.135.128.132:8000/live/lescobar/lescobar/8765.ts
-#EXTINF:-1,USA: FOX New Orleans
-http://147.135.128.132:8000/live/lescobar/lescobar/8703.ts
-#EXTINF:-1,USA: FOX New York
-http://147.135.128.132:8000/live/lescobar/lescobar/8702.ts
-#EXTINF:-1,USA: FOX NEWS
-http://147.135.128.132:8000/live/lescobar/lescobar/1607.ts
-#EXTINF:-1,USA: Fox News Channel
-http://147.135.128.132:8000/live/lescobar/lescobar/8772.ts
-#EXTINF:-1,USA: FOX Ocala
-http://147.135.128.132:8000/live/lescobar/lescobar/8701.ts
-#EXTINF:-1,USA: FOX Orlando
-http://147.135.128.132:8000/live/lescobar/lescobar/8700.ts
-#EXTINF:-1,USA: FOX Philadelphia
-http://147.135.128.132:8000/live/lescobar/lescobar/8699.ts
-#EXTINF:-1,USA: FOX Phoenix
-http://147.135.128.132:8000/live/lescobar/lescobar/8698.ts
-#EXTINF:-1,USA: FOX Pittsburgh
-http://147.135.128.132:8000/live/lescobar/lescobar/835.ts
-#EXTINF:-1,USA: FOX Sacramento
-http://147.135.128.132:8000/live/lescobar/lescobar/8696.ts
-#EXTINF:-1,USA: FOX Salt Lake City
-http://147.135.128.132:8000/live/lescobar/lescobar/8695.ts
-#EXTINF:-1,USA: FOX San Antonio
-http://147.135.128.132:8000/live/lescobar/lescobar/8694.ts
-#EXTINF:-1,USA: FOX San Diego
-http://147.135.128.132:8000/live/lescobar/lescobar/8693.ts
-#EXTINF:-1,USA: FOX San Francisco
-http://147.135.128.132:8000/live/lescobar/lescobar/8692.ts
-#EXTINF:-1,USA: FOX Seattle
-http://147.135.128.132:8000/live/lescobar/lescobar/8691.ts
-#EXTINF:-1,USA: FOX Stlouis
-http://147.135.128.132:8000/live/lescobar/lescobar/8690.ts
-#EXTINF:-1,USA: FOX Tampa
-http://147.135.128.132:8000/live/lescobar/lescobar/8689.ts
-#EXTINF:-1,USA: FOX Washington
-http://147.135.128.132:8000/live/lescobar/lescobar/8688.ts
-#EXTINF:-1,USA: NBC Altimore
-http://147.135.128.132:8000/live/lescobar/lescobar/8686.ts
-#EXTINF:-1,USA: NBC Atlanta
-http://147.135.128.132:8000/live/lescobar/lescobar/8687.ts
-#EXTINF:-1,USA: NBC Boston
-http://147.135.128.132:8000/live/lescobar/lescobar/8685.ts
-#EXTINF:-1,USA: NBC Buffalo
-http://147.135.128.132:8000/live/lescobar/lescobar/8684.ts
-#EXTINF:-1,USA: NBC Charlotte
-http://147.135.128.132:8000/live/lescobar/lescobar/8683.ts
-#EXTINF:-1,USA: NBC Chicago
-http://147.135.128.132:8000/live/lescobar/lescobar/8682.ts
-#EXTINF:-1,USA: NBC Cincinnati
-http://147.135.128.132:8000/live/lescobar/lescobar/8681.ts
-#EXTINF:-1,USA: NBC Cleveland
-http://147.135.128.132:8000/live/lescobar/lescobar/8680.ts
-#EXTINF:-1,USA: NBC Dallas
-http://147.135.128.132:8000/live/lescobar/lescobar/8679.ts
-#EXTINF:-1,USA: NBC Denver
-http://147.135.128.132:8000/live/lescobar/lescobar/8678.ts
-#EXTINF:-1,USA: NBC Detroit
-http://147.135.128.132:8000/live/lescobar/lescobar/8677.ts
-#EXTINF:-1,USA: NBC Green Bay
-http://147.135.128.132:8000/live/lescobar/lescobar/8676.ts
-#EXTINF:-1,USA: NBC Hartfort
-http://147.135.128.132:8000/live/lescobar/lescobar/8675.ts
-#EXTINF:-1,USA: NBC Houston
-http://147.135.128.132:8000/live/lescobar/lescobar/8674.ts
-#EXTINF:-1,USA: NBC Indianapolis
-http://147.135.128.132:8000/live/lescobar/lescobar/8673.ts
-#EXTINF:-1,USA: NBC Jacksonville
-http://147.135.128.132:8000/live/lescobar/lescobar/8672.ts
-#EXTINF:-1,USA: NBC Kansas City
-http://147.135.128.132:8000/live/lescobar/lescobar/8671.ts
-#EXTINF:-1,USA: NBC Los Angeles
-http://147.135.128.132:8000/live/lescobar/lescobar/8670.ts
-#EXTINF:-1,USA: NBC Miami
-http://147.135.128.132:8000/live/lescobar/lescobar/8669.ts
-#EXTINF:-1,USA: NBC Milwaukee
-http://147.135.128.132:8000/live/lescobar/lescobar/8668.ts
-#EXTINF:-1,USA: NBC Minneapolis
-http://147.135.128.132:8000/live/lescobar/lescobar/8667.ts
-#EXTINF:-1,USA: NBC Nashville
-http://147.135.128.132:8000/live/lescobar/lescobar/8666.ts
-#EXTINF:-1,USA: NBC New Orleans
-http://147.135.128.132:8000/live/lescobar/lescobar/8665.ts
-#EXTINF:-1,USA: NBC New York
-http://147.135.128.132:8000/live/lescobar/lescobar/8664.ts
-#EXTINF:-1,USA: NBC Orlando
-http://147.135.128.132:8000/live/lescobar/lescobar/8663.ts
-#EXTINF:-1,USA: NBC Philadelphia
-http://147.135.128.132:8000/live/lescobar/lescobar/8662.ts
-#EXTINF:-1,USA: NBC Phoenix
-http://147.135.128.132:8000/live/lescobar/lescobar/8661.ts
-#EXTINF:-1,USA: NBC Pittsburgh
-http://147.135.128.132:8000/live/lescobar/lescobar/8660.ts
-#EXTINF:-1,USA: NBC Portland
-http://147.135.128.132:8000/live/lescobar/lescobar/8659.ts
-#EXTINF:-1,USA: NBC Raleigh
-http://147.135.128.132:8000/live/lescobar/lescobar/8658.ts
-#EXTINF:-1,USA: NBC Sacramento
-http://147.135.128.132:8000/live/lescobar/lescobar/8657.ts
-#EXTINF:-1,USA: NBC Salt Lake City
-http://147.135.128.132:8000/live/lescobar/lescobar/8656.ts
-#EXTINF:-1,USA: NBC San Diego
-http://147.135.128.132:8000/live/lescobar/lescobar/8655.ts
-#EXTINF:-1,USA: NBC San Francisco
-http://147.135.128.132:8000/live/lescobar/lescobar/8654.ts
-#EXTINF:-1,USA: NBC Seattle
-http://147.135.128.132:8000/live/lescobar/lescobar/8653.ts
-#EXTINF:-1,USA: NBC Sports Bay Area
-http://147.135.128.132:8000/live/lescobar/lescobar/8780.ts
-#EXTINF:-1,USA: NBC Stlouis
-http://147.135.128.132:8000/live/lescobar/lescobar/8652.ts
-#EXTINF:-1,USA: NBC Telemundo
-http://147.135.128.132:8000/live/lescobar/lescobar/8764.ts
-#EXTINF:-1,USA: NBC UNIVERSO HD
-http://147.135.128.132:8000/live/lescobar/lescobar/725.ts
-#EXTINF:-1,USA: NBC Washington
-http://147.135.128.132:8000/live/lescobar/lescobar/8651.ts
-#EXTINF:-1,USA: Telemundo Boston
-http://147.135.128.132:8000/live/lescobar/lescobar/8650.ts
-#EXTINF:-1,USA: Telemundo Chicago
-http://147.135.128.132:8000/live/lescobar/lescobar/8823.ts
-#EXTINF:-1,USA: Telemundo Dallas
-http://147.135.128.132:8000/live/lescobar/lescobar/8649.ts
-#EXTINF:-1,USA: Telemundo Denver
-http://147.135.128.132:8000/live/lescobar/lescobar/8648.ts
-#EXTINF:-1,USA: Telemundo Fresno
-http://147.135.128.132:8000/live/lescobar/lescobar/805.ts
-#EXTINF:-1,USA: Telemundo Harlingen
-http://147.135.128.132:8000/live/lescobar/lescobar/8647.ts
-#EXTINF:-1,USA: Telemundo Houston
-http://147.135.128.132:8000/live/lescobar/lescobar/8646.ts
-#EXTINF:-1,USA: Telemundo las Vegas
-http://147.135.128.132:8000/live/lescobar/lescobar/806.ts
-#EXTINF:-1,USA: Telemundo Los Angeles
-http://147.135.128.132:8000/live/lescobar/lescobar/807.ts
-#EXTINF:-1,USA: Telemundo Miami
-http://147.135.128.132:8000/live/lescobar/lescobar/808.ts
-#EXTINF:-1,USA: Telemundo New York
-http://147.135.128.132:8000/live/lescobar/lescobar/809.ts
-#EXTINF:-1,USA: Telemundo Philadelphia
-http://147.135.128.132:8000/live/lescobar/lescobar/810.ts
-#EXTINF:-1,USA: Telemundo Phoenix
-http://147.135.128.132:8000/live/lescobar/lescobar/811.ts
-#EXTINF:-1,USA: Telemundo San Antonio
-http://147.135.128.132:8000/live/lescobar/lescobar/813.ts
-#EXTINF:-1,USA: Telemundo San Francisco
-http://147.135.128.132:8000/live/lescobar/lescobar/814.ts
-#EXTINF:-1,USA: Telemundo Tucson
-http://147.135.128.132:8000/live/lescobar/lescobar/815.ts
-#EXTINF:-1,USA: Amc
-http://147.135.128.132:8000/live/lescobar/lescobar/8817.ts
-#EXTINF:-1,USA: Cinemax East
-http://147.135.128.132:8000/live/lescobar/lescobar/8793.ts
-#EXTINF:-1,USA: Cinemax West
-http://147.135.128.132:8000/live/lescobar/lescobar/8792.ts
-#EXTINF:-1,USA: E
-http://147.135.128.132:8000/live/lescobar/lescobar/8777.ts
-#EXTINF:-1,USA: FX
-http://147.135.128.132:8000/live/lescobar/lescobar/8770.ts
-#EXTINF:-1,USA: FXM
-http://147.135.128.132:8000/live/lescobar/lescobar/8769.ts
-#EXTINF:-1,USA: Hallmark Channel
-http://147.135.128.132:8000/live/lescobar/lescobar/8828.ts
-#EXTINF:-1,USA: Hallmark Movies
-http://147.135.128.132:8000/live/lescobar/lescobar/8827.ts
-#EXTINF:-1,USA: HBO
-http://147.135.128.132:8000/live/lescobar/lescobar/8757.ts
-#EXTINF:-1,USA: Hbo Pacific
-http://147.135.128.132:8000/live/lescobar/lescobar/8821.ts
-#EXTINF:-1,USA: HBO ZONE HD
-http://147.135.128.132:8000/live/lescobar/lescobar/708.ts
-#EXTINF:-1,USA: Showtime Eeast
-http://147.135.128.132:8000/live/lescobar/lescobar/8830.ts
-#EXTINF:-1,USA: Showtime Pacific
-http://147.135.128.132:8000/live/lescobar/lescobar/8831.ts
-#EXTINF:-1,USA: SKY MOVIES ACTION HD
-http://147.135.128.132:8000/live/lescobar/lescobar/737.ts
-#EXTINF:-1,USA: SKY MOVIES COMEDY FHD
-http://147.135.128.132:8000/live/lescobar/lescobar/738.ts
-#EXTINF:-1,USA: SKY MOVIES SELECT HD
-http://147.135.128.132:8000/live/lescobar/lescobar/742.ts
-#EXTINF:-1,USA: Sony Movie Channel
-http://147.135.128.132:8000/live/lescobar/lescobar/8803.ts
-#EXTINF:-1,USA: STARZ EDGE HD
-http://147.135.128.132:8000/live/lescobar/lescobar/728.ts
-#EXTINF:-1,USA: SUNDANCE
-http://147.135.128.132:8000/live/lescobar/lescobar/8804.ts
-#EXTINF:-1,USA: SYFY Pacific
-http://147.135.128.132:8000/live/lescobar/lescobar/8805.ts
-#EXTINF:-1,USA: TBS Pacific
-http://147.135.128.132:8000/live/lescobar/lescobar/8807.ts
-#EXTINF:-1,USA: TCM
-http://147.135.128.132:8000/live/lescobar/lescobar/8811.ts
-#EXTINF:-1,USA: TLC Pacific
-http://147.135.128.132:8000/live/lescobar/lescobar/8808.ts
-#EXTINF:-1,USA: TNT FHD
-http://147.135.128.132:8000/live/lescobar/lescobar/582.ts
-#EXTINF:-1,USA: TNT Pacific
-http://147.135.128.132:8000/live/lescobar/lescobar/8806.ts
-#EXTINF:-1,USA:Tru tv
-http://147.135.128.132:8000/live/lescobar/lescobar/8813.ts
-#EXTINF:-1,USA: BEIN 3
-http://147.135.128.132:8000/live/lescobar/lescobar/7788.ts
-#EXTINF:-1,USA: BEIN 4
-http://147.135.128.132:8000/live/lescobar/lescobar/7787.ts
-#EXTINF:-1,USA: BEIN 5
-http://147.135.128.132:8000/live/lescobar/lescobar/7786.ts
-#EXTINF:-1,USA: BEIN 6
-http://147.135.128.132:8000/live/lescobar/lescobar/7785.ts
-#EXTINF:-1,USA: BEIN 7
-http://147.135.128.132:8000/live/lescobar/lescobar/7784.ts
-#EXTINF:-1,USA: BEIN 8
-http://147.135.128.132:8000/live/lescobar/lescobar/7783.ts
-#EXTINF:-1,USA: BEIN 9
-http://147.135.128.132:8000/live/lescobar/lescobar/7782.ts
-#EXTINF:-1,USA: BEIN 10
-http://147.135.128.132:8000/live/lescobar/lescobar/7790.ts
-#EXTINF:-1,USA: Bein Sports English
-http://147.135.128.132:8000/live/lescobar/lescobar/7833.ts
-#EXTINF:-1,USA: BEIN SPORTS  HD
-http://147.135.128.132:8000/live/lescobar/lescobar/170.ts
-#EXTINF:-1,USA: BOX NATION
-http://147.135.128.132:8000/live/lescobar/lescobar/369.ts
-#EXTINF:-1,USA: Eleven Sports
-http://147.135.128.132:8000/live/lescobar/lescobar/7824.ts
-#EXTINF:-1,USA: Eleven Sports Network
-http://147.135.128.132:8000/live/lescobar/lescobar/8776.ts
-#EXTINF:-1,USA: ESPN
-http://147.135.128.132:8000/live/lescobar/lescobar/8781.ts
-#EXTINF:-1,USA: ESPN HD
-http://147.135.128.132:8000/live/lescobar/lescobar/585.ts
-#EXTINF:-1,USA: ESPN2
-http://147.135.128.132:8000/live/lescobar/lescobar/8782.ts
-#EXTINF:-1,USA: ESPN 2 HD
-http://147.135.128.132:8000/live/lescobar/lescobar/587.ts
-#EXTINF:-1,USA: ESPN Bases Loaded
-http://147.135.128.132:8000/live/lescobar/lescobar/8775.ts
-#EXTINF:-1,USA: ESPN Classic
-http://147.135.128.132:8000/live/lescobar/lescobar/8774.ts
-#EXTINF:-1,USA: Espn Deportes
-http://147.135.128.132:8000/live/lescobar/lescobar/8820.ts
-#EXTINF:-1,USA: Espn News
-http://147.135.128.132:8000/live/lescobar/lescobar/8815.ts
-#EXTINF:-1,USA: ESPN U
-http://147.135.128.132:8000/live/lescobar/lescobar/845.ts
-#EXTINF:-1,USA: EUROSPORT FHD
-http://147.135.128.132:8000/live/lescobar/lescobar/1505.ts
-#EXTINF:-1,USA: FIGHT SPORT
-http://147.135.128.132:8000/live/lescobar/lescobar/1033.ts
-#EXTINF:-1,USA: FOX Collage Sports Atlantic
-http://147.135.128.132:8000/live/lescobar/lescobar/7761.ts
-#EXTINF:-1,USA: FOX Collage Sports Central
-http://147.135.128.132:8000/live/lescobar/lescobar/7760.ts
-#EXTINF:-1,USA: FOX Collage Sports Pacific
-http://147.135.128.132:8000/live/lescobar/lescobar/7759.ts
-#EXTINF:-1,USA: Fox Soccer Plus
-http://147.135.128.132:8000/live/lescobar/lescobar/7818.ts
-#EXTINF:-1,USA: FOX SPORT 1 FHD
-http://147.135.128.132:8000/live/lescobar/lescobar/775.ts
-#EXTINF:-1,USA: FOX SPORT 2
-http://147.135.128.132:8000/live/lescobar/lescobar/774.ts
-#EXTINF:-1,USA: FOX Sports Arizona
-http://147.135.128.132:8000/live/lescobar/lescobar/7767.ts
-#EXTINF:-1,USA: FOX Sports Arizona 2
-http://147.135.128.132:8000/live/lescobar/lescobar/7863.ts
-#EXTINF:-1,USA: FOX Sports Carolinas
-http://147.135.128.132:8000/live/lescobar/lescobar/7862.ts
-#EXTINF:-1,USA: FOX Sports Detroit
-http://147.135.128.132:8000/live/lescobar/lescobar/7758.ts
-#EXTINF:-1,USA: FOX Sports Florida
-http://147.135.128.132:8000/live/lescobar/lescobar/7757.ts
-#EXTINF:-1,USA: FOX Sports Midwest
-http://147.135.128.132:8000/live/lescobar/lescobar/7861.ts
-#EXTINF:-1,USA: FOX Sports New Orleans
-http://147.135.128.132:8000/live/lescobar/lescobar/7860.ts
-#EXTINF:-1,USA: FOX Sports North
-http://147.135.128.132:8000/live/lescobar/lescobar/7859.ts
-#EXTINF:-1,USA: FOX Sports North Plus
-http://147.135.128.132:8000/live/lescobar/lescobar/7858.ts
-#EXTINF:-1,USA: FOX Sports Ohio
-http://147.135.128.132:8000/live/lescobar/lescobar/7857.ts
-#EXTINF:-1,USA: FOX Sports Oklahoma
-http://147.135.128.132:8000/live/lescobar/lescobar/7856.ts
-#EXTINF:-1,USA: Fox Sports Prime Ticket
-http://147.135.128.132:8000/live/lescobar/lescobar/8628.ts
-#EXTINF:-1,USA: Fox Sports Prime Ticket HD
-http://147.135.128.132:8000/live/lescobar/lescobar/7756.ts
-#EXTINF:-1,USA: Fox Sports-S
-http://147.135.128.132:8000/live/lescobar/lescobar/8624.ts
-#EXTINF:-1,USA: Fox Sports San Diego
-http://147.135.128.132:8000/live/lescobar/lescobar/7797.ts
-#EXTINF:-1,USA: FOX Sports Southeast
-http://147.135.128.132:8000/live/lescobar/lescobar/7855.ts
-#EXTINF:-1,USA: FOX Sports SouthWest
-http://147.135.128.132:8000/live/lescobar/lescobar/7755.ts
-#EXTINF:-1,USA: FOX Sports SouthWest Plus
-http://147.135.128.132:8000/live/lescobar/lescobar/7754.ts
-#EXTINF:-1,USA: FOX Sports SUN
-http://147.135.128.132:8000/live/lescobar/lescobar/7753.ts
-#EXTINF:-1,USA: Fox Sports West
-http://147.135.128.132:8000/live/lescobar/lescobar/8625.ts
-#EXTINF:-1,USA: Fox Sports West 2
-http://147.135.128.132:8000/live/lescobar/lescobar/7796.ts
-#EXTINF:-1,USA: FOX Sports Wisconsin
-http://147.135.128.132:8000/live/lescobar/lescobar/7854.ts
-#EXTINF:-1,USA: FOX Sports Wisconsin Plus
-http://147.135.128.132:8000/live/lescobar/lescobar/7853.ts
-#EXTINF:-1,USA: FOX Sports West HD
-http://147.135.128.132:8000/live/lescobar/lescobar/7752.ts
-#EXTINF:-1,USA: FS1
-http://147.135.128.132:8000/live/lescobar/lescobar/8627.ts
-#EXTINF:-1,USA: FS1 HD
-http://147.135.128.132:8000/live/lescobar/lescobar/7817.ts
-#EXTINF:-1,USA: FS2
-http://147.135.128.132:8000/live/lescobar/lescobar/8626.ts
-#EXTINF:-1,USA: FS2 HD
-http://147.135.128.132:8000/live/lescobar/lescobar/7816.ts
-#EXTINF:-1,USA: Ginx Esports-tv
-http://147.135.128.132:8000/live/lescobar/lescobar/8766.ts
-#EXTINF:-1,USA: Gol TV English
-http://147.135.128.132:8000/live/lescobar/lescobar/7810.ts
-#EXTINF:-1,USA: MLB HD
-http://147.135.128.132:8000/live/lescobar/lescobar/836.ts
-#EXTINF:-1,USA: MLB NETWORK
-http://147.135.128.132:8000/live/lescobar/lescobar/783.ts
-#EXTINF:-1,USA: MLB Network Alternate
-http://147.135.128.132:8000/live/lescobar/lescobar/8630.ts
-#EXTINF:-1,USA: MLB Strike One
-http://147.135.128.132:8000/live/lescobar/lescobar/8629.ts
-#EXTINF:-1,USA: NBA TV HD
-http://147.135.128.132:8000/live/lescobar/lescobar/594.ts
-#EXTINF:-1,USA: NBC Sports Bay Area HD
-http://147.135.128.132:8000/live/lescobar/lescobar/7744.ts
-#EXTINF:-1,USA: NBC Sports Boston
-http://147.135.128.132:8000/live/lescobar/lescobar/7737.ts
-#EXTINF:-1,USA: NBC Sports California
-http://147.135.128.132:8000/live/lescobar/lescobar/7743.ts
-#EXTINF:-1,USA: NBC Sports Chicago
-http://147.135.128.132:8000/live/lescobar/lescobar/7736.ts
-#EXTINF:-1,USA: NBC SPORT CHICAGO PLUS
-http://147.135.128.132:8000/live/lescobar/lescobar/7865.ts
-#EXTINF:-1,USA: NBC Sports Northwest
-http://147.135.128.132:8000/live/lescobar/lescobar/7735.ts
-#EXTINF:-1,USA: NBC Sports Philadelphia
-http://147.135.128.132:8000/live/lescobar/lescobar/7734.ts
-#EXTINF:-1,USA: NBC Sports Washington
-http://147.135.128.132:8000/live/lescobar/lescobar/7742.ts
-#EXTINF:-1,USA: NFL Network
-http://147.135.128.132:8000/live/lescobar/lescobar/7781.ts
-#EXTINF:-1,USA: NFL NETWORK HD
-http://147.135.128.132:8000/live/lescobar/lescobar/592.ts
-#EXTINF:-1,USA: PAC 12 Arizona
-http://147.135.128.132:8000/live/lescobar/lescobar/7751.ts
-#EXTINF:-1,USA: PAC-12 Net. (Arizona) FHD
-http://147.135.128.132:8000/live/lescobar/lescobar/1497.ts
-#EXTINF:-1,USA: PAC 12 Bay Area
-http://147.135.128.132:8000/live/lescobar/lescobar/7750.ts
-#EXTINF:-1,USA: PAC-12 Net. (Bay Area) FHD
-http://147.135.128.132:8000/live/lescobar/lescobar/1498.ts
-#EXTINF:-1,USA: PAC 12 Los Ángeles
-http://147.135.128.132:8000/live/lescobar/lescobar/7749.ts
-#EXTINF:-1,USA: PAC-12 Net. (Los Angeles) FHD
-http://147.135.128.132:8000/live/lescobar/lescobar/1499.ts
-#EXTINF:-1,USA: PAC 12 Mountain
-http://147.135.128.132:8000/live/lescobar/lescobar/7748.ts
-#EXTINF:-1,USA: PAC-12 Net. (Mountain) FHD
-http://147.135.128.132:8000/live/lescobar/lescobar/642.ts
-#EXTINF:-1,USA: PAC 12 Networks
-http://147.135.128.132:8000/live/lescobar/lescobar/7747.ts
-#EXTINF:-1,USA: PAC-12 Net. (Network) FHD
-http://147.135.128.132:8000/live/lescobar/lescobar/666.ts
-#EXTINF:-1,USA: PAC 12 Oregon
-http://147.135.128.132:8000/live/lescobar/lescobar/7746.ts
-#EXTINF:-1,USA: PAC-12 Net. (Oregon) FHD
-http://147.135.128.132:8000/live/lescobar/lescobar/1500.ts
-#EXTINF:-1,USA: PAC 12 Washington
-http://147.135.128.132:8000/live/lescobar/lescobar/7745.ts
-#EXTINF:-1,USA: PAC-12 Net. (Washington) FHD
-http://147.135.128.132:8000/live/lescobar/lescobar/1501.ts
-#EXTINF:-1,USA: The Golf Channel
-http://147.135.128.132:8000/live/lescobar/lescobar/7800.ts
-#EXTINF:-1,USA: WWE HD
-http://147.135.128.132:8000/live/lescobar/lescobar/591.ts
-#EXTINF:-1,USA: Baby TV
-http://147.135.128.132:8000/live/lescobar/lescobar/8826.ts
-#EXTINF:-1,USA: BOOMERANG
-http://147.135.128.132:8000/live/lescobar/lescobar/8797.ts
-#EXTINF:-1,USA: CARTOON NETWORK
-http://147.135.128.132:8000/live/lescobar/lescobar/1552.ts
-#EXTINF:-1,USA: Cartoon Network Pacific
-http://147.135.128.132:8000/live/lescobar/lescobar/8758.ts
-#EXTINF:-1,USA: Disney Channel
-http://147.135.128.132:8000/live/lescobar/lescobar/8822.ts
-#EXTINF:-1,USA: Disney Channel Pacific
-http://147.135.128.132:8000/live/lescobar/lescobar/8786.ts
-#EXTINF:-1,USA: Disney Junior Pacific
-http://147.135.128.132:8000/live/lescobar/lescobar/8785.ts
-#EXTINF:-1,USA: Disney XD Pacific
-http://147.135.128.132:8000/live/lescobar/lescobar/8763.ts
-#EXTINF:-1,USA: Disney XD
-http://147.135.128.132:8000/live/lescobar/lescobar/8762.ts
-#EXTINF:-1,USA: Nick Jr
-http://147.135.128.132:8000/live/lescobar/lescobar/8761.ts
-#EXTINF:-1,USA: Nickelodeon
-http://147.135.128.132:8000/live/lescobar/lescobar/8760.ts
-#EXTINF:-1,USA: Nickelodeon Pacific
-http://147.135.128.132:8000/live/lescobar/lescobar/8759.ts
-#EXTINF:-1,USA: Universal Kids
-http://147.135.128.132:8000/live/lescobar/lescobar/8824.ts
-#EXTINF:-1,USA: A&E
-http://147.135.128.132:8000/live/lescobar/lescobar/7849.ts
-#EXTINF:-1,USA: American Heroes
-http://147.135.128.132:8000/live/lescobar/lescobar/8816.ts
-#EXTINF:-1,USA: Animal Planet
-http://147.135.128.132:8000/live/lescobar/lescobar/8634.ts
-#EXTINF:-1,USA: Animal Planet Pacific
-http://147.135.128.132:8000/live/lescobar/lescobar/8632.ts
-#EXTINF:-1,USA: BBC America HD
-http://147.135.128.132:8000/live/lescobar/lescobar/8799.ts
-#EXTINF:-1,USA: BBC World News HD
-http://147.135.128.132:8000/live/lescobar/lescobar/8798.ts
-#EXTINF:-1,USA: Cooking Channel
-http://147.135.128.132:8000/live/lescobar/lescobar/8789.ts
-#EXTINF:-1,USA: Discovery Esp
-http://147.135.128.132:8000/live/lescobar/lescobar/8643.ts
-#EXTINF:-1,USA: Discovery Familia
-http://147.135.128.132:8000/live/lescobar/lescobar/8640.ts
-#EXTINF:-1,USA: Discovery Family
-http://147.135.128.132:8000/live/lescobar/lescobar/8645.ts
-#EXTINF:-1,USA: Discovery Life
-http://147.135.128.132:8000/live/lescobar/lescobar/8644.ts
-#EXTINF:-1,USA: Discovery Pacific
-http://147.135.128.132:8000/live/lescobar/lescobar/8641.ts
-#EXTINF:-1,USA: Discovery Science
-http://147.135.128.132:8000/live/lescobar/lescobar/8639.ts
-#EXTINF:-1,USA: Discovery TLC
-http://147.135.128.132:8000/live/lescobar/lescobar/8638.ts
-#EXTINF:-1,USA: Discovery TLC Pacific
-http://147.135.128.132:8000/live/lescobar/lescobar/8637.ts
-#EXTINF:-1,USA: Discovery Velocity
-http://147.135.128.132:8000/live/lescobar/lescobar/8635.ts
-#EXTINF:-1,USA: E!
-http://147.135.128.132:8000/live/lescobar/lescobar/7848.ts
-#EXTINF:-1,USA: Food Network
-http://147.135.128.132:8000/live/lescobar/lescobar/7798.ts
-#EXTINF:-1,USA: Food Network hd
-http://147.135.128.132:8000/live/lescobar/lescobar/554.ts
-#EXTINF:-1,USA: History
-http://147.135.128.132:8000/live/lescobar/lescobar/7845.ts
-#EXTINF:-1,USA: Investigation Discovery
-http://147.135.128.132:8000/live/lescobar/lescobar/8642.ts
-#EXTINF:-1,USA: Investigation Discovery Pacific
-http://147.135.128.132:8000/live/lescobar/lescobar/8631.ts
-#EXTINF:-1,USA: Lifetime
-http://147.135.128.132:8000/live/lescobar/lescobar/7844.ts
-#EXTINF:-1,USA: Natgeo Mundo
-http://147.135.128.132:8000/live/lescobar/lescobar/7843.ts
-#EXTINF:-1,USA: Natgeo
-http://147.135.128.132:8000/live/lescobar/lescobar/7842.ts
-#EXTINF:-1,USA: Natgeo Wild
-http://147.135.128.132:8000/live/lescobar/lescobar/7841.ts
-#EXTINF:-1,USA: The Weather Channel
-http://147.135.128.132:8000/live/lescobar/lescobar/846.ts
-#EXTINF:-1,USA: Travel Pacific
-http://147.135.128.132:8000/live/lescobar/lescobar/8810.ts
-#EXTINF:-1,USA: Travel
-http://147.135.128.132:8000/live/lescobar/lescobar/8809.ts
-#EXTINF:-1,USA: Travel Channel
-http://147.135.128.132:8000/live/lescobar/lescobar/7850.ts
-#EXTINF:-1,USA: My 24
-http://147.135.128.132:8000/live/lescobar/lescobar/8829.ts
-#EXTINF:-1,USA: MY45 Arizona
-http://147.135.128.132:8000/live/lescobar/lescobar/8800.ts
-#EXTINF:-1,USA: BRAVO
-http://147.135.128.132:8000/live/lescobar/lescobar/8796.ts
-#EXTINF:-1,USA: BTN
-http://147.135.128.132:8000/live/lescobar/lescobar/8795.ts
-#EXTINF:-1,USA: CNBC
-http://147.135.128.132:8000/live/lescobar/lescobar/8791.ts
-#EXTINF:-1,USA: CNBC World
-http://147.135.128.132:8000/live/lescobar/lescobar/8790.ts
-#EXTINF:-1,USA: CNN HD
-http://147.135.128.132:8000/live/lescobar/lescobar/838.ts
-#EXTINF:-1,USA: Cozi Tv
-http://147.135.128.132:8000/live/lescobar/lescobar/8788.ts
-#EXTINF:-1,USA: Decades
-http://147.135.128.132:8000/live/lescobar/lescobar/8787.ts
-#EXTINF:-1,USA: Destination America
-http://147.135.128.132:8000/live/lescobar/lescobar/8636.ts
-#EXTINF:-1,USA: DIY
-http://147.135.128.132:8000/live/lescobar/lescobar/8779.ts
-#EXTINF:-1,USA: DW
-http://147.135.128.132:8000/live/lescobar/lescobar/724.ts
-#EXTINF:-1,USA: Epix Hits
-http://147.135.128.132:8000/live/lescobar/lescobar/8778.ts
-#EXTINF:-1,USA: Fusion
-http://147.135.128.132:8000/live/lescobar/lescobar/8771.ts
-#EXTINF:-1,USA:Free From
-http://147.135.128.132:8000/live/lescobar/lescobar/8802.ts
-#EXTINF:-1,USA: FXX
-http://147.135.128.132:8000/live/lescobar/lescobar/8768.ts
-#EXTINF:-1,USA: KTVU Plus
-http://147.135.128.132:8000/live/lescobar/lescobar/8724.ts
-#EXTINF:-1,USA: My  Roc
-http://147.135.128.132:8000/live/lescobar/lescobar/8825.ts
-#EXTINF:-1,USA: Oprah Winfrey Network
-http://147.135.128.132:8000/live/lescobar/lescobar/8633.ts
-#EXTINF:-1,USA:pittsburgh
-http://147.135.128.132:8000/live/lescobar/lescobar/8697.ts
-#EXTINF:-1,USA:Usa Network Pacific
-http://147.135.128.132:8000/live/lescobar/lescobar/8812.ts
-#EXTINF:-1,USA: We tv
-http://147.135.128.132:8000/live/lescobar/lescobar/837.ts
-#EXTINF:-1,USA: CBS NEWS HD
-http://147.135.128.132:8000/live/lescobar/lescobar/559.ts
-#EXTINF:-1,USA: CNN
-http://147.135.128.132:8000/live/lescobar/lescobar/1589.ts
-#EXTINF:-1,USA: OXYGEN
-http://147.135.128.132:8000/live/lescobar/lescobar/7864.ts
-#EXTINF:-1,CNBC World USA
-http://147.135.128.132:8000/live/lescobar/lescobar/7852.ts
-#EXTINF:-1,Fusion USA
-http://147.135.128.132:8000/live/lescobar/lescobar/7851.ts
-#EXTINF:-1,Galavisión USA
-http://147.135.128.132:8000/live/lescobar/lescobar/7846.ts
-#EXTINF:-1,SYFY USA
-http://147.135.128.132:8000/live/lescobar/lescobar/7840.ts
-#EXTINF:-1,BRAVO
-http://147.135.128.132:8000/live/lescobar/lescobar/7832.ts
-#EXTINF:-1,BTN
-http://147.135.128.132:8000/live/lescobar/lescobar/7831.ts
-#EXTINF:-1,Cine Sony
-http://147.135.128.132:8000/live/lescobar/lescobar/7828.ts
-#EXTINF:-1,CNBC World
-http://147.135.128.132:8000/live/lescobar/lescobar/7827.ts
-#EXTINF:-1,Cozi Tv
-http://147.135.128.132:8000/live/lescobar/lescobar/7826.ts
-#EXTINF:-1,El Rey Network
-http://147.135.128.132:8000/live/lescobar/lescobar/7825.ts
-#EXTINF:-1,Fantasy
-http://147.135.128.132:8000/live/lescobar/lescobar/7823.ts
-#EXTINF:-1,Fight Network
-http://147.135.128.132:8000/live/lescobar/lescobar/7822.ts
-#EXTINF:-1,USA: Fox Business HD
-http://147.135.128.132:8000/live/lescobar/lescobar/7821.ts
-#EXTINF:-1,USA: Fox News HD
-http://147.135.128.132:8000/live/lescobar/lescobar/7819.ts
-#EXTINF:-1,Fuse
-http://147.135.128.132:8000/live/lescobar/lescobar/7815.ts
-#EXTINF:-1,FXM
-http://147.135.128.132:8000/live/lescobar/lescobar/7814.ts
-#EXTINF:-1,FXX
-http://147.135.128.132:8000/live/lescobar/lescobar/7813.ts
-#EXTINF:-1,FYI
-http://147.135.128.132:8000/live/lescobar/lescobar/7812.ts
-#EXTINF:-1,Hallmark
-http://147.135.128.132:8000/live/lescobar/lescobar/7809.ts
-#EXTINF:-1,Hallmark Movies & Misteries
-http://147.135.128.132:8000/live/lescobar/lescobar/7808.ts
-#EXTINF:-1,LIFETIME Movie Network
-http://147.135.128.132:8000/live/lescobar/lescobar/7807.ts
-#EXTINF:-1,MSNBC
-http://147.135.128.132:8000/live/lescobar/lescobar/7806.ts
-#EXTINF:-1,USA: NBC Miami HD
-http://147.135.128.132:8000/live/lescobar/lescobar/7805.ts
-#EXTINF:-1,USA: NBC SN
-http://147.135.128.132:8000/live/lescobar/lescobar/7804.ts
-#EXTINF:-1,Revolt
-http://147.135.128.132:8000/live/lescobar/lescobar/7803.ts
-#EXTINF:-1,RTP Portugal
-http://147.135.128.132:8000/live/lescobar/lescobar/7802.ts
-#EXTINF:-1,Sprout
-http://147.135.128.132:8000/live/lescobar/lescobar/7801.ts
-#EXTINF:-1,Universo
-http://147.135.128.132:8000/live/lescobar/lescobar/7799.ts
-#EXTINF:-1,HGTV USA
-http://147.135.128.132:8000/live/lescobar/lescobar/7795.ts
-#EXTINF:-1,Olympic Channel USA
-http://147.135.128.132:8000/live/lescobar/lescobar/7794.ts
-#EXTINF:-1,USA: PAC12 Network
-http://147.135.128.132:8000/live/lescobar/lescobar/7793.ts
-#EXTINF:-1,POP USA
-http://147.135.128.132:8000/live/lescobar/lescobar/7792.ts
-#EXTINF:-1,USA
-http://147.135.128.132:8000/live/lescobar/lescobar/7791.ts
-#EXTINF:-1,USA: CBS 2 Los Angeles CA USA
-http://147.135.128.132:8000/live/lescobar/lescobar/7780.ts
-#EXTINF:-1,USA: CBS New York HD
-http://147.135.128.132:8000/live/lescobar/lescobar/7779.ts
-#EXTINF:-1,Fox Los Angeles CA USA
-http://147.135.128.132:8000/live/lescobar/lescobar/7778.ts
-#EXTINF:-1,USA: FOX New York HD
-http://147.135.128.132:8000/live/lescobar/lescobar/7777.ts
-#EXTINF:-1,USA: NBC New York USA
-http://147.135.128.132:8000/live/lescobar/lescobar/7776.ts
-#EXTINF:-1,Telexitos USA
-http://147.135.128.132:8000/live/lescobar/lescobar/7771.ts
-#EXTINF:-1,USA: FOX Atlanta HD
-http://147.135.128.132:8000/live/lescobar/lescobar/7768.ts
-#EXTINF:-1,USA: FOX Washington HD
-http://147.135.128.132:8000/live/lescobar/lescobar/7766.ts
-#EXTINF:-1,USA: CBS Sports Network
-http://147.135.128.132:8000/live/lescobar/lescobar/7765.ts
-#EXTINF:-1,USA: NBC Los Angeles HD
-http://147.135.128.132:8000/live/lescobar/lescobar/7764.ts
-#EXTINF:-1,USA: NBC Washington HD
-http://147.135.128.132:8000/live/lescobar/lescobar/7763.ts
-#EXTINF:-1,YES Network
-http://147.135.128.132:8000/live/lescobar/lescobar/7762.ts
-
-#EXTINF:-1,UK: BT Sport 1
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11750.ts
-#EXTINF:-1,UK: BT Sport 1 HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11749.ts
-#EXTINF:-1,UK: BT Sport 2
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11748.ts
-#EXTINF:-1,UK: BT Sport 2 HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11747.ts
-#EXTINF:-1,UK: BT Sport 3
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11746.ts
-#EXTINF:-1,UK: BT Sport 3 HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11745.ts
-#EXTINF:-1,UK: BT Sport ESPN
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11744.ts
-#EXTINF:-1,UK: BT Sport ESPN HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11743.ts
-#EXTINF:-1,UK: BT Sport Extra 1
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11742.ts
-#EXTINF:-1,UK: BT Sport Extra 2
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11741.ts
-#EXTINF:-1,UK: BT Sport Extra 3
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11740.ts
-#EXTINF:-1,UK: BT Sport Extra 4
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11739.ts
-#EXTINF:-1,UK: BT Sport Extra 5
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11738.ts
-#EXTINF:-1,UK: EIR SPORT 1
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11796.ts
-#EXTINF:-1,UK: EIR SPORT 2
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11795.ts
-#EXTINF:-1,UK: EUROSPORT 1 HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11737.ts
-#EXTINF:-1,UK: EUROSPORT 2 HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11736.ts
-#EXTINF:-1,UK: Premier Sports
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12806.ts
-#EXTINF:-1,UK: SKY SPORTS ACTION
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12827.ts
-#EXTINF:-1,UK: Sky Sports Arena HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11735.ts
-#EXTINF:-1,UK: Sky Sports Box Office
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11793.ts
-#EXTINF:-1,UK: SKY SPORTS CRICKET
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12826.ts
-#EXTINF:-1,UK: SKY SPORTS CRICKET HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12830.ts
-#EXTINF:-1,UK: Sky Sports F1
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12832.ts
-#EXTINF:-1,UK: Sky Sports Football HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11751.ts
-#EXTINF:-1,UK: Sky Sports Golf
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12828.ts
-#EXTINF:-1,UK: Sky Sports Golf HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12831.ts
-#EXTINF:-1,UK: Sky Sports Main Event HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12829.ts
-#EXTINF:-1,UK: SKY SPORTS NEWS
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12863.ts
-#EXTINF:-1,UK: Sky Sports News HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12816.ts
-#EXTINF:-1,UK: Sky Sports Premier League HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/12862.ts
-#EXTINF:-1,USA: Bein Sports HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11489.ts
-#EXTINF:-1,USA: Bein Sports USA:A HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11497.ts
-#EXTINF:-1,USA: CBS Sports Network HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11485.ts
-#EXTINF:-1,USA: FOX Sport 1 HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/10068.ts
-#EXTINF:-1,USA: FOX Sports 2 HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/10067.ts
-#EXTINF:-1,USA: NBC Sports Network HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11463.ts
-#EXTINF:-1,USA: Sports Net 360 HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11453.ts
-#EXTINF:-1,USA: Sports Net Ontario HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11452.ts
-#EXTINF:-1,USA: Sports Net World HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11451.ts
-#EXTINF:-1,USA: Sportsnet One HD
-http://tv.smartal.net:25461/live/KqU5qxkwOa/3yCNOK69XW/11531.ts
-
-#EXTINF:-1,Dish USA | 8101 NBC .NY
-http://192.99.18.65:8000/live/marcelino/marcelino/628.ts
-#EXTINF:-1,Dish USA | 8100 ABC NY HD
-http://192.99.18.65:8000/live/marcelino/marcelino/483.ts
-#EXTINF:-1,Dish USA | 8102 CBS-NY
-http://192.99.18.65:8000/live/marcelino/marcelino/482.ts
-#EXTINF:-1,Dish USA | 8101 NBC NY
-http://192.99.18.65:8000/live/marcelino/marcelino/484.ts
-#EXTINF:-1,Dish  USA | 9436 CNN USA HD
-http://192.99.18.65:8000/live/marcelino/marcelino/396.ts
-#EXTINF:-1,Dish USA.| 8100 ABC New York HD
-http://192.99.18.65:8000/live/marcelino/marcelino/660.ts
-#EXTINF:-1,Dish USA | WGN News Chigago
-http://192.99.18.65:8000/live/marcelino/marcelino/451.ts
-#EXTINF:-1,Dish USA | 8102 CBS
-http://192.99.18.65:8000/live/marcelino/marcelino/629.ts
-#EXTINF:-1,Dish USA | 838 NBC UNIVERSO
-http://192.99.18.65:8000/live/marcelino/marcelino/485.ts
-#EXTINF:-1,Dish USA | 4551 Natgeo Wild East HD.
-http://192.99.18.65:8000/live/marcelino/marcelino/385.ts
-#EXTINF:-1,Dish USA | 120 History East  HD
-http://192.99.18.65:8000/live/marcelino/marcelino/374.ts
-#EXTINF:-1,Dish USA | 4615 H2 East
-http://192.99.18.65:8000/live/marcelino/marcelino/692.ts
-#EXTINF:-1,Dish USA. | 4596 Animal Planet HD
-http://192.99.18.65:8000/live/marcelino/marcelino/661.ts
-#EXTINF:-1,Dish USA. | 193 Discovery Science
-http://192.99.18.65:8000/live/marcelino/marcelino/538.ts
-#EXTINF:-1,Dish USA. | 4550 Nat Geo HD
-http://192.99.18.65:8000/live/marcelino/marcelino/552.ts
-#EXTINF:-1,Dish USA | 4606 Discovery Channel East HD
-http://192.99.18.65:8000/live/marcelino/marcelino/395.ts
-#EXTINF:-1,Dish USA | 4798 Unvision  US HD
-http://192.99.18.65:8000/live/marcelino/marcelino/973.ts
-#EXTINF:-1,Dish USA | 828 Univision San Diego
-http://192.99.18.65:8000/live/marcelino/marcelino/895.ts
-#EXTINF:-1,Dish USA  | 4670 Comedy Central East HD
-http://192.99.18.65:8000/live/marcelino/marcelino/899.ts
-#EXTINF:-1,Dish Usa  | 139 TBS HD
-http://192.99.18.65:8000/live/marcelino/marcelino/713.ts
-#EXTINF:-1,Dish USA  | 915 PSB East
-http://192.99.18.65:8000/live/marcelino/marcelino/406.ts
-#EXTINF:-1,Dish USA | 129 Bravo East HD.
-http://192.99.18.65:8000/live/marcelino/marcelino/380.ts
-#EXTINF:-1,Dish USA | 8102 CBS New York East HD
-http://192.99.18.65:8000/live/marcelino/marcelino/668.ts
-#EXTINF:-1,Dish USA | CBSN HD
-http://192.99.18.65:8000/live/marcelino/marcelino/536.ts
-#EXTINF:-1,Dish USA | 9474 E! East HD
-http://192.99.18.65:8000/live/marcelino/marcelino/378.ts
-#EXTINF:-1,Dish USA | 4614 H2 HD
-http://192.99.18.65:8000/live/marcelino/marcelino/376.ts
-#EXTINF:-1,Dish USA | 301 HBO 2 HD East
-http://192.99.18.65:8000/live/marcelino/marcelino/768.ts
-#EXTINF:-1,Dish USA | 305 HBO Family HD
-http://192.99.18.65:8000/live/marcelino/marcelino/609.ts
-#EXTINF:-1,Dish USA | 9459  HBO HD
-http://192.99.18.65:8000/live/marcelino/marcelino/548.ts
-#EXTINF:-1,Dish USA | 302 HBO Signature HD.
-http://192.99.18.65:8000/live/marcelino/marcelino/388.ts
-#EXTINF:-1,Dish USA | 9452 HBO Zone HD.
-http://192.99.18.65:8000/live/marcelino/marcelino/524.ts
-#EXTINF:-1,Dish USA | 352 Starz Edge HD
-http://192.99.18.65:8000/live/marcelino/marcelino/355.ts
-#EXTINF:-1,Dish USA | 869 Univision TDN HD
-http://192.99.18.65:8000/live/marcelino/marcelino/295.ts
-#EXTINF:-1,SPORTS | WWE HD
-http://192.99.18.65:8000/live/marcelino/marcelino/421.ts
-#EXTINF:-1,Dish USA | 311 Cinemax West HD
-http://192.99.18.65:8000/live/marcelino/marcelino/670.ts
-#EXTINF:-1,Dish USA | 313 ActionMAX HD
-http://192.99.18.65:8000/live/marcelino/marcelino/610.ts
-#EXTINF:-1,Dish USA | 9470 LifeTime HD
-http://192.99.18.65:8000/live/marcelino/marcelino/411.ts
-#EXTINF:-1,Dish USA | Spike HD.
-http://192.99.18.65:8000/live/marcelino/marcelino/375.ts
-#EXTINF:-1,Dish USA | 9432 SySy HD
-http://192.99.18.65:8000/live/marcelino/marcelino/410.ts
-#EXTINF:-1,Dish USA | 9499 TBS East HD
-http://192.99.18.65:8000/live/marcelino/marcelino/371.ts
-#EXTINF:-1,Dish USA | 6931 USA Network  HD Local
-http://192.99.18.65:8000/live/marcelino/marcelino/580.ts
-#EXTINF:-1,Dish USA | 842 Caracol HD
-http://192.99.18.65:8000/live/marcelino/marcelino/352.ts
-#EXTINF:-1,Dish USA | 4670 Comedy Central Local HD
-http://192.99.18.65:8000/live/marcelino/marcelino/412.ts
-#EXTINF:-1,Dish USA | 4636 Disney JR HD
-http://192.99.18.65:8000/live/marcelino/marcelino/677.ts
-#EXTINF:-1,Dish USA | 9475 FX HD Local
-http://192.99.18.65:8000/live/marcelino/marcelino/382.ts
-#EXTINF:-1,Dish Mex | MAX Prime
-http://192.99.18.65:8000/live/marcelino/marcelino/938.ts
-#EXTINF:-1,DISH MEX | Azteca Siete.
-http://192.99.18.65:8000/live/marcelino/marcelino/1087.ts
-#EXTINF:-1,DISH MEX | TLC
-http://192.99.18.65:8000/live/marcelino/marcelino/1084.ts
-#EXTINF:-1,DISH MEX | TNT
-http://192.99.18.65:8000/live/marcelino/marcelino/1135.ts
-#EXTINF:-1,Dish Mex | Azteca Uno.
-http://192.99.18.65:8000/live/marcelino/marcelino/1163.ts
-#EXTINF:-1,Dish Usa  | 4613 Food Network HD
-http://192.99.18.65:8000/live/marcelino/marcelino/948.ts
-#EXTINF:-1,Dish Usa  | 4608 DIY NETWORK HD
-http://192.99.18.65:8000/live/marcelino/marcelino/947.ts
-#EXTINF:-1,Dish USA | 107 Comedy Central East HD
-http://192.99.18.65:8000/live/marcelino/marcelino/674.ts
-#EXTINF:-1,Dish USA | 9436 CNN New York HD
-http://192.99.18.65:8000/live/marcelino/marcelino/672.ts
-#EXTINF:-1,Dish USA | 9461 HGTV East HD
-http://192.99.18.65:8000/live/marcelino/marcelino/700.ts
-#EXTINF:-1,Dish USA | 9603 Tennis Channel HD
-http://192.99.18.65:8000/live/marcelino/marcelino/727.ts
-#EXTINF:-1,Dish USA | 118 A&E HD.
-http://192.99.18.65:8000/live/marcelino/marcelino/379.ts
-#EXTINF:-1,Dish USA | BBC News
-http://192.99.18.65:8000/live/marcelino/marcelino/455.ts
-#EXTINF:-1,Dish USA | 9611 Bein Sports
-http://192.99.18.65:8000/live/marcelino/marcelino/531.ts
-#EXTINF:-1,Dish USA | 4618 ID HD
-http://192.99.18.65:8000/live/marcelino/marcelino/386.ts
-#EXTINF:-1,Dish USA | 841 RCN HD
-http://192.99.18.65:8000/live/marcelino/marcelino/351.ts
-#EXTINF:-1,Dish USA | 9431 USA Network HD
-http://192.99.18.65:8000/live/marcelino/marcelino/367.ts
-#EXTINF:-1,Dish USA. | 131 AMC East HD
-http://192.99.18.65:8000/live/marcelino/marcelino/662.ts
-#EXTINF:-1,Dish USA. | 170 Nicklodeon East
-http://192.99.18.65:8000/live/marcelino/marcelino/466.ts
-#EXTINF:-1,Dish Mex  | 52.MX
-http://192.99.18.65:8000/live/marcelino/marcelino/1151.ts
-#EXTINF:-1,Dish Mex  | AZTECA Uno Latino America
-http://192.99.18.65:8000/live/marcelino/marcelino/1077.ts
-#EXTINF:-1,Dish Mex  | MC
-http://192.99.18.65:8000/live/marcelino/marcelino/1050.ts
-#EXTINF:-1,Dish Mex | FOX Action.
-http://192.99.18.65:8000/live/marcelino/marcelino/1055.ts
-#EXTINF:-1,Dish Mex | FOX Family.
-http://192.99.18.65:8000/live/marcelino/marcelino/1053.ts
-#EXTINF:-1,Dish Mex | FOX Movies.
-http://192.99.18.65:8000/live/marcelino/marcelino/1054.ts
-#EXTINF:-1,Dish Mex | History Channel Lat
-http://192.99.18.65:8000/live/marcelino/marcelino/1052.ts
-#EXTINF:-1,Dish Mex | History 2
-http://192.99.18.65:8000/live/marcelino/marcelino/1051.ts
-#EXTINF:-1,Dish Mex | Canal 2 HD
-http://192.99.18.65:8000/live/marcelino/marcelino/298.ts
-#EXTINF:-1,DISH Mex | Canal 5 HD
-http://192.99.18.65:8000/live/marcelino/marcelino/297.ts
-#EXTINF:-1,Dish Mex | Azteca corazón.
-http://192.99.18.65:8000/live/marcelino/marcelino/1162.ts
-#EXTINF:-1,Claro70 | CineDinamite
-http://192.99.18.65:8000/live/marcelino/marcelino/280.ts
-#EXTINF:-1,Claro70 | CineLatino
-http://192.99.18.65:8000/live/marcelino/marcelino/279.ts
-#EXTINF:-1,Claro70 | Multipremier
-http://192.99.18.65:8000/live/marcelino/marcelino/244.ts
-#EXTINF:-1,Claro70 | RCN Novelas
-http://192.99.18.65:8000/live/marcelino/marcelino/237.ts
-#EXTINF:-1,SPORTS | Claro Sports
-http://192.99.18.65:8000/live/marcelino/marcelino/277.ts
-#EXTINF:-1,Claro70 | AzCorazon
-http://192.99.18.65:8000/live/marcelino/marcelino/446.ts
-#EXTINF:-1,Claro70 | AzMundo
-http://192.99.18.65:8000/live/marcelino/marcelino/445.ts
-#EXTINF:-1,Claro70 | Discovery Kids
-http://192.99.18.65:8000/live/marcelino/marcelino/273.ts
-#EXTINF:-1,Claro70 | Discovery Turbo
-http://192.99.18.65:8000/live/marcelino/marcelino/272.ts
-#EXTINF:-1,Claro70 | Disney
-http://192.99.18.65:8000/live/marcelino/marcelino/271.ts
-#EXTINF:-1,Claro70 | Disney Jr
-http://192.99.18.65:8000/live/marcelino/marcelino/270.ts
-#EXTINF:-1,Claro70 | Disney XD Norte
-http://192.99.18.65:8000/live/marcelino/marcelino/269.ts
-#EXTINF:-1,ARGENTINA | Fox Sports 1 HD
-http://192.99.18.65:8000/live/marcelino/marcelino/543.ts
-#EXTINF:-1,ARGENTINA | Fox Sports 2 HD
-http://192.99.18.65:8000/live/marcelino/marcelino/544.ts
-
-#EXTINF:-1,USA: BBC WORLD
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/7765.ts
-#EXTINF:-1,USA:. A&E
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12871.ts
-#EXTINF:-1,USA:. AMC
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12870.ts
-#EXTINF:-1,USA:. Animal Planet
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12869.ts
-#EXTINF:-1,USA:. Cartoon Network
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12867.ts
-#EXTINF:-1,USA:. Cinemax
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12866.ts
-#EXTINF:-1,USA:. Cinemax Moremax
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12865.ts
-#EXTINF:-1,USA:. Cinemax Thrillermax
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12864.ts
-#EXTINF:-1,USA:. CNN HD
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12868.ts
-#EXTINF:-1,USA:. Comedy Central HD
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12863.ts
-#EXTINF:-1,USA:. Cooking Channel
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12862.ts
-#EXTINF:-1,USA:. Crime and Investigation
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12861.ts
-#EXTINF:-1,USA:. Destination America
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12860.ts
-#EXTINF:-1,USA:. Discovery Channel
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12859.ts
-#EXTINF:-1,USA:. Discovery Family
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12858.ts
-#EXTINF:-1,USA:. Discovery Science
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12857.ts
-#EXTINF:-1,USA:. Discovery Velocity
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12856.ts
-#EXTINF:-1,USA:. Disney Channel
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12855.ts
-#EXTINF:-1,USA:. Disney Jr.
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12854.ts
-#EXTINF:-1,USA:. Disney XD
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12853.ts
-#EXTINF:-1,USA:. E! Entertainment
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12852.ts
-#EXTINF:-1,USA:. Fox News
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12873.ts
-#EXTINF:-1,USA:. Fox USA
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12874.ts
-#EXTINF:-1,USA:. Hallmark
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12844.ts
-#EXTINF:-1,USA:. Hallmark Movies & Mysteries
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12843.ts
-#EXTINF:-1,USA:. HBO
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12851.ts
-#EXTINF:-1,USA:. HBO 2
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12850.ts
-#EXTINF:-1,USA:. HBO Comedy
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12849.ts
-#EXTINF:-1,USA:. HBO Family
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12848.ts
-#EXTINF:-1,USA:. HBO Signature
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12847.ts
-#EXTINF:-1,USA:. HBO Zone
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12846.ts
-#EXTINF:-1,USA:. HGTV
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12845.ts
-#EXTINF:-1,USA:. History Channel
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12842.ts
-#EXTINF:-1,USA:. IFC
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12841.ts
-#EXTINF:-1,USA:. Investigation Discovery
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12840.ts
-#EXTINF:-1,USA:. Nat Geo
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12839.ts
-#EXTINF:-1,USA:. Nat Geo Wild
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12838.ts
-#EXTINF:-1,USA:. Nick Jr.
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12837.ts
-#EXTINF:-1,USA:. Nickelodeon
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12835.ts
-#EXTINF:-1,USA:. Nicktoons
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12836.ts
-#EXTINF:-1,USA:. Showcase
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12834.ts
-#EXTINF:-1,USA:. Showtime
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12833.ts
-#EXTINF:-1,USA:. Showtime 2
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12832.ts
-#EXTINF:-1,USA:. Showtime Family Zone
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12831.ts
-#EXTINF:-1,USA:. Spike
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12830.ts
-#EXTINF:-1,USA:. Sprout
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12829.ts
-#EXTINF:-1,USA:. Starz Cinema
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12828.ts
-#EXTINF:-1,USA:. Starz East
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12827.ts
-#EXTINF:-1,USA:. Starz Encore
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12826.ts
-#EXTINF:-1,USA:. Starz Kids and Family
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12825.ts
-#EXTINF:-1,USA:. Sundance TV
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12824.ts
-#EXTINF:-1,USA:. TBS
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12822.ts
-#EXTINF:-1,USA:. The Weather Channel
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12872.ts
-#EXTINF:-1,USA:. TLC
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12821.ts
-#EXTINF:-1,USA:. TNT
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12820.ts
-#EXTINF:-1,USA:. USA Network
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12819.ts
-#EXTINF:-1,USA:. VH1
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12818.ts
-#EXTINF:-1,USA:. ABC
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13572.ts
-#EXTINF:-1,USA:. ABC News
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13571.ts
-#EXTINF:-1,USA:. American Heroes Channel
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13549.ts
-#EXTINF:-1,USA:. BBC America
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13570.ts
-#EXTINF:-1,USA:. BET
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13569.ts
-#EXTINF:-1,USA:. Big Ten Network
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13568.ts
-#EXTINF:-1,USA:. Bravo
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13567.ts
-#EXTINF:-1,USA:. CBS
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13566.ts
-#EXTINF:-1,USA:. CNBC
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13565.ts
-#EXTINF:-1,USA:. Comet TV
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13548.ts
-#EXTINF:-1,USA:. DIY Network
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13545.ts
-#EXTINF:-1,USA:. El Rey Network
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13542.ts
-#EXTINF:-1,USA:. Food Network US
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13540.ts
-#EXTINF:-1,USA:. Freeform
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13564.ts
-#EXTINF:-1,USA:. FX East
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13547.ts
-#EXTINF:-1,USA:. FXX East
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13546.ts
-#EXTINF:-1,USA:. FYI
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13541.ts
-#EXTINF:-1,USA:. GSN
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13563.ts
-#EXTINF:-1,USA:. LMN
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/12998.ts
-#EXTINF:-1,USA:. MTV
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13539.ts
-#EXTINF:-1,USA:. NBC
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13562.ts
-#EXTINF:-1,USA:. OWN
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13561.ts
-#EXTINF:-1,USA:. PBS
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13560.ts
-#EXTINF:-1,USA:. SEC Network
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13559.ts
-#EXTINF:-1,USA:. The CW Network
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13538.ts
-#EXTINF:-1,USA:. Travel Channel
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13556.ts
-#EXTINF:-1,USA:. Tru TV
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13537.ts
-#EXTINF:-1,USA:. TV Land
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13557.ts
-#EXTINF:-1,USA:. TV One
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13552.ts
-#EXTINF:-1,USA:. Viceland USA
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13555.ts
-#EXTINF:-1,USA:. We TV
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13554.ts
-#EXTINF:-1,USA:. Yes Network
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13551.ts
-#EXTINF:-1,USA:CBS News
-http://158.69.127.19:8000/live/app/ListaDePlayNoROBARGRACIAS/13281.ts
-
-#EXTINF:-1,USA:A-E
-http://tv2iptv.com:8000/live/mic1/45464uy/4648.ts
-#EXTINF:-1,USA:NBA-TV-HD
-http://tv2iptv.com:8000/live/mic1/45464uy/4590.ts
-#EXTINF:-1,WGAL-NBCHD [ US]
-http://tv2iptv.com:8000/live/mic1/45464uy/7821.ts
-#EXTINF:-1,E!HD [ US ]
-http://tv2iptv.com:8000/live/mic1/45464uy/7808.ts
-#EXTINF:-1,ESPN [ US ]
-http://tv2iptv.com:8000/live/mic1/45464uy/7851.ts
-#EXTINF:-1,ESPN_NEWS  [ US ]
-http://tv2iptv.com:8000/live/mic1/45464uy/7846.ts
-#EXTINF:-1,FOX_SPORTS [ US ]
-http://tv2iptv.com:8000/live/mic1/45464uy/7840.ts
-#EXTINF:-1,NBA_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/7838.ts
-#EXTINF:-1,USA::NICKELODEANHD
-http://tv2iptv.com:8000/live/mic1/45464uy/7819.ts
-#EXTINF:-1,USA::OMINI-1HD
-http://tv2iptv.com:8000/live/mic1/45464uy/7771.ts
-#EXTINF:-1,USA:OWN_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/7770.ts
-#EXTINF:-1,USA::PACK12_NETWORKHDUS
-http://tv2iptv.com:8000/live/mic1/45464uy/7769.ts
-#EXTINF:-1,USA::PBS_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/7768.ts
-#EXTINF:-1,USA::SHOWTIME
-http://tv2iptv.com:8000/live/mic1/45464uy/7767.ts
-#EXTINF:-1,USA::SHOWTIME2_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/7804.ts
-#EXTINF:-1,USA::SHOWTIME_SHOWCASE
-http://tv2iptv.com:8000/live/mic1/45464uy/7848.ts
-#EXTINF:-1,USA:SN_CENTRAL_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/7765.ts
-#EXTINF:-1,USA::SN_1HD
-http://tv2iptv.com:8000/live/mic1/45464uy/7764.ts
-#EXTINF:-1,USA::SPIKE
-http://tv2iptv.com:8000/live/mic1/45464uy/7763.ts
-#EXTINF:-1,USA::SPORTSNET360_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/7762.ts
-#EXTINF:-1,USA::SPORTS_NETWORK
-http://tv2iptv.com:8000/live/mic1/45464uy/7797.ts
-#EXTINF:-1,USA::SPORTS_NET_ONTARIO
-http://tv2iptv.com:8000/live/mic1/45464uy/7813.ts
-#EXTINF:-1,USA::SPORTS_ONTARIO
-http://tv2iptv.com:8000/live/mic1/45464uy/7761.ts
-#EXTINF:-1,USA::STARZ_EAST
-http://tv2iptv.com:8000/live/mic1/45464uy/7760.ts
-#EXTINF:-1,USA::TM:SunTVHDIndia
-http://tv2iptv.com:8000/live/mic1/45464uy/7805.ts
-#EXTINF:-1,USA:TNT_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/7759.ts
-#EXTINF:-1,USA:TRU_TV
-http://tv2iptv.com:8000/live/mic1/45464uy/7801.ts
-#EXTINF:-1,USA::TVO_KIDS
-http://tv2iptv.com:8000/live/mic1/45464uy/7758.ts
-#EXTINF:-1,USA::UNIVERSITY_CALIFORNIA
-http://tv2iptv.com:8000/live/mic1/45464uy/7757.ts
-#EXTINF:-1,USA::WHP-CBSHD
-http://tv2iptv.com:8000/live/mic1/45464uy/7818.ts
-#EXTINF:-1,USA:WWE_NETWORK
-http://tv2iptv.com:8000/live/mic1/45464uy/7825.ts
-#EXTINF:-1,USA:CNN
-http://tv2iptv.com:8000/live/mic1/45464uy/4214.ts
-#EXTINF:-1,USA_ABC_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/3395.ts
-#EXTINF:-1,USA_ABC_NEWS_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/3394.ts
-#EXTINF:-1,USA_ANIMAL_PLANET_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/3392.ts
-#EXTINF:-1,USA_BRAVO_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/3391.ts
-#EXTINF:-1,USA_CARTOON_NETWORK_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/3390.ts
-#EXTINF:-1,USA_CA_|_TSN_1
-http://tv2iptv.com:8000/live/mic1/45464uy/3356.ts
-#EXTINF:-1,USA_CA_|_TSN_2
-http://tv2iptv.com:8000/live/mic1/45464uy/3355.ts
-#EXTINF:-1,USA_CA_|_TSN_3
-http://tv2iptv.com:8000/live/mic1/45464uy/3354.ts
-#EXTINF:-1,USA_CA_|_TSN_4
-http://tv2iptv.com:8000/live/mic1/45464uy/3353.ts
-#EXTINF:-1,USA_CA_|_TSN_5
-http://tv2iptv.com:8000/live/mic1/45464uy/3352.ts
-#EXTINF:-1,USA_COMEDY_CENTRAL_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/3386.ts
-#EXTINF:-1,USA_CW_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/3385.ts
-#EXTINF:-1,USA_DISCCOVERY_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/3384.ts
-#EXTINF:-1,USA_FOX_NEWS_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/3382.ts
-#EXTINF:-1,USA_NAT_GEO_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/3381.ts
-#EXTINF:-1,USA_SYFY_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/3380.ts
-#EXTINF:-1,USA__TBS_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/3358.ts
-#EXTINF:-1,USA_|_Nat_Geo_Wild
-http://tv2iptv.com:8000/live/mic1/45464uy/3373.ts
-#EXTINF:-1,USA_|_TLC_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/3366.ts
-#EXTINF:-1,USA_|_WWE_HD
-http://tv2iptv.com:8000/live/mic1/45464uy/3361.ts
-
-#EXTINF:-1,US: CBS 47 NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7785.ts
-#EXTINF:-1,US: 3 ABN kids
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9463.ts
-#EXTINF:-1,US: C SPAIN 1
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16688.ts
-#EXTINF:-1,US: C SPAIN 2
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16689.ts
-#EXTINF:-1,US: C SPAIN 3
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16690.ts
-#EXTINF:-1,US: FOX 25 BOSTON
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15598.ts
-#EXTINF:-1,US: JBS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9460.ts
-#EXTINF:-1,US: 3ABN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9465.ts
-#EXTINF:-1,US: 3ABN International
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9467.ts
-#EXTINF:-1,US: CBN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9469.ts
-#EXTINF:-1,US: CBN NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9468.ts
-#EXTINF:-1,US: CBSN News
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9477.ts
-#EXTINF:-1,US: CMC
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9458.ts
-#EXTINF:-1,US: PAC-12 Arizona
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9470.ts
-#EXTINF:-1,US: PAC-12 Bay Area
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9472.ts
-#EXTINF:-1,US: PAC-12 Mountain
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9473.ts
-#EXTINF:-1,US: PAC-12 Network
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9476.ts
-#EXTINF:-1,US:  PAC-12 Los Angeles
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9471.ts
-#EXTINF:-1,US: PAC-12 Oregon
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9474.ts
-#EXTINF:-1,US: PAC-12 Washington
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9475.ts
-#EXTINF:-1,US: FOX 23 NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7789.ts
-#EXTINF:-1,US: HOPE CHANNEL
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7793.ts
-#EXTINF:-1,US: INFOWARS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18853.ts
-#EXTINF:-1,US: DAYSTAR TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18854.ts
-#EXTINF:-1,US: CALIFORNIA MUSIC
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18873.ts
-#EXTINF:-1,US: DAYTONA
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18856.ts
-#EXTINF:-1,US: DCN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18857.ts
-#EXTINF:-1,US: DKN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18858.ts
-#EXTINF:-1,US: WHPR TV 33 Detroit
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18860.ts
-#EXTINF:-1,US: NFL NETWORK
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18861.ts
-#EXTINF:-1,US: QVC
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18862.ts
-#EXTINF:-1,US: NBC 11
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18863.ts
-#EXTINF:-1,US: RT NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18864.ts
-#EXTINF:-1,US: SG TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18865.ts
-#EXTINF:-1,US: Southeastern Channel
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18866.ts
-#EXTINF:-1,US: SPYDAR TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18867.ts
-#EXTINF:-1,US: TUFF  TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18868.ts
-#EXTINF:-1,US: TVV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18869.ts
-#EXTINF:-1,US: NEWS 12 island
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18870.ts
-#EXTINF:-1,US: VICELAND
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18871.ts
-#EXTINF:-1,US: NEWS 12  Westchester
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18872.ts
-#EXTINF:-1,US: PIX 11
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7802.ts
-#EXTINF:-1,US: UALR TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9459.ts
-#EXTINF:-1,US: NEWS 12 hudson valley
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9455.ts
-#EXTINF:-1,US: NEWSMAX TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7797.ts
-#EXTINF:-1,US: NEWS 12 THE BROOKLYN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7770.ts
-#EXTINF:-1,US: FILM CLUP
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11548.ts
-#EXTINF:-1,US:  RADIO MONTE CARLO TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11561.ts
-#EXTINF:-1,US:  360 north
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11562.ts
-#EXTINF:-1,US:  RETRO MUSIC
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11567.ts
-#EXTINF:-1,US:  AKC TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11604.ts
-#EXTINF:-1,US: GOD TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11526.ts
-#EXTINF:-1,US: ABC HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11568.ts
-#EXTINF:-1,US:  Virgin TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11596.ts
-#EXTINF:-1,US: Fox News HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11602.ts
-#EXTINF:-1,US: HUNT CHANNEL
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11236.ts
-#EXTINF:-1,US: BLOOMBERG
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11234.ts
-#EXTINF:-1,US: NLF
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18421.ts
-#EXTINF:-1,US: MSNBC
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18688.ts
-#EXTINF:-1,US: TRE  NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18689.ts
-#EXTINF:-1,US: WGN NEWS CHICAGO
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/13612.ts
-#EXTINF:-1,US: ABC   east
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18851.ts
-#EXTINF:-1,US: IMPAC FRESLING
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18852.ts
-#EXTINF:-1,US: KEY TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11235.ts
-#EXTINF:-1,US: ARTS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18906.ts
-#EXTINF:-1,US: HOUSE CHANNEL
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18920.ts
-#EXTINF:-1,US: Catholic TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18918.ts
-#EXTINF:-1,US: CHANNEL 20
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18910.ts
-#EXTINF:-1,US: Cascade Hills Church
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18908.ts
-#EXTINF:-1,US: 3ABN francais
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20461.ts
-#EXTINF:-1,US: 3ABN Proclaim!
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20451.ts
-#EXTINF:-1,US: ABNSAT TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21584.ts
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3473.ts
 #EXTINF:-1,US: AMC HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21186.ts
-#EXTINF:-1,US: Columbia Network
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20452.ts
-#EXTINF:-1,US: Discovery HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20515.ts
-#EXTINF:-1,US: Knowledge Network
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20453.ts
-#EXTINF:-1,US: Kool TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20456.ts
-#EXTINF:-1,US: NBC 5
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20258.ts
-#EXTINF:-1,US: NICKTOONS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20259.ts
-#EXTINF:-1,US: SBN Domestic
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21577.ts
-#EXTINF:-1,US: SBN Global
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21578.ts
-#EXTINF:-1,US: SBN International
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21579.ts
-#EXTINF:-1,US: SMILE
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21580.ts
-#EXTINF:-1,US: STAR EDG
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20262.ts
-#EXTINF:-1,US: TCT KIDS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21576.ts
-#EXTINF:-1,US: The Blaze
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20462.ts
-#EXTINF:-1,US: The Country Network
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20463.ts
-#EXTINF:-1,US: The NOW Network
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21583.ts
-#EXTINF:-1,US: trawel channel
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20265.ts
-#EXTINF:-1,US: EWTN espanol
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18909.ts
-#EXTINF:-1,US: JCTV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18915.ts
-#EXTINF:-1,US: KCCG-TV2
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18905.ts
-#EXTINF:-1,US: PCTV 26
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18914.ts
-#EXTINF:-1,US: NEWS 12 THE BRONX
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18907.ts
-#EXTINF:-1,US: SFGovTV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18917.ts
-#EXTINF:-1,US: Tempe 11
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18911.ts
-#EXTINF:-1,US: ACRE TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18940.ts
-#EXTINF:-1,US: AVN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18930.ts
-#EXTINF:-1,US: CBN  NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18942.ts
-#EXTINF:-1,US: CYC
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18929.ts
-#EXTINF:-1,US: TWW 2
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21582.ts
-#EXTINF:-1,US: WWE Network HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21064.ts
-#EXTINF:-1,US: Central Valley Talk
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18938.ts
-#EXTINF:-1,US: Channel 99
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18936.ts
-#EXTINF:-1,US: City of Charlotte
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18934.ts
-#EXTINF:-1,US: RADUT TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18941.ts
-#EXTINF:-1,US: CT-N
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18939.ts
-#EXTINF:-1,US: REVN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18927.ts
-#EXTINF:-1,US: Jewelry TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18924.ts
-#EXTINF:-1,US: LA 36
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18925.ts
-#EXTINF:-1,US: LFUCG
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18928.ts
-#EXTINF:-1,US: WOHU TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18922.ts
-#EXTINF:-1,US: Oscar Aguero Ministry
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18932.ts
-#EXTINF:-1,US: RadioU TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18931.ts
-#EXTINF:-1,US: RTN Channel 11
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18937.ts
-#EXTINF:-1,US: SFGovTV 2
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18933.ts
-#EXTINF:-1,US: SPRIT TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18923.ts
-#EXTINF:-1,US: TCT
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18926.ts
-#EXTINF:-1,US: WCCA TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18935.ts
-#EXTINF:-1,US: Better Life TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18912.ts
-#EXTINF:-1,US: UN Webcast
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18919.ts
-#EXTINF:-1,US: WACX TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18921.ts
-#EXTINF:-1,US: WSPF TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18913.ts
-#EXTINF:-1,US: BYU.TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18816.ts
-#EXTINF:-1,US: Free Speech TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18880.ts
-#EXTINF:-1,US: NEWS 12 connecticut
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7805.ts
-#EXTINF:-1,US: OWN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18881.ts
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/7645.ts
+#EXTINF:-1,US: HBO Comedy
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5321.ts
+#EXTINF:-1,US: HBO Family
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5322.ts
+#EXTINF:-1,US: HBO HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5323.ts
+#EXTINF:-1,US: HBO SIGNATURE
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5320.ts
+#EXTINF:-1,US: HBO ZONE
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5319.ts
+#EXTINF:-1,US: AMG TV
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3601.ts
+#EXTINF:-1,US: Animal Planet
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4529.ts
+#EXTINF:-1,US: Bein Sports USA HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3671.ts
+#EXTINF:-1,US: Beto TV
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3659.ts
+#EXTINF:-1,US: Bloomberg
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2833.ts
+#EXTINF:-1,US: Boston City TV
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3653.ts
+#EXTINF:-1,US: Bravo HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3664.ts
+#EXTINF:-1,US: BYU Sports TV HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3630.ts
+#EXTINF:-1,US: C-Span1
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3602.ts
+#EXTINF:-1,US: CBS HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/8595.ts
+#EXTINF:-1,US: CBS News HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2827.ts
+#EXTINF:-1,US: CBSN HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5349.ts
+#EXTINF:-1,US: CNBC
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2624.ts
+#EXTINF:-1,US: CNBS HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5339.ts
+#EXTINF:-1,US: CNN HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3159.ts
+#EXTINF:-1,US: Comedy Central HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3660.ts
+#EXTINF:-1,US: Cpac
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3632.ts
+#EXTINF:-1,US: E!
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3663.ts
+#EXTINF:-1,US: ESPN HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3532.ts
+#EXTINF:-1,US: Fight Network
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5313.ts
+#EXTINF:-1,US: Food Network
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5312.ts
+#EXTINF:-1,US: Fox 59 News
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3651.ts
+#EXTINF:-1,US: Fox HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5879.ts
+#EXTINF:-1,US: Fox Sports 506 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3152.ts
+#EXTINF:-1,US: FX HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3662.ts
+#EXTINF:-1,US: Global TV BC
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5328.ts
+#EXTINF:-1,US: Global TV Halifax
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5327.ts
+#EXTINF:-1,US: Global TV Toronto
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5326.ts
+#EXTINF:-1,US: H2
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5325.ts
+#EXTINF:-1,US: Hallmark
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5324.ts
+#EXTINF:-1,US: HGTV
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5318.ts
+#EXTINF:-1,US: HIFI
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4564.ts
+#EXTINF:-1,US: HSN 1
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3526.ts
+#EXTINF:-1,US: HSN 2
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3527.ts
+#EXTINF:-1,US: KTVU News
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3631.ts
+#EXTINF:-1,US: LIFETIME HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5316.ts
+#EXTINF:-1,US: Max West
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5336.ts
+#EXTINF:-1,US: Mello TV
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3945.ts
+#EXTINF:-1,US: Miami TV
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3529.ts
+#EXTINF:-1,US: Motor Sports 7 HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3153.ts
+#EXTINF:-1,US: Mute TV
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3628.ts
+#EXTINF:-1,US: Nasa TV HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2830.ts
+#EXTINF:-1,US: NBA HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5855.ts
+#EXTINF:-1,US: NBC Golf HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3542.ts
+#EXTINF:-1,US: NBC HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3174.ts
+#EXTINF:-1,US: News 12
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5348.ts
+#EXTINF:-1,US: Nickelodeon HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5331.ts
+#EXTINF:-1,US: O.W.N HD (oprah winfrey network)
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5330.ts
+#EXTINF:-1,US: PAG HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5329.ts
 #EXTINF:-1,US: PBS HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18878.ts
-#EXTINF:-1,US: FOX 5 NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18882.ts
-#EXTINF:-1,US: ABC  NEWS  24
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18904.ts
-#EXTINF:-1,US: KXAN News
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18874.ts
-#EXTINF:-1,US: NBC 4  NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18883.ts
-#EXTINF:-1,US: NEWS 25
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18877.ts
-#EXTINF:-1,US: CHANNEL 11 NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20469.ts
-#EXTINF:-1,US: KOB 4 NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20468.ts
-#EXTINF:-1,US: MIAMI TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20268.ts
-#EXTINF:-1,US: ABC 7 NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20457.ts
-#EXTINF:-1,US: Hillsong Channel
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20458.ts
-#EXTINF:-1,US: RANDOM CHANNEL
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20460.ts
-#EXTINF:-1,US: TSN SPORT 1
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20254.ts
-#EXTINF:-1,US: TSN SPORT 2
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20255.ts
-#EXTINF:-1,US: TSN SPORT 3
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20256.ts
-#EXTINF:-1,US: TSTV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19383.ts
-#EXTINF:-1,US: TVW
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20464.ts
-#EXTINF:-1,US: Voice of America
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20465.ts
-#EXTINF:-1,US: VTV Channel 6 Colorado
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20466.ts
-#EXTINF:-1,US: WEATHER CHANNEL
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20247.ts
-#EXTINF:-1,US: WGN 9 HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19381.ts
-#EXTINF:-1,US: 3ABN englis
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20467.ts
-#EXTINF:-1,US: ORANGE TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20459.ts
-#EXTINF:-1,US: FOX 25 NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20454.ts
-#EXTINF:-1,US: Evine Live
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20455.ts
-#EXTINF:-1,US: ABC NEWS HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19387.ts
-#EXTINF:-1,US: NewsChannel 21
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18879.ts
-#EXTINF:-1,US: Capital TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18459.ts
-#EXTINF:-1,US: Dare to Dream
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18875.ts
-#EXTINF:-1,US: ESPN  NBA
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19749.ts
-#EXTINF:-1,US: TBN
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18815.ts
-#EXTINF:-1,US: Visual Radio
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11597.ts
-#EXTINF:-1,US: NEWS 12
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9984.ts
-#EXTINF:-1,US: NEWS 12  new jersey
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7806.ts
-#EXTINF:-1,US: WCCB NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7807.ts
-#EXTINF:-1,UK: CBS DRAMA
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19270.ts
-#EXTINF:-1,UK: Sky Movies Select HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19291.ts
-#EXTINF:-1,UK: ComedyXtra
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19247.ts
-#EXTINF:-1,UK: CRIME & INVERSTIGATION
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19238.ts
-#EXTINF:-1,UK: MOVIES ACTION HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19327.ts
-#EXTINF:-1,UK: TG4
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19325.ts
-#EXTINF:-1,UK: TLC
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19324.ts
-#EXTINF:-1,UK: NICK JUNIOR
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19192.ts
-#EXTINF:-1,UK: DISCCOVERY TURBO
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19235.ts
-#EXTINF:-1,UK: True Movies 2 HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19234.ts
-#EXTINF:-1,UK: CHANNEL 5
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19262.ts
-#EXTINF:-1,UK: 5 Star
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19357.ts
-#EXTINF:-1,UK: 5 USA
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19358.ts
-#EXTINF:-1,UK: Alibi
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19359.ts
-#EXTINF:-1,UK: BBC 3
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19356.ts
-#EXTINF:-1,UK: BBC News
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19354.ts
-#EXTINF:-1,UK: SKY MOVIES FAMILY HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19226.ts
-#EXTINF:-1,UK: MOVIES DISNEY HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19301.ts
-#EXTINF:-1,UK: Animal Planet
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19283.ts
-#EXTINF:-1,UK: SKY MOVIES DRAMA HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19224.ts
-#EXTINF:-1,UK: CHANNEL 4
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19350.ts
-#EXTINF:-1,UK: TCM
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19220.ts
-#EXTINF:-1,UK: E !
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19345.ts
-#EXTINF:-1,UK: ITV 3
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19339.ts
-#EXTINF:-1,UK: ITV Be
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19337.ts
-#EXTINF:-1,UK: RTE 2 HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19336.ts
-#EXTINF:-1,UK: ITV4
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19338.ts
-#EXTINF:-1,UK: More 4
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19332.ts
-#EXTINF:-1,UK: Sky Two HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19294.ts
-#EXTINF:-1,UK: Sky Movies Comedy
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19330.ts
-#EXTINF:-1,UK: DAVE
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19236.ts
-#EXTINF:-1,UK: Disney XD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19191.ts
-#EXTINF:-1,UK: DISNEY CHANNEL HD
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19190.ts
-#EXTINF:-1,UK: NICKTOONS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19188.ts
-#EXTINF:-1,UK: ITV 1
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19187.ts
-#EXTINF:-1,UK: BT SPORT EXTRA 1
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19186.ts
-#EXTINF:-1,UK: CBS ACTION
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19274.ts
-#EXTINF:-1,UK: Comedy Central
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19251.ts
-#EXTINF:-1,UK: CBS NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7786.ts
-#EXTINF:-1,UK: ABC NEWS 24
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20374.ts
-#EXTINF:-1,UK: Arise News
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20371.ts
-#EXTINF:-1,UK: RT
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20372.ts
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3603.ts
+#EXTINF:-1,US: Pocker Central
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4634.ts
+#EXTINF:-1,US: Redbull TV
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3605.ts
+#EXTINF:-1,US: RT America HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3644.ts
+#EXTINF:-1,US: RT Documentary
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2836.ts
+#EXTINF:-1,US: Showtime 2
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/10733.ts
+#EXTINF:-1,US: Showtime HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3533.ts
+#EXTINF:-1,US: Showtime West
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5337.ts
+#EXTINF:-1,US: Sony Movie Channel HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3604.ts
+#EXTINF:-1,US: Sports Night
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5314.ts
+#EXTINF:-1,US: TBS HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5333.ts
+#EXTINF:-1,US: Tech Channel
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3745.ts
+#EXTINF:-1,US: Ten Cricket
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5353.ts
+#EXTINF:-1,US: The Florida Channel
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3530.ts
+#EXTINF:-1,US: TLC
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/4530.ts
+#EXTINF:-1,US: TNT HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5352.ts
+#EXTINF:-1,US: Toonami Aftermath
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3661.ts
+#EXTINF:-1,US: TSC
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3528.ts
+#EXTINF:-1,US: TV Land
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/9585.ts
+#EXTINF:-1,US: UC TV
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3652.ts
+#EXTINF:-1,US: USA Network
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5309.ts
+#EXTINF:-1,US: Versus NBA HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2834.ts
+#EXTINF:-1,US: WE TV
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/11045.ts
+#EXTINF:-1,US: Weather Channel
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/2883.ts
+#EXTINF:-1,US: WGN News Chicago
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3600.ts
+#EXTINF:-1,US: Willow Cricket HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/5308.ts
+#EXTINF:-1,US: World Fashion HD
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3592.ts
+#EXTINF:-1,US: WXYZ TV
+http://hany9752115.niacam.net:8711/live/imanianMCS45NEW/0IyBEKkMsy/3636.ts
+
+#EXTINF:-1,USA HBO
+http://212.8.242.102:25461/live/burhan/burhan/3710.ts
+#EXTINF:-1,USA HBO FAMILY
+http://212.8.242.102:25461/live/burhan/burhan/3709.ts
+#EXTINF:-1,USA HBO ZONE
+http://212.8.242.102:25461/live/burhan/burhan/3708.ts
+#EXTINF:-1,USA A&E
+http://212.8.242.102:25461/live/burhan/burhan/3704.ts
+#EXTINF:-1,ABC
+http://212.8.242.102:25461/live/burhan/burhan/3719.ts
+#EXTINF:-1,NBCSN
+http://212.8.242.102:25461/live/burhan/burhan/3723.ts
+#EXTINF:-1,USA ABC NEWS
+http://212.8.242.102:25461/live/burhan/burhan/3720.ts
+#EXTINF:-1,USA CBS
+http://212.8.242.102:25461/live/burhan/burhan/3721.ts
+#EXTINF:-1,USA NBC
+http://212.8.242.102:25461/live/burhan/burhan/3724.ts
+#EXTINF:-1,USA AFN Movie
+http://212.8.242.102:25461/live/burhan/burhan/3696.ts
+#EXTINF:-1,USA CineMax
+http://212.8.242.102:25461/live/burhan/burhan/3699.ts
+#EXTINF:-1,USA Bloomberg
+http://212.8.242.102:25461/live/burhan/burhan/3694.ts
+#EXTINF:-1,USA Bravo
+http://212.8.242.102:25461/live/burhan/burhan/3693.ts
+#EXTINF:-1,USA CNBC
+http://212.8.242.102:25461/live/burhan/burhan/3722.ts
+#EXTINF:-1,USA CW
+http://212.8.242.102:25461/live/burhan/burhan/3706.ts
+#EXTINF:-1,USA ESPN
+http://212.8.242.102:25461/live/burhan/burhan/3692.ts
+#EXTINF:-1,USA ESPN 2
+http://212.8.242.102:25461/live/burhan/burhan/3691.ts
+#EXTINF:-1,USA FOX
+http://212.8.242.102:25461/live/burhan/burhan/3718.ts
+#EXTINF:-1,USA Fox News
+http://212.8.242.102:25461/live/burhan/burhan/3717.ts
+#EXTINF:-1,USA FoxSports 1
+http://212.8.242.102:25461/live/burhan/burhan/3716.ts
+#EXTINF:-1,USA Fox Sports 2 HD
+http://212.8.242.102:25461/live/burhan/burhan/3715.ts
+#EXTINF:-1,USA FX
+http://212.8.242.102:25461/live/burhan/burhan/3697.ts
+#EXTINF:-1,USA Hallmark
+http://212.8.242.102:25461/live/burhan/burhan/3698.ts
+#EXTINF:-1,USA HISTORY
+http://212.8.242.102:25461/live/burhan/burhan/3686.ts
+#EXTINF:-1,USA MTV Live
+http://212.8.242.102:25461/live/burhan/burhan/3687.ts
+#EXTINF:-1,USA NBA TV
+http://212.8.242.102:25461/live/burhan/burhan/3690.ts
+#EXTINF:-1,USA NFL NETWORK
+http://212.8.242.102:25461/live/burhan/burhan/3689.ts
+#EXTINF:-1,USA NHL NETWORK
+http://212.8.242.102:25461/live/burhan/burhan/3688.ts
+#EXTINF:-1,USA Showtime
+http://212.8.242.102:25461/live/burhan/burhan/3714.ts
+#EXTINF:-1,USA SHOWTIME SHOWCASE
+http://212.8.242.102:25461/live/burhan/burhan/3713.ts
+#EXTINF:-1,USA STARZ CINEMA
+http://212.8.242.102:25461/live/burhan/burhan/3703.ts
+#EXTINF:-1,USA STARZ COMEDY
+http://212.8.242.102:25461/live/burhan/burhan/3702.ts
+#EXTINF:-1,USA NETWORK
+http://212.8.242.102:25461/live/burhan/burhan/3705.ts
+#EXTINF:-1,USA STARZ ENCORE
+http://212.8.242.102:25461/live/burhan/burhan/3701.ts
+#EXTINF:-1,USA SYFY
+http://212.8.242.102:25461/live/burhan/burhan/3700.ts
+#EXTINF:-1,USA WWEHD
+http://212.8.242.102:25461/live/burhan/burhan/3695.ts
+#EXTINF:-1,CA-TSN1
+http://212.8.242.102:25461/live/burhan/burhan/3684.ts
+#EXTINF:-1,CA-TSN2
+http://212.8.242.102:25461/live/burhan/burhan/3683.ts
+#EXTINF:-1,CA-TSN3
+http://212.8.242.102:25461/live/burhan/burhan/3682.ts
+#EXTINF:-1,CA-TSN4
+http://212.8.242.102:25461/live/burhan/burhan/3681.ts
+#EXTINF:-1,CA-TSN5
+http://212.8.242.102:25461/live/burhan/burhan/3680.ts
+#EXTINF:-1,CA-FOX EAST
+http://212.8.242.102:25461/live/burhan/burhan/6800.ts
+#EXTINF:-1,CA-ABC WEST
+http://212.8.242.102:25461/live/burhan/burhan/6790.ts
+#EXTINF:-1,CA-AMC
+http://212.8.242.102:25461/live/burhan/burhan/6791.ts
+#EXTINF:-1,CA-NBC WEST
+http://212.8.242.102:25461/live/burhan/burhan/6806.ts
+#EXTINF:-1,CA-MSNBC
+http://212.8.242.102:25461/live/burhan/burhan/6803.ts
+#EXTINF:-1,CA-Animal Planet
+http://212.8.242.102:25461/live/burhan/burhan/6792.ts
+#EXTINF:-1,CA-HISTORY
+http://212.8.242.102:25461/live/burhan/burhan/6801.ts
+
+#EXTINF:-1,UK: Heart
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32495
+#EXTINF:-1,UK: MTA1
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32500
+#EXTINF:-1,UK: MTA2
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32501
+#EXTINF:-1,UK: MTA3
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32502
+#EXTINF:-1,UK: Peace TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32496
 #EXTINF:-1,UK: RTE NEWS
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20373.ts
-#EXTINF:-1,UK: CTV 8
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20375.ts
-#EXTINF:-1,UK: Wairarapa TV
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20376.ts
-#EXTINF:-1,UK: DISCOVERY
-http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9206.ts
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32499
+#EXTINF:-1,UK: Sky_1
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32007
+#EXTINF:-1,UK: Sky_2
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32008
+#EXTINF:-1,UK: Sky_Action
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32009
+#EXTINF:-1,UK: Sky_Arts
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32010
+#EXTINF:-1,UK: Sky_Atlantic
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32011
+#EXTINF:-1,UK: Sky_Box_Office_(ppv_events_only)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32012
+#EXTINF:-1,UK: Sky_Living
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32013
+#EXTINF:-1,UK: SKY_MOVIES_ACTION
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32014
+#EXTINF:-1,UK: SKY_MOVIES_COMEDY
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32015
+#EXTINF:-1,UK: Sky_Movies_Disney
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32016
+#EXTINF:-1,UK: SKY_MOVIES_DRAMA
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32017
+#EXTINF:-1,UK: Sky_Movies_Greats
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32019
+#EXTINF:-1,UK: SKY_MOVIES_PREMIERE
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32020
+#EXTINF:-1,UK: Sky_Movies_Sci-Fi&Horror
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32021
+#EXTINF:-1,UK: SKY_MOVIES_SELECT
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32022
+#EXTINF:-1,UK: Sky_Movies_Showcase
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32023
+#EXTINF:-1,UK: Sky_Movies_Thriller
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32024
+#EXTINF:-1,UK: Sky_News
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32025
+#EXTINF:-1,UK: Sky_News_Arabia
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32026
+#EXTINF:-1,UK: Sky_Sports_Action
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32027
+#EXTINF:-1,UK: Sky_Sports_Arena
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32028
+#EXTINF:-1,UK: Sky_Sports_Cricket
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32029
+#EXTINF:-1,UK: SKY_SPORTS_F1
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32030
+#EXTINF:-1,UK: Sky_Sports_Football
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32031
+#EXTINF:-1,UK: Sky_Sports_Golf
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32032
+#EXTINF:-1,UK: Sky_Sports_Main_Event
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32033
+#EXTINF:-1,UK: Sky_Sports_Mix
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32034
+#EXTINF:-1,UK: SKY_SPORTS_NEWS
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32035
+#EXTINF:-1,UK: Sky_Sports_Premier_League
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32036
+#EXTINF:-1,UK : Cbeebies HD (D)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/13863
+#EXTINF:-1,Uk : Racing UK.
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/13862
+#EXTINF:-1,UK: Alibi HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/13858
+#EXTINF:-1,UK: Animal Planet HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/13857
+#EXTINF:-1,UK:Cartoon Network
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/13851
+#EXTINF:-1,UK: Channel 4 HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/13848
+#EXTINF:-1,UK: Chelsea Tv HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/13845
+#EXTINF:-1,UK: Comedy Central HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/13843
+#EXTINF:-1,UK: Crime Investigation
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/13842
+#EXTINF:-1,UK: Dave
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/13841
+#EXTINF:-1,UK: Drama
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/13835
+#EXTINF:-1,UK: H2
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/13826
+#EXTINF:-1,UK: BT Sport 1 HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/9421
+#EXTINF:-1,UK | BT Sport 2 HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/9420
+#EXTINF:-1,UK: Discovery Science
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/9374
+#EXTINF:-1,UK: E4
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/9375
+#EXTINF:-1,UK: Five
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/9377
+#EXTINF:-1,UK: HISTORY
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/9381
+#EXTINF:-1,UK: ITV 3
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/9387
+#EXTINF:-1,UK: More 4
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/9389
+#EXTINF:-1,UK: MTV dance
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/9392
+#EXTINF:-1,UK: VH1
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/9404
+#EXTINF:-1,USA: Bowie TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32386
+#EXTINF:-1,USA: Buffalo TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32385
+#EXTINF:-1,USA: BYUtv
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32384
+#EXTINF:-1,USA: C-SPAN
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32383
+#EXTINF:-1,USA: C-SPAN 2
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32382
+#EXTINF:-1,USA: C-SPAN 3
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32381
+#EXTINF:-1,USA: California Music Channel
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32380
+#EXTINF:-1,USA: CBS 4 News (Indianapolis)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32330
+#EXTINF:-1,USA: CBS 5 News (Colorado)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32333
+#EXTINF:-1,USA: CBS News
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32379
+#EXTINF:-1,USA: Channel 7
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32378
+#EXTINF:-1,USA: Classic Arts Showcase
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32377
+#EXTINF:-1,USA: Comet TV (Geo)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32376
+#EXTINF:-1,USA: District Knowledge Network
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32374
+#EXTINF:-1,USA: District of Columbia Network
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32375
+#EXTINF:-1,USA: family guy
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32392
+#EXTINF:-1,USA: Fox News Channel (No Audio)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32373
+#EXTINF:-1,USA: Free Speech TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32372
+#EXTINF:-1,USA: Garland TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32371
+#EXTINF:-1,USA: Greenbelt TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32370
+#EXTINF:-1,USA: House of Representatives
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32369
+#EXTINF:-1,USA: IndieWave
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32368
+#EXTINF:-1,USA: InfoWars
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32367
+#EXTINF:-1,USA: KBVR TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32366
+#EXTINF:-1,USA: Key TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32365
+#EXTINF:-1,USA: King5 News (Seattle)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32327
+#EXTINF:-1,USA: KOMO 4 News (Seattle)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32326
+#EXTINF:-1,USA: Kool TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32364
+#EXTINF:-1,USA: KRGV 5 (Weslaco)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32324
+#EXTINF:-1,USA: MLB Network
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32363
+#EXTINF:-1,USA: MSNBC HD
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32362
+#EXTINF:-1,USA: Music Choice
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32361
+#EXTINF:-1,USA: NBC 10 News (Philadelphia)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32328
+#EXTINF:-1,USA: NBC 11 News (Bay Area)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32339
+#EXTINF:-1,USA: NBC 4 News (Washington DC)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32325
+#EXTINF:-1,USA: NBC 5 News (Chicago)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32335
+#EXTINF:-1,USA: New Orleans TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32360
+#EXTINF:-1,USA: News 12 (Brooklyn)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32336
+#EXTINF:-1,USA: News 12 (Hudson Valley)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32331
+#EXTINF:-1,USA: News 12 (Long Island)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32329
+#EXTINF:-1,USA: News 12 (The Bronx)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32337
+#EXTINF:-1,USA: Newsmax TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32359
+#EXTINF:-1,USA: NFL Now
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32390
+#EXTINF:-1,USA: Orange TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32358
+#EXTINF:-1,USA: QVC
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32357
+#EXTINF:-1,USA: Radio U 88.7 Colombus
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32356
+#EXTINF:-1,USA: Rev'n (New!)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32355
+#EXTINF:-1,USA: RT America
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32354
+#EXTINF:-1,USA: Seminole TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32353
+#EXTINF:-1,USA: Southeastern Channel
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32352
+#EXTINF:-1,USA: Temple TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32351
+#EXTINF:-1,USA: The Blaze
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32350
+#EXTINF:-1,USA: The Country Network
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32349
+#EXTINF:-1,USA: The Weather Channel
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32348
+#EXTINF:-1,USA: TSTV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32347
+#EXTINF:-1,USA: Tuff TV
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32346
+#EXTINF:-1,USA: TVW
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32345
+#EXTINF:-1,USA: TVW-2
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32344
+#EXTINF:-1,USA: Voice of America
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32343
+#EXTINF:-1,USA: VTV Channel 6 Colorado
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32342
+#EXTINF:-1,USA: WBZ 4 News (Boston)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32338
+#EXTINF:-1,USA: WGN 9 News (Chicago)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32334
+#EXTINF:-1,USA: WHPR TV 33 Detroit
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32341
+#EXTINF:-1,USA: WVIT 30 News (Hartford)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32332
+#EXTINF:-1,USA: WWE
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32391
+#EXTINF:-1,USA: WWSB 7 Sarasota (ABC)
+http://m4uiptv.com:25461/live:mtg_2406_1/vJZpZiby1n/32340
+
+#EXTINF:-1,UK: ALIBI
+http://ndasat.pro:8000/live/887423515173646/1593574628/10935.ts
+#EXTINF:-1,UK: Animal planet
+http://ndasat.pro:8000/live/887423515173646/1593574628/10909.ts
+#EXTINF:-1,UK | BBC 1
+http://ndasat.pro:8000/live/887423515173646/1593574628/10970.ts
+#EXTINF:-1,UK | BBC 2
+http://ndasat.pro:8000/live/887423515173646/1593574628/10968.ts
+#EXTINF:-1,UK | BBC 3
+http://ndasat.pro:8000/live/887423515173646/1593574628/10966.ts
+#EXTINF:-1,UK | BBC 4
+http://ndasat.pro:8000/live/887423515173646/1593574628/10964.ts
+#EXTINF:-1,UK: BBC News
+http://ndasat.pro:8000/live/887423515173646/1593574628/10864.ts
+#EXTINF:-1,UK | BBC1 Full HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10971.ts
+#EXTINF:-1,UK | BBC2 Full HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10969.ts
+#EXTINF:-1,UK | BBC3 HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10967.ts
+#EXTINF:-1,UK | BBC4 Full HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10965.ts
+#EXTINF:-1,UK: BOOMERANG
+http://ndasat.pro:8000/live/887423515173646/1593574628/10925.ts
+#EXTINF:-1,UK: BOX NATION
+http://ndasat.pro:8000/live/887423515173646/1593574628/10938.ts
+#EXTINF:-1,UK: BT Sport  ESPN
+http://ndasat.pro:8000/live/887423515173646/1593574628/9531.ts
+#EXTINF:-1,UK: BT SPORT 1
+http://ndasat.pro:8000/live/887423515173646/1593574628/10874.ts
+#EXTINF:-1,UK: BT SPORT 2
+http://ndasat.pro:8000/live/887423515173646/1593574628/10873.ts
+#EXTINF:-1,UK: BT SPORT 3
+http://ndasat.pro:8000/live/887423515173646/1593574628/10872.ts
+#EXTINF:-1,UK: BT SPORT EUROPE
+http://ndasat.pro:8000/live/887423515173646/1593574628/10875.ts
+#EXTINF:-1,UK: Cartoon Network
+http://ndasat.pro:8000/live/887423515173646/1593574628/10924.ts
+#EXTINF:-1,UK: CBS ACTION Full HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10917.ts
+#EXTINF:-1,UK: CBS DRAMA HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10916.ts
+#EXTINF:-1,UK: CBS REALITY Full HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10915.ts
+#EXTINF:-1,UK: CHANNEL 4 Full HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10952.ts
+#EXTINF:-1,UK: CHANNEL 4 HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10953.ts
+#EXTINF:-1,UK: CHANNEL 5 Full HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10951.ts
+#EXTINF:-1,UK: CHELSEA TV
+http://ndasat.pro:8000/live/887423515173646/1593574628/10869.ts
+#EXTINF:-1,UK: CNN International
+http://ndasat.pro:8000/live/887423515173646/1593574628/10858.ts
+#EXTINF:-1,UK: COLORS
+http://ndasat.pro:8000/live/887423515173646/1593574628/10934.ts
+#EXTINF:-1,UK: Comedy Central
+http://ndasat.pro:8000/live/887423515173646/1593574628/10933.ts
+#EXTINF:-1,UK: Crime Investigation
+http://ndasat.pro:8000/live/887423515173646/1593574628/9524.ts
+#EXTINF:-1,UK: DAVE
+http://ndasat.pro:8000/live/887423515173646/1593574628/10932.ts
+#EXTINF:-1,UK: DISCOVERY CHANNEL
+http://ndasat.pro:8000/live/887423515173646/1593574628/10913.ts
+#EXTINF:-1,UK: DISCOVERY HISTORY
+http://ndasat.pro:8000/live/887423515173646/1593574628/10912.ts
+#EXTINF:-1,UK: Discovery Turbo UK
+http://ndasat.pro:8000/live/887423515173646/1593574628/10911.ts
+#EXTINF:-1,UK: Disney channel
+http://ndasat.pro:8000/live/887423515173646/1593574628/10922.ts
+#EXTINF:-1,UK: Disney Jr
+http://ndasat.pro:8000/live/887423515173646/1593574628/10923.ts
+#EXTINF:-1,UK: DISNEY JUNIOR
+http://ndasat.pro:8000/live/887423515173646/1593574628/10920.ts
+#EXTINF:-1,UK: DISNEY XD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10921.ts
+#EXTINF:-1,UK: E!
+http://ndasat.pro:8000/live/887423515173646/1593574628/10931.ts
+#EXTINF:-1,UK: Eir Sport 2 HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/9527.ts
+#EXTINF:-1,UK: Eir Sport 1 HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/9526.ts
+#EXTINF:-1,UK: ESPN
+http://ndasat.pro:8000/live/887423515173646/1593574628/9528.ts
+#EXTINF:-1,UK: EUROSPORT 1
+http://ndasat.pro:8000/live/887423515173646/1593574628/10871.ts
+#EXTINF:-1,UK: EUROSPORT 2
+http://ndasat.pro:8000/live/887423515173646/1593574628/10870.ts
+#EXTINF:-1,UK: FINE LIVING NETWORK Full HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10908.ts
+#EXTINF:-1,UK: FOOD NETWORK
+http://ndasat.pro:8000/live/887423515173646/1593574628/10907.ts
+#EXTINF:-1,UK: FOX HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/9523.ts
+#EXTINF:-1,UK: GOLD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10947.ts
+#EXTINF:-1,UK: Home
+http://ndasat.pro:8000/live/887423515173646/1593574628/10930.ts
+#EXTINF:-1,UK | ITV 1
+http://ndasat.pro:8000/live/887423515173646/1593574628/10962.ts
+#EXTINF:-1,UK | ITV 1 Full HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10963.ts
+#EXTINF:-1,UK: ITV 2
+http://ndasat.pro:8000/live/887423515173646/1593574628/10960.ts
+#EXTINF:-1,UK: ITV 2 HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10961.ts
+#EXTINF:-1,UK: ITV 3
+http://ndasat.pro:8000/live/887423515173646/1593574628/10958.ts
+#EXTINF:-1,UK: ITV 3 HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10959.ts
+#EXTINF:-1,UK: ITV 4
+http://ndasat.pro:8000/live/887423515173646/1593574628/10956.ts
+#EXTINF:-1,UK: ITV 4  Full HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10957.ts
+#EXTINF:-1,UK: ITV Be
+http://ndasat.pro:8000/live/887423515173646/1593574628/10955.ts
+#EXTINF:-1,UK: ITV ENCORE
+http://ndasat.pro:8000/live/887423515173646/1593574628/10954.ts
+#EXTINF:-1,UK: LiverpooL FC
+http://ndasat.pro:8000/live/887423515173646/1593574628/10868.ts
+#EXTINF:-1,UK: LONDON LIVE
+http://ndasat.pro:8000/live/887423515173646/1593574628/10929.ts
+#EXTINF:-1,UK: MAN UTD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10867.ts
+#EXTINF:-1,UK: MORE 4
+http://ndasat.pro:8000/live/887423515173646/1593574628/10928.ts
+#EXTINF:-1,UK: MOTORS TV
+http://ndasat.pro:8000/live/887423515173646/1593574628/10866.ts
+#EXTINF:-1,UK: MTV Base
+http://ndasat.pro:8000/live/887423515173646/1593574628/10862.ts
+#EXTINF:-1,UK: MTV HITS
+http://ndasat.pro:8000/live/887423515173646/1593574628/10861.ts
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC
+http://ndasat.pro:8000/live/887423515173646/1593574628/10896.ts
+#EXTINF:-1,UK: NATIONAL GEOGRAPHIC WILD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10914.ts
+#EXTINF:-1,UK: Nick JR
+http://ndasat.pro:8000/live/887423515173646/1593574628/10919.ts
+#EXTINF:-1,UK: NICKTOONS
+http://ndasat.pro:8000/live/887423515173646/1593574628/10918.ts
+#EXTINF:-1,UK: PICK TV
+http://ndasat.pro:8000/live/887423515173646/1593574628/10895.ts
+#EXTINF:-1,UK: Premier Sports
+http://ndasat.pro:8000/live/887423515173646/1593574628/9530.ts
+#EXTINF:-1,UK: PREMIERE SPORT
+http://ndasat.pro:8000/live/887423515173646/1593574628/10877.ts
+#EXTINF:-1,UK: RACING UK
+http://ndasat.pro:8000/live/887423515173646/1593574628/10865.ts
+#EXTINF:-1,UK: REALLY
+http://ndasat.pro:8000/live/887423515173646/1593574628/10894.ts
+#EXTINF:-1,UK: RTE ONE
+http://ndasat.pro:8000/live/887423515173646/1593574628/10945.ts
+#EXTINF:-1,UK: RTE ONE Full HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10946.ts
+#EXTINF:-1,UK: RTE TWO
+http://ndasat.pro:8000/live/887423515173646/1593574628/10944.ts
+#EXTINF:-1,UK: SETANTA SPORTS
+http://ndasat.pro:8000/live/887423515173646/1593574628/10876.ts
+#EXTINF:-1,UK: SKY ART 1
+http://ndasat.pro:8000/live/887423515173646/1593574628/10939.ts
+#EXTINF:-1,UK: SKY ATLANTIC
+http://ndasat.pro:8000/live/887423515173646/1593574628/10941.ts
+#EXTINF:-1,UK: SKY GOOD FOOD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10906.ts
+#EXTINF:-1,UK: SKY LIVING
+http://ndasat.pro:8000/live/887423515173646/1593574628/10942.ts
+#EXTINF:-1,UK: SKY MOVIES ACTION AND ADVENTURE
+http://ndasat.pro:8000/live/887423515173646/1593574628/10901.ts
+#EXTINF:-1,UK: SKY MOVIES COMEDY
+http://ndasat.pro:8000/live/887423515173646/1593574628/10902.ts
+#EXTINF:-1,UK: SKY MOVIES DISNEY
+http://ndasat.pro:8000/live/887423515173646/1593574628/10900.ts
+#EXTINF:-1,UK: SKY MOVIES DRAMA & ROMANCE
+http://ndasat.pro:8000/live/887423515173646/1593574628/10899.ts
+#EXTINF:-1,UK: SKY MOVIES FAMILY
+http://ndasat.pro:8000/live/887423515173646/1593574628/10903.ts
+#EXTINF:-1,UK: SKY MOVIES PREMIERE
+http://ndasat.pro:8000/live/887423515173646/1593574628/10904.ts
+#EXTINF:-1,UK: SKY MOVIES SCI-FI & HORROR
+http://ndasat.pro:8000/live/887423515173646/1593574628/10898.ts
+#EXTINF:-1,UK: SKY MOVIES SELECT
+http://ndasat.pro:8000/live/887423515173646/1593574628/10905.ts
+#EXTINF:-1,UK: SKY MOVIES THRILLER
+http://ndasat.pro:8000/live/887423515173646/1593574628/10897.ts
+#EXTINF:-1,UK: SKY NEWS
+http://ndasat.pro:8000/live/887423515173646/1593574628/10863.ts
+#EXTINF:-1,UK: SKY ONE
+http://ndasat.pro:8000/live/887423515173646/1593574628/9522.ts
+#EXTINF:-1,UK: Sky Sport Action Backup
+http://ndasat.pro:8000/live/887423515173646/1593574628/10885.ts
+#EXTINF:-1,UK: SKY SPORT CRICKET HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10889.ts
+#EXTINF:-1,UK: SKY SPORT NEWS
+http://ndasat.pro:8000/live/887423515173646/1593574628/10893.ts
+#EXTINF:-1,UK: SKY SPORTS ACTION  HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10886.ts
+#EXTINF:-1,UK: SKY SPORTS CRICKET
+http://ndasat.pro:8000/live/887423515173646/1593574628/10887.ts
+#EXTINF:-1,UK: Sky Sports Cricket Backup
+http://ndasat.pro:8000/live/887423515173646/1593574628/10888.ts
+#EXTINF:-1,UK: SKY SPORTS F1
+http://ndasat.pro:8000/live/887423515173646/1593574628/10878.ts
+#EXTINF:-1,UK: SKY SPORTS F1 HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10879.ts
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10880.ts
+#EXTINF:-1,UK: SKY SPORTS GOLF
+http://ndasat.pro:8000/live/887423515173646/1593574628/10884.ts
+#EXTINF:-1,UK: SKY SPORTS GOLF HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10883.ts
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENTS
+http://ndasat.pro:8000/live/887423515173646/1593574628/10890.ts
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENTS HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10891.ts
+#EXTINF:-1,UK: Sky Sports News
+http://ndasat.pro:8000/live/887423515173646/1593574628/9525.ts
+#EXTINF:-1,UK: SKY SPORTS PERMIERE LEAGUE
+http://ndasat.pro:8000/live/887423515173646/1593574628/10881.ts
+#EXTINF:-1,UK: SKY SPORTS PREMIERE LEAGUE HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10882.ts
+#EXTINF:-1,UK: SKY TWO
+http://ndasat.pro:8000/live/887423515173646/1593574628/10943.ts
+#EXTINF:-1,UK: SYFY
+http://ndasat.pro:8000/live/887423515173646/1593574628/10940.ts
+#EXTINF:-1,UK: TG4
+http://ndasat.pro:8000/live/887423515173646/1593574628/10927.ts
+#EXTINF:-1,UK: Travel channel
+http://ndasat.pro:8000/live/887423515173646/1593574628/10910.ts
+#EXTINF:-1,UK: TRUE MOVIES  1 Full HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/10950.ts
+#EXTINF:-1,UK: True Movies 1
+http://ndasat.pro:8000/live/887423515173646/1593574628/10949.ts
+#EXTINF:-1,UK: True Movies 2
+http://ndasat.pro:8000/live/887423515173646/1593574628/10948.ts
+#EXTINF:-1,UK: TV3
+http://ndasat.pro:8000/live/887423515173646/1593574628/10926.ts
+#EXTINF:-1,UK: VH1 CLASSIC
+http://ndasat.pro:8000/live/887423515173646/1593574628/10860.ts
+#EXTINF:-1,UK: YESTERDAY
+http://ndasat.pro:8000/live/887423515173646/1593574628/10859.ts
+#EXTINF:-1,UK:  E4 UK
+http://ndasat.pro:8000/live/887423515173646/1593574628/10937.ts
+#EXTINF:-1,UK: 5 USA
+http://ndasat.pro:8000/live/887423515173646/1593574628/10936.ts
+#EXTINF:-1,US | A&E
+http://ndasat.pro:8000/live/887423515173646/1593574628/11675.ts
+#EXTINF:-1,US | ABC HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/16395.ts
+#EXTINF:-1,US | ABC news
+http://ndasat.pro:8000/live/887423515173646/1593574628/11674.ts
+#EXTINF:-1,US | AFN SPORTS
+http://ndasat.pro:8000/live/887423515173646/1593574628/11673.ts
+#EXTINF:-1,US | AFN SPORTS 2
+http://ndasat.pro:8000/live/887423515173646/1593574628/11672.ts
+#EXTINF:-1,US: Amazing Facts TV
+http://ndasat.pro:8000/live/887423515173646/1593574628/11671.ts
+#EXTINF:-1,US: AMC
+http://ndasat.pro:8000/live/887423515173646/1593574628/11670.ts
+#EXTINF:-1,US: Animal Planet
+http://ndasat.pro:8000/live/887423515173646/1593574628/11669.ts
+#EXTINF:-1,US: Bein Sports USA HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11668.ts
+#EXTINF:-1,US: Bloomberg
+http://ndasat.pro:8000/live/887423515173646/1593574628/11667.ts
+#EXTINF:-1,US: Boston City TV
+http://ndasat.pro:8000/live/887423515173646/1593574628/11666.ts
+#EXTINF:-1,US: Bravo HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11665.ts
+#EXTINF:-1,US: CBS
+http://ndasat.pro:8000/live/887423515173646/1593574628/11664.ts
+#EXTINF:-1,US: CBS 2
+http://ndasat.pro:8000/live/887423515173646/1593574628/11663.ts
+#EXTINF:-1,US: CBSN HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11662.ts
+#EXTINF:-1,US: Cinemax ActionMax East
+http://ndasat.pro:8000/live/887423515173646/1593574628/11661.ts
+#EXTINF:-1,US: Cinemax Moremax
+http://ndasat.pro:8000/live/887423515173646/1593574628/11660.ts
+#EXTINF:-1,US: CNBC
+http://ndasat.pro:8000/live/887423515173646/1593574628/11659.ts
+#EXTINF:-1,US: CNN HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11658.ts
+#EXTINF:-1,US: CW HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11657.ts
+#EXTINF:-1,US | OWN HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/14734.ts
+#EXTINF:-1,US | Destination Amercia
+http://ndasat.pro:8000/live/887423515173646/1593574628/14226.ts
+#EXTINF:-1,US | Discovery Channel
+http://ndasat.pro:8000/live/887423515173646/1593574628/14227.ts
+#EXTINF:-1,US | Discovery Science
+http://ndasat.pro:8000/live/887423515173646/1593574628/14228.ts
+#EXTINF:-1,US | Investigation Discovery
+http://ndasat.pro:8000/live/887423515173646/1593574628/14225.ts
+#EXTINF:-1,US: ESPN 2 HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11656.ts
+#EXTINF:-1,US: ESPN HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11655.ts
+#EXTINF:-1,US: Food Network
+http://ndasat.pro:8000/live/887423515173646/1593574628/11654.ts
+#EXTINF:-1,US: Fox HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11653.ts
+#EXTINF:-1,US: Fox News
+http://ndasat.pro:8000/live/887423515173646/1593574628/11652.ts
+#EXTINF:-1,US: Fox Sport 1 HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11651.ts
+#EXTINF:-1,US: Fox Sport 2 HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11650.ts
+#EXTINF:-1,US: Freeform HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11649.ts
+#EXTINF:-1,US: HBO
+http://ndasat.pro:8000/live/887423515173646/1593574628/11648.ts
+#EXTINF:-1,US: HBO Comedy
+http://ndasat.pro:8000/live/887423515173646/1593574628/11647.ts
+#EXTINF:-1,US: HBO Family
+http://ndasat.pro:8000/live/887423515173646/1593574628/11646.ts
+#EXTINF:-1,US: HBO SIGNATURE
+http://ndasat.pro:8000/live/887423515173646/1593574628/11645.ts
+#EXTINF:-1,US: HBO ZONE
+http://ndasat.pro:8000/live/887423515173646/1593574628/11644.ts
+#EXTINF:-1,US: History Channel
+http://ndasat.pro:8000/live/887423515173646/1593574628/11643.ts
+#EXTINF:-1,US: Max West
+http://ndasat.pro:8000/live/887423515173646/1593574628/11641.ts
+#EXTINF:-1,US: Mello TV
+http://ndasat.pro:8000/live/887423515173646/1593574628/11640.ts
+#EXTINF:-1,US: National Geographic
+http://ndasat.pro:8000/live/887423515173646/1593574628/11639.ts
+#EXTINF:-1,US | NFL Network
+http://ndasat.pro:8000/live/887423515173646/1593574628/16345.ts
+#EXTINF:-1,US | NFL Redzone
+http://ndasat.pro:8000/live/887423515173646/1593574628/16346.ts
+#EXTINF:-1,US | NHL Network HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/13989.ts
+#EXTINF:-1,US: NBA HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11638.ts
+#EXTINF:-1,US: NBC Golf HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11637.ts
+#EXTINF:-1,US: NBC HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11636.ts
+#EXTINF:-1,US: NBC HD  US
+http://ndasat.pro:8000/live/887423515173646/1593574628/11635.ts
+#EXTINF:-1,US: NBCSN
+http://ndasat.pro:8000/live/887423515173646/1593574628/11634.ts
+#EXTINF:-1,US: Nickelodeon HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11633.ts
+#EXTINF:-1,US: O.W.N HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11632.ts
+#EXTINF:-1,US: RT America HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11631.ts
+#EXTINF:-1,US: RT Documentary
+http://ndasat.pro:8000/live/887423515173646/1593574628/11630.ts
+#EXTINF:-1,US: Showtime West
+http://ndasat.pro:8000/live/887423515173646/1593574628/11629.ts
+#EXTINF:-1,US: Showtime 2 HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/9564.ts
+#EXTINF:-1,US: Showtime HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/9563.ts
+#EXTINF:-1,US: Starz Encore HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/9569.ts
+#EXTINF:-1,US: Spike HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11628.ts
+#EXTINF:-1,US: SportsNet One HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11626.ts
+#EXTINF:-1,US: SportsNet Ontario
+http://ndasat.pro:8000/live/887423515173646/1593574628/11625.ts
+#EXTINF:-1,US: Starz Cinema HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11624.ts
+#EXTINF:-1,US: Starz Edge
+http://ndasat.pro:8000/live/887423515173646/1593574628/11623.ts
+#EXTINF:-1,US: SyFy HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11622.ts
+#EXTINF:-1,US: TBS
+http://ndasat.pro:8000/live/887423515173646/1593574628/11621.ts
+#EXTINF:-1,US: TBS HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11620.ts
+#EXTINF:-1,US: The Florida Channel
+http://ndasat.pro:8000/live/887423515173646/1593574628/11619.ts
+#EXTINF:-1,US: TLC
+http://ndasat.pro:8000/live/887423515173646/1593574628/11618.ts
+#EXTINF:-1,US: TNT HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11617.ts
+#EXTINF:-1,US: TSN sport 1 HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11615.ts
+#EXTINF:-1,US: TSN sport 2 HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11614.ts
+#EXTINF:-1,US: TSN sport 3 HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11613.ts
+#EXTINF:-1,US: TSN sport 4 HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11612.ts
+#EXTINF:-1,US: TSN sport 5 HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11611.ts
+#EXTINF:-1,US: USA Network
+http://ndasat.pro:8000/live/887423515173646/1593574628/11609.ts
+#EXTINF:-1,US: Willow Cricket HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11608.ts
+#EXTINF:-1,US: World Fashion HD
+http://ndasat.pro:8000/live/887423515173646/1593574628/11607.ts
+#EXTINF:-1,US: WWE
+http://ndasat.pro:8000/live/887423515173646/1593574628/11606.ts
