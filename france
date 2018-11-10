@@ -1,1374 +1,2619 @@
 #EXTM3U
-#EXTINF:-1,FR:13eme Rue
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15431
-#EXTINF:-1,FR:6ter
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15430
-#EXTINF:-1,FR:A La Carte 1
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15447
-#EXTINF:-1,FR:A La Carte 10
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15429
-#EXTINF:-1,FR:A La Carte 2
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15446
-#EXTINF:-1,FR:A La Carte 3
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15445
-#EXTINF:-1,FR:A La Carte 4
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15444
-#EXTINF:-1,FR:A La Carte 5
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15443
-#EXTINF:-1,FR:A La Carte 6
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15442
-#EXTINF:-1,FR:A La Carte 7
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15441
-#EXTINF:-1,FR:A La Carte 8
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15440
-#EXTINF:-1,FR:A La Carte 9
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15439
-#EXTINF:-1,FR:AB Moteurs
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15438
-#EXTINF:-1,FR:AB1
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15437
-#EXTINF:-1,FR:AB3
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15436
+#EXTINF:-1,6TER
+http://rb-group-server.com:25461/live/444777/777444/5503.m3u8
+#EXTINF:-1,W9
+http://rb-group-server.com:25461/live/444777/777444/5512.m3u8
+#EXTINF:-1,C8
+http://rb-group-server.com:25461/live/444777/777444/5504.m3u8
+#EXTINF:-1,FRANCE 2
+http://rb-group-server.com:25461/live/444777/777444/5518.m3u8
+#EXTINF:-1,FRANCE 3
+http://rb-group-server.com:25461/live/444777/777444/5517.m3u8
+#EXTINF:-1,FRANCE 4
+http://rb-group-server.com:25461/live/444777/777444/5516.m3u8
+#EXTINF:-1,FRANCE 5
+http://rb-group-server.com:25461/live/444777/777444/5515.m3u8
+#EXTINF:-1,FRANCE O
+http://rb-group-server.com:25461/live/444777/777444/5514.m3u8
+#EXTINF:-1,FRANCE 24.
+http://rb-group-server.com:25461/live/444777/777444/9775.m3u8
+#EXTINF:-1,FRANCE INFO
+http://rb-group-server.com:25461/live/444777/777444/5513.m3u8
+#EXTINF:-1,TF1
+http://rb-group-server.com:25461/live/444777/777444/5520.m3u8
+#EXTINF:-1,TF1 Series Films
+http://rb-group-server.com:25461/live/444777/777444/5502.m3u8
+#EXTINF:-1,TFX
+http://rb-group-server.com:25461/live/444777/777444/5510.m3u8
+#EXTINF:-1,M6
+http://rb-group-server.com:25461/live/444777/777444/5519.m3u8
+#EXTINF:-1,CANAL NEWS
+http://rb-group-server.com:25461/live/444777/777444/5431.m3u8
+#EXTINF:-1,I24 NEWS
+http://rb-group-server.com:25461/live/444777/777444/10682.m3u8
+#EXTINF:-1,Euronews
+http://rb-group-server.com:25461/live/444777/777444/3324.m3u8
+#EXTINF:-1,TV5 MONDE
+http://rb-group-server.com:25461/live/444777/777444/3325.m3u8
+#EXTINF:-1,RT FRANCE
+http://rb-group-server.com:25461/live/444777/777444/11574.m3u8
+#EXTINF:-1,LCI
+http://rb-group-server.com:25461/live/444777/777444/9432.m3u8
+#EXTINF:-1,LCP
+http://rb-group-server.com:25461/live/444777/777444/3373.m3u8
+#EXTINF:-1,Arte
+http://rb-group-server.com:25461/live/444777/777444/5507.m3u8
+#EXTINF:-1,BFM TV
+http://rb-group-server.com:25461/live/444777/777444/5432.m3u8
+#EXTINF:-1,BFM Business
+http://rb-group-server.com:25461/live/444777/777444/5433.m3u8
+#EXTINF:-1,Paris Premiere
+http://rb-group-server.com:25461/live/444777/777444/3320.m3u8
+#EXTINF:-1,13ème RUE
+http://rb-group-server.com:25461/live/444777/777444/5479.m3u8
+#EXTINF:-1,RMC Story
+http://rb-group-server.com:25461/live/444777/777444/5508.m3u8
+#EXTINF:-1,TV Breizh
+http://rb-group-server.com:25461/live/444777/777444/5419.m3u8
+#EXTINF:-1,Comédie
+http://rb-group-server.com:25461/live/444777/777444/5430.m3u8
+#EXTINF:-1,Elle Girl
+http://rb-group-server.com:25461/live/444777/777444/5428.m3u8
+#EXTINF:-1,Série Club
+http://rb-group-server.com:25461/live/444777/777444/5482.m3u8
+#EXTINF:-1,Syfy
+http://rb-group-server.com:25461/live/444777/777444/3316.m3u8
+#EXTINF:-1,Teva
+http://rb-group-server.com:25461/live/444777/777444/6282.m3u8
+#EXTINF:-1,Chérie 25
+http://rb-group-server.com:25461/live/444777/777444/5505.m3u8
+#EXTINF:-1,TMC
+http://rb-group-server.com:25461/live/444777/777444/5511.m3u8
+#EXTINF:-1,TCM Cinéma
+http://rb-group-server.com:25461/live/444777/777444/5477.m3u8
+#EXTINF:-1,altice STUDIO
+http://rb-group-server.com:25461/live/444777/777444/9470.m3u8
+#EXTINF:-1,Sundance TV
+http://rb-group-server.com:25461/live/444777/777444/8712.m3u8
+#EXTINF:-1,TV8 Mont Blanc
+http://rb-group-server.com:25461/live/444777/777444/10681.m3u8
+#EXTINF:-1,Rouge TV
+http://rb-group-server.com:25461/live/444777/777444/10672.m3u8
+#EXTINF:-1,CSTAR
+http://rb-group-server.com:25461/live/444777/777444/5506.m3u8
+#EXTINF:-1,ONE TV
+http://rb-group-server.com:25461/live/444777/777444/10679.m3u8
+#EXTINF:-1,ALSACE 20 HD
+http://rb-group-server.com:25461/live/444777/777444/11592.m3u8
+#EXTINF:-1,Grand Lille TV
+http://rb-group-server.com:25461/live/444777/777444/11593.m3u8
+#EXTINF:-1,RTL9
+http://rb-group-server.com:25461/live/444777/777444/5478.m3u8
+#EXTINF:-1,AB1
+http://rb-group-server.com:25461/live/444777/777444/5480.m3u8
+#EXTINF:-1,FR: Tiji
+http://rb-group-server.com:25461/live/444777/777444/5444.m3u8
+#EXTINF:-1,FR: Piwi
+http://rb-group-server.com:25461/live/444777/777444/5443.m3u8
+#EXTINF:-1,FR: Gulli
+http://rb-group-server.com:25461/live/444777/777444/5439.m3u8
+#EXTINF:-1,FR: Mangas
+http://rb-group-server.com:25461/live/444777/777444/5438.m3u8
+#EXTINF:-1,FR: Canal J
+http://rb-group-server.com:25461/live/444777/777444/5448.m3u8
+#EXTINF:-1,FR: TéléTOON
+http://rb-group-server.com:25461/live/444777/777444/5445.m3u8
+#EXTINF:-1,FR: Boomerang
+http://rb-group-server.com:25461/live/444777/777444/5446.m3u8
+#EXTINF:-1,FR: Disney. Channel
+http://rb-group-server.com:25461/live/444777/777444/5437.m3u8
+#EXTINF:-1,FR: Disney Junior
+http://rb-group-server.com:25461/live/444777/777444/5435.m3u8
+#EXTINF:-1,FR: Disney Cinema
+http://rb-group-server.com:25461/live/444777/777444/5436.m3u8
+#EXTINF:-1,FR: Disney XD
+http://rb-group-server.com:25461/live/444777/777444/5434.m3u8
+#EXTINF:-1,FR: Cartoon Network'
+http://rb-group-server.com:25461/live/444777/777444/5449.m3u8
+#EXTINF:-1,FR: Nickelodeon'
+http://rb-group-server.com:25461/live/444777/777444/5442.m3u8
+#EXTINF:-1,FR: Nickelodeon Junior
+http://rb-group-server.com:25461/live/444777/777444/5441.m3u8
+#EXTINF:-1,FR: Nickelodeon 4teen
+http://rb-group-server.com:25461/live/444777/777444/9486.m3u8
+#EXTINF:-1,FR:Toonami HD
+http://rb-group-server.com:25461/live/444777/777444/7433.m3u8
+#EXTINF:-1,FR: BOING
+http://rb-group-server.com:25461/live/444777/777444/5447.m3u8
+#EXTINF:-1,FR: J ONE
+http://rb-group-server.com:25461/live/444777/777444/11311.m3u8
+#EXTINF:-1,FR: Zouzous Tv
+http://rb-group-server.com:25461/live/444777/777444/7985.m3u8
+#EXTINF:-1,FR: Game One
+http://rb-group-server.com:25461/live/444777/777444/5440.m3u8
+#EXTINF:-1,MCM
+http://rb-group-server.com:25461/live/444777/777444/5427.m3u8
+#EXTINF:-1,Paramount Channel
+http://rb-group-server.com:25461/live/444777/777444/5484.m3u8
+#EXTINF:-1,WARNER TV
+http://rb-group-server.com:25461/live/444777/777444/11308.m3u8
+#EXTINF:-1,Action
+http://rb-group-server.com:25461/live/444777/777444/5481.m3u8
+#EXTINF:-1,Canal+
+http://rb-group-server.com:25461/live/444777/777444/12071.m3u8
+#EXTINF:-1,Canal+ Cinéma
+http://rb-group-server.com:25461/live/444777/777444/12073.m3u8
+#EXTINF:-1,Canal+ Décalé
+http://rb-group-server.com:25461/live/444777/777444/5495.m3u8
+#EXTINF:-1,Canal+ Séries
+http://rb-group-server.com:25461/live/444777/777444/12066.m3u8
+#EXTINF:-1,Canal+ Family
+http://rb-group-server.com:25461/live/444777/777444/5494.m3u8
+#EXTINF:-1,Ciné+ Frisson
+http://rb-group-server.com:25461/live/444777/777444/5487.m3u8
+#EXTINF:-1,Ciné+ Emotion
+http://rb-group-server.com:25461/live/444777/777444/5489.m3u8
+#EXTINF:-1,Ciné+ Classic
+http://rb-group-server.com:25461/live/444777/777444/5491.m3u8
+#EXTINF:-1,Ciné+ Premier
+http://rb-group-server.com:25461/live/444777/777444/5492.m3u8
+#EXTINF:-1,Ciné+ Famiz
+http://rb-group-server.com:25461/live/444777/777444/5488.m3u8
+#EXTINF:-1,Cine Club
+http://rb-group-server.com:25461/live/444777/777444/8590.m3u8
+#EXTINF:-1,OCS City
+http://rb-group-server.com:25461/live/444777/777444/3347.m3u8
+#EXTINF:-1,OCS MAX
+http://rb-group-server.com:25461/live/444777/777444/3348.m3u8
+#EXTINF:-1,OCS CHOC
+http://rb-group-server.com:25461/live/444777/777444/3346.m3u8
+#EXTINF:-1,OCS Geants
+http://rb-group-server.com:25461/live/444777/777444/3345.m3u8
+#EXTINF:-1,SFR Action
+http://rb-group-server.com:25461/live/444777/777444/8705.m3u8
+#EXTINF:-1,SFR_Horror
+http://rb-group-server.com:25461/live/444777/777444/8708.m3u8
+#EXTINF:-1,SFR Comedy
+http://rb-group-server.com:25461/live/444777/777444/8706.m3u8
+#EXTINF:-1,SFR SCI-FI
+http://rb-group-server.com:25461/live/444777/777444/8707.m3u8
+#EXTINF:-1,Bet.
+http://rb-group-server.com:25461/live/444777/777444/10366.m3u8
+#EXTINF:-1,E!
+http://rb-group-server.com:25461/live/444777/777444/3274.m3u8
+#EXTINF:-1,My Cuisine
+http://rb-group-server.com:25461/live/444777/777444/9389.m3u8
+#EXTINF:-1,Ushuaïa
+http://rb-group-server.com:25461/live/444777/777444/5457.m3u8
+#EXTINF:-1,Animaux
+http://rb-group-server.com:25461/live/444777/777444/5455.m3u8
+#EXTINF:-1,Chasse et Peche
+http://rb-group-server.com:25461/live/444777/777444/3333.m3u8
+#EXTINF:-1,Seasons
+http://rb-group-server.com:25461/live/444777/777444/5456.m3u8
+#EXTINF:-1,Voyage
+http://rb-group-server.com:25461/live/444777/777444/5450.m3u8
+#EXTINF:-1,TREK
+http://rb-group-server.com:25461/live/444777/777444/5420.m3u8
+#EXTINF:-1,Planète+
+http://rb-group-server.com:25461/live/444777/777444/5462.m3u8
+#EXTINF:-1,Planète+ CI
+http://rb-group-server.com:25461/live/444777/777444/5460.m3u8
+#EXTINF:-1,Planète+ A&E
+http://rb-group-server.com:25461/live/444777/777444/5461.m3u8
+#EXTINF:-1,Science & Vie
+http://rb-group-server.com:25461/live/444777/777444/5454.m3u8
+#EXTINF:-1,RMC Découverte
+http://rb-group-server.com:25461/live/444777/777444/5501.m3u8
+#EXTINF:-1,Crime District
+http://rb-group-server.com:25461/live/444777/777444/9415.m3u8
+#EXTINF:-1,Histoire
+http://rb-group-server.com:25461/live/444777/777444/5453.m3u8
+#EXTINF:-1,Toute.l'histoire
+http://rb-group-server.com:25461/live/444777/777444/3330.m3u8
+#EXTINF:-1,Weo
+http://rb-group-server.com:25461/live/444777/777444/3315.m3u8
+#EXTINF:-1,Discovery
+http://rb-group-server.com:25461/live/444777/777444/5452.m3u8
+#EXTINF:-1,Discovery Family
+http://rb-group-server.com:25461/live/444777/777444/11594.m3u8
+#EXTINF:-1,Discovery Science
+http://rb-group-server.com:25461/live/444777/777444/5451.m3u8
+#EXTINF:-1,Discovery Investigation
+http://rb-group-server.com:25461/live/444777/777444/3303.m3u8
+#EXTINF:-1,NatGeo Wild
+http://rb-group-server.com:25461/live/444777/777444/5459.m3u8
+#EXTINF:-1,National Geographic
+http://rb-group-server.com:25461/live/444777/777444/5458.m3u8
+#EXTINF:-1,Canal+ Sport
+http://rb-group-server.com:25461/live/444777/777444/12072.m3u8
+#EXTINF:-1,RMC Sport 1
+http://rb-group-server.com:25461/live/444777/777444/12069.m3u8
+#EXTINF:-1,RMC Sport 2
+http://rb-group-server.com:25461/live/444777/777444/5472.m3u8
+#EXTINF:-1,RMC Sport 3
+http://rb-group-server.com:25461/live/444777/777444/5471.m3u8
+#EXTINF:-1,RMC Sport 5
+http://rb-group-server.com:25461/live/444777/777444/5470.m3u8
+#EXTINF:-1,Bein Sport HD 1
+http://rb-group-server.com:25461/live/444777/777444/12070.m3u8
+#EXTINF:-1,Bein Sport HD 2
+http://rb-group-server.com:25461/live/444777/777444/12074.m3u8
+#EXTINF:-1,Bein Sport HD 3
+http://rb-group-server.com:25461/live/444777/777444/12065.m3u8
+#EXTINF:-1,beIN Sports max 4 HD
+http://rb-group-server.com:25461/live/444777/777444/3285.m3u8
+#EXTINF:-1,beIN Sports max 5 HD
+http://rb-group-server.com:25461/live/444777/777444/3284.m3u8
+#EXTINF:-1,beIN Sports max 6 HD
+http://rb-group-server.com:25461/live/444777/777444/3286.m3u8
+#EXTINF:-1,beIN Sports max 7 HD
+http://rb-group-server.com:25461/live/444777/777444/3283.m3u8
+#EXTINF:-1,beIN Sports max 8 HD
+http://rb-group-server.com:25461/live/444777/777444/3282.m3u8
+#EXTINF:-1,beIN Sports max 9 HD
+http://rb-group-server.com:25461/live/444777/777444/11454.m3u8
+#EXTINF:-1,beIN Sports max 10 HD
+http://rb-group-server.com:25461/live/444777/777444/11455.m3u8
+#EXTINF:-1,Teleclub Zoom
+http://rb-group-server.com:25461/live/444777/777444/11595.m3u8
+#EXTINF:-1,Infosport
+http://rb-group-server.com:25461/live/444777/777444/5466.m3u8
+#EXTINF:-1,Eurosport 1
+http://rb-group-server.com:25461/live/444777/777444/3277.m3u8
+#EXTINF:-1,Eurosport 2
+http://rb-group-server.com:25461/live/444777/777444/3276.m3u8
+#EXTINF:-1,OL TV
+http://rb-group-server.com:25461/live/444777/777444/10361.m3u8
+#EXTINF:-1,Foot 24
+http://rb-group-server.com:25461/live/444777/777444/3278.m3u8
+#EXTINF:-1,BFM Sport
+http://rb-group-server.com:25461/live/444777/777444/10363.m3u8
+#EXTINF:-1,Equidia Live
+http://rb-group-server.com:25461/live/444777/777444/5467.m3u8
+#EXTINF:-1,L'équipe 21
+http://rb-group-server.com:25461/live/444777/777444/5465.m3u8
+#EXTINF:-1,AB Moteurs
+http://rb-group-server.com:25461/live/444777/777444/3335.m3u8
+#EXTINF:-1,Motorsport Tv.
+http://rb-group-server.com:25461/live/444777/777444/10674.m3u8
+#EXTINF:-1,Golf
+http://rb-group-server.com:25461/live/444777/777444/5464.m3u8
+#EXTINF:-1,Golf+
+http://rb-group-server.com:25461/live/444777/777444/10148.m3u8
+#EXTINF:-1,Golf+ HD
+http://rb-group-server.com:25461/live/444777/777444/10360.m3u8
+#EXTINF:-1,NRJ12
+http://rb-group-server.com:25461/live/444777/777444/5509.m3u8
+#EXTINF:-1,LFM TV
+http://rb-group-server.com:25461/live/444777/777444/10678.m3u8
+#EXTINF:-1,M6 MUSIC
+http://rb-group-server.com:25461/live/444777/777444/3290.m3u8
+#EXTINF:-1,VH1 Classic
+http://rb-group-server.com:25461/live/444777/777444/11306.m3u8
+#EXTINF:-1,Trace Urban
+http://rb-group-server.com:25461/live/444777/777444/5421.m3u8
+#EXTINF:-1,Trace Africa
+http://rb-group-server.com:25461/live/444777/777444/10364.m3u8
+#EXTINF:-1,Trace Tropical
+http://rb-group-server.com:25461/live/444777/777444/10365.m3u8
+#EXTINF:-1,NRJ TV
+http://rb-group-server.com:25461/live/444777/777444/10676.m3u8
+#EXTINF:-1,TVM3
+http://rb-group-server.com:25461/live/444777/777444/10680.m3u8
+#EXTINF:-1,Brava tv
+http://rb-group-server.com:25461/live/444777/777444/10362.m3u8
+#EXTINF:-1,RFM TV
+http://rb-group-server.com:25461/live/444777/777444/10675.m3u8
+#EXTINF:-1,MTV HITS.
+http://rb-group-server.com:25461/live/444777/777444/10677.m3u8
+#EXTINF:-1,MTV FRANCE.
+http://rb-group-server.com:25461/live/444777/777444/5424.m3u8
+#EXTINF:-1,MCM  TOP
+http://rb-group-server.com:25461/live/444777/777444/5426.m3u8
+#EXTINF:-1,MEZZO LIVE.
+http://rb-group-server.com:25461/live/444777/777444/5425.m3u8
+#EXTINF:-1,A LA CARTE 1
+http://rb-group-server.com:25461/live/444777/777444/3273.m3u8
+#EXTINF:-1,A LA CARTE 2
+http://rb-group-server.com:25461/live/444777/777444/3272.m3u8
+#EXTINF:-1,A LA CARTE 3
+http://rb-group-server.com:25461/live/444777/777444/3271.m3u8
+#EXTINF:-1,A LA CARTE 4
+http://rb-group-server.com:25461/live/444777/777444/3270.m3u8
+#EXTINF:-1,A LA CARTE 5
+http://rb-group-server.com:25461/live/444777/777444/3269.m3u8
+#EXTINF:-1,A LA CARTE 6
+http://rb-group-server.com:25461/live/444777/777444/3268.m3u8
+#EXTINF:-1,A LA CARTE 7
+http://rb-group-server.com:25461/live/444777/777444/3267.m3u8
+
+#EXTINF:-1,FR CIne Premier HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/19615
+#EXTINF:-1,FR:6TER HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20504
 #EXTINF:-1,FR:ACTION
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15435
-#EXTINF:-1,FR:Animaux
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15434
-#EXTINF:-1,FR:Arte
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15433
-#EXTINF:-1,FR:Bein Sport 1
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15417
-#EXTINF:-1,FR:Bein Sport 2
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15416
-#EXTINF:-1,FR:Bein Sport 3
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15415
-#EXTINF:-1,FR:BeIN SPORTS MAX 4
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15421
-#EXTINF:-1,FR:BeIN SPORTS MAX 5
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15420
-#EXTINF:-1,FR:BeIN SPORTS MAX 6
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15419
-#EXTINF:-1,FR:BeIN SPORTS MAX 7
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15418
-#EXTINF:-1,FR:BEINSPORT 14 HD
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15428
-#EXTINF:-1,FR:BEINSPORT 15 HD
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15427
-#EXTINF:-1,FR:BEINSPORT 16 HD
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15426
-#EXTINF:-1,FR:Bet etoile
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15414
-#EXTINF:-1,FR:BFM Business
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15425
-#EXTINF:-1,FR:BFM Sport
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15424
-#EXTINF:-1,FR:BFM TV
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15423
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20501
+#EXTINF:-1,FR:A_LaCarte_1
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20385
+#EXTINF:-1,FR:A_LaCarte_2
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20384
+#EXTINF:-1,FR:A_LaCarte_3
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20383
+#EXTINF:-1,FR:A_LaCarte_4
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20382
+#EXTINF:-1,FR:A_LaCarte_5
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20381
+#EXTINF:-1,FR:A_LaCarte_6
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20380
+#EXTINF:-1,FR:A_LaCarte_7
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20379
+#EXTINF:-1,A_LaCarte_8
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20378
+#EXTINF:-1,FR:BeinSport MAX7
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20372
+#EXTINF:-1,FR:BeinSport MAX 8
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20371
 #EXTINF:-1,FR:BOING
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15422
-#EXTINF:-1,FR:Boomerang
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15413
-#EXTINF:-1,FR:C Star
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15412
-#EXTINF:-1,FR:C8
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15411
-#EXTINF:-1,FR:Canal
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15406
-#EXTINF:-1,FR:Canal  Cinema
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15405
-#EXTINF:-1,FR:Canal  Family
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15404
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20490
+#EXTINF:-1,FR:C8 HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20486
+#EXTINF:-1,FR:CANAL CINEMA HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20485
 #EXTINF:-1,FR:Canal  Series
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15403
-#EXTINF:-1,FR:Canal  Sport
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15402
-#EXTINF:-1,FR:Canal Cinema
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15409
-#EXTINF:-1,FR:Canal Decale
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15408
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20370
+#EXTINF:-1,FR:Canal  sport
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20480
+#EXTINF:-1,FR:Canal Decale HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20484
 #EXTINF:-1,FR:Canal J
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15407
-#EXTINF:-1,FR:Canal S
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15432
-#EXTINF:-1,FR:Cartoon Network
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15401
-#EXTINF:-1,FR:Chasse & Peche
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15400
-#EXTINF:-1,FR:Cherie 25
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15399
-#EXTINF:-1,FR:Cine Classic
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15398
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20483
+#EXTINF:-1,FR:CH RTS Un
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20475
+#EXTINF:-1,FR:Cine+ Premier
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20468
 #EXTINF:-1,FR:Cine Emotion
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15397
-#EXTINF:-1,FR:Cine Famiz
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15395
-#EXTINF:-1,FR:Cine Frisson
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15394
-#EXTINF:-1,FR:Cine FX
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15396
-#EXTINF:-1,FR:Cine Polar
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15393
-#EXTINF:-1,FR:Cine Premiere
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15392
-#EXTINF:-1,FR:COMEDIE
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15410
-#EXTINF:-1,FR:Discovery
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15388
-#EXTINF:-1,FR:Discovery Science
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15387
-#EXTINF:-1,FR:Disney Channel
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15386
-#EXTINF:-1,FR:DISNEY CINEMA
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15391
-#EXTINF:-1,FR:DISNEY JUNIOR
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15390
-#EXTINF:-1,FR:DISNEY XD
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15389
-#EXTINF:-1,FR:ENORME TV
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15385
-#EXTINF:-1,FR:EQUIDIA Life
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15384
-#EXTINF:-1,FR:Eurosport 1
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15383
-#EXTINF:-1,FR:Eurosport 2
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15382
-#EXTINF:-1,FR:Foot 24/24
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15380
-#EXTINF:-1,FR:FRANCE 2
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15381
-#EXTINF:-1,FR:France 3
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15379
-#EXTINF:-1,FR:France 4
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15378
-#EXTINF:-1,FR:France 5
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15377
-#EXTINF:-1,FR:France O
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15376
-#EXTINF:-1,FR:France24
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15375
-#EXTINF:-1,FR:GAME ONE
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15374
-#EXTINF:-1,FR:GOLF
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15373
-#EXTINF:-1,FR:Gulli
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15372
-#EXTINF:-1,FR:HD1
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15371
-#EXTINF:-1,FR:Histoire
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15370
-#EXTINF:-1,FR:Infosport
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15368
-#EXTINF:-1,FR:iTELE
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15323
-#EXTINF:-1,FR:Lequipe 21
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15367
-#EXTINF:-1,FR:M6
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15366
-#EXTINF:-1,FR:M6 Music
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15365
-#EXTINF:-1,FR:Mangas
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15364
-#EXTINF:-1,FR:Nat Geo Wild
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15359
-#EXTINF:-1,FR:National Geographic
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15358
-#EXTINF:-1,FR:Nickelodeon
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15357
-#EXTINF:-1,FR:Nickelodeon Junior
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15356
-#EXTINF:-1,FR:NRJ HITS
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15363
-#EXTINF:-1,FR:NRJ12 HD
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15362
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20467
+#EXTINF:-1,FR:CINE FRISSON
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20466
+#EXTINF:-1,FR:CineFx
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20464
+#EXTINF:-1,FR:Euronews
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20452
+#EXTINF:-1,FR:Golf
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20443
+#EXTINF:-1,FR:Movies6
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20427
 #EXTINF:-1,FR:NT 1
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15361
-#EXTINF:-1,FR:NUMERO 23
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15360
-#EXTINF:-1,FR:OCS CHOC
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15355
-#EXTINF:-1,FR:OCS CITY
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15354
-#EXTINF:-1,FR:OCS GEANT
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15353
-#EXTINF:-1,FR:OCS MAX
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15352
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20423
+#EXTINF:-1,FR:OCS CHOC HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20420
+#EXTINF:-1,FR:OCS MAX HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20419
 #EXTINF:-1,FR:Paramount Channel
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15348
-#EXTINF:-1,FR:PARIS PREMIERE
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15351
-#EXTINF:-1,FR:Piwi
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15347
-#EXTINF:-1,FR:Planete
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15346
-#EXTINF:-1,FR:PLANETE A&E
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15350
-#EXTINF:-1,FR:PLANETE CI
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15349
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20414
 #EXTINF:-1,FR:RMC Decouverte
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15345
-#EXTINF:-1,FR:Rtl 9
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15344
-#EXTINF:-1,FR:SCIENCE ET VIE
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15343
-#EXTINF:-1,FR:SEASON
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15342
-#EXTINF:-1,FR:SERIE CLUB
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15341
-#EXTINF:-1,FR:SFR SPORT 1
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15340
-#EXTINF:-1,FR:SFR SPORT 2
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15339
-#EXTINF:-1,FR:SFR SPORT 3
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15338
-#EXTINF:-1,FR:Syfy
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15337
-#EXTINF:-1,FR:TCM
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15336
-#EXTINF:-1,FR:TELETOON
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15335
-#EXTINF:-1,FR:TEVA
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15334
-#EXTINF:-1,FR:TF1
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15333
-#EXTINF:-1,FR:TIJI
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15332
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20408
+#EXTINF:-1,FR:RTL9
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20407
+#EXTINF:-1,FR:RTS Deux
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20406
+#EXTINF:-1,FR:Science Vie
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20404
+#EXTINF:-1,FR:SERIE CLUB HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20401
+#EXTINF:-1,FR:SFR SPORT 2 HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20366
+#EXTINF:-1,FR:SFR SPORT 3 HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20399
+#EXTINF:-1,FR:Syfy HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20365
+#EXTINF:-1,FR:TeleTOON Plus1
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20396
+#EXTINF:-1,FR:TF1 HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20394
+#EXTINF:-1,FR:Tiji
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20393
 #EXTINF:-1,FR:TMC HD
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15331
-#EXTINF:-1,FR:Toute l'Histoire
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15328
-#EXTINF:-1,FR:TREK
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15330
-#EXTINF:-1,FR:TV BREIZH
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15329
-#EXTINF:-1,FR:Tvm 3
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15327
-#EXTINF:-1,FR:Ushuaia TV
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15326
-#EXTINF:-1,FR:Voyage
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15325
-#EXTINF:-1,FR:W9
-http://1ftps.ddns.net:80/new4tec/Hn1RwhEOli/15324
-
-#EXTINF:-1,[FR] TF1 FHD
-http://world-ipsat.com:1155/live/maria/12345678/2193.ts
-#EXTINF:-1,[FR] TF1-SD
-http://world-ipsat.com:1155/live/maria/12345678/6222.ts
-#EXTINF:-1,[FR] FRANCE2 HD
-http://world-ipsat.com:1155/live/maria/12345678/2188.ts
-#EXTINF:-1,[FR] FRAnCE 2HD
-http://world-ipsat.com:1155/live/maria/12345678/5506.ts
-#EXTINF:-1,[FR] FRANCE2 SD
-http://world-ipsat.com:1155/live/maria/12345678/444.ts
-#EXTINF:-1,[FR] FRANCE3 HD
-http://world-ipsat.com:1155/live/maria/12345678/445.ts
-#EXTINF:-1,[FR] FRANCE.3 HD
-http://world-ipsat.com:1155/live/maria/12345678/5505.ts
-#EXTINF:-1,[FR] FRANCE3 SD
-http://world-ipsat.com:1155/live/maria/12345678/2517.ts
-#EXTINF:-1,[FR] FRANCE4 HD
-http://world-ipsat.com:1155/live/maria/12345678/446.ts
-#EXTINF:-1,[FR] FRANCE .4 SD
-http://world-ipsat.com:1155/live/maria/12345678/5504.ts
-#EXTINF:-1,[FR] FRANCE4 SD
-http://world-ipsat.com:1155/live/maria/12345678/2518.ts
-#EXTINF:-1,[FR] FRANCE5 HD
-http://world-ipsat.com:1155/live/maria/12345678/447.ts
-#EXTINF:-1,[FR] FRANCE 5 SD
-http://world-ipsat.com:1155/live/maria/12345678/5503.ts
-#EXTINF:-1,[FR] FRANCE5 SD
-http://world-ipsat.com:1155/live/maria/12345678/2519.ts
-#EXTINF:-1,[FR] FRANCE O HD
-http://world-ipsat.com:1155/live/maria/12345678/448.ts
-#EXTINF:-1,[FR] FRANCE O
-http://world-ipsat.com:1155/live/maria/12345678/5502.ts
-#EXTINF:-1,[FR] FRANCE O SD
-http://world-ipsat.com:1155/live/maria/12345678/2520.ts
-#EXTINF:-1,[FR] M6 FHD
-http://world-ipsat.com:1155/live/maria/12345678/2474.ts
-#EXTINF:-1,[FR] M6 HD
-http://world-ipsat.com:1155/live/maria/12345678/2587.ts
-#EXTINF:-1,[FR] M6 SD
-http://world-ipsat.com:1155/live/maria/12345678/450.ts
-#EXTINF:-1,[FR] PARIS PREMIERE SD
-http://world-ipsat.com:1155/live/maria/12345678/469.ts
-#EXTINF:-1,[FR] TMC HD
-http://world-ipsat.com:1155/live/maria/12345678/1624.ts
-#EXTINF:-1,[FR] TMC.HD
-http://world-ipsat.com:1155/live/maria/12345678/5500.ts
-#EXTINF:-1,[FR] TMC SD
-http://world-ipsat.com:1155/live/maria/12345678/474.ts
-#EXTINF:-1,[FR] TV BREIZH SD
-http://world-ipsat.com:1155/live/maria/12345678/1355.ts
-#EXTINF:-1,[FR] 6TER HD
-http://world-ipsat.com:1155/live/maria/12345678/5490.ts
-#EXTINF:-1,[FR] 6TER SD
-http://world-ipsat.com:1155/live/maria/12345678/455.ts
-#EXTINF:-1,[FR] ARTE HD
-http://world-ipsat.com:1155/live/maria/12345678/5492.ts
-#EXTINF:-1,[FR] ARTE SD
-http://world-ipsat.com:1155/live/maria/12345678/456.ts
-#EXTINF:-1,[FR] W9 HD
-http://world-ipsat.com:1155/live/maria/12345678/2295.ts
-#EXTINF:-1,[FR] W9.HD
-http://world-ipsat.com:1155/live/maria/12345678/5501.ts
-#EXTINF:-1,[FR] W9 SD
-http://world-ipsat.com:1155/live/maria/12345678/451.ts
-#EXTINF:-1,[FR] TFX HD
-http://world-ipsat.com:1155/live/maria/12345678/5499.ts
-#EXTINF:-1,[FR] TF1 SERIES HD
-http://world-ipsat.com:1155/live/maria/12345678/5507.ts
-#EXTINF:-1,[FR] TF1 SERIES FILMS SD
-http://world-ipsat.com:1155/live/maria/12345678/454.ts
-#EXTINF:-1,[FR]-+-+-CINEMA FRANCE +-+-|FR|
-http://world-ipsat.com:1155/live/maria/12345678/475.ts
-#EXTINF:-1,[FR] CANAL+ FHD
-http://world-ipsat.com:1155/live/maria/12345678/2527.ts
-#EXTINF:-1,[FR] CANAL+HD
-http://world-ipsat.com:1155/live/maria/12345678/3777.ts
-#EXTINF:-1,[FR] CANAL+SD
-http://world-ipsat.com:1155/live/maria/12345678/476.ts
-#EXTINF:-1,[FR] CANAL+ DECALE HD
-http://world-ipsat.com:1155/live/maria/12345678/2529.ts
-#EXTINF:-1,[FR] CANAL+ DECALE SD
-http://world-ipsat.com:1155/live/maria/12345678/477.ts
-#EXTINF:-1,[FR] CANAL+ FAMILY HD
-http://world-ipsat.com:1155/live/maria/12345678/478.ts
-#EXTINF:-1,[FR] CANAL+ FAMILY SD
-http://world-ipsat.com:1155/live/maria/12345678/2530.ts
-#EXTINF:-1,[FR] CANAL+ CINEMA HD
-http://world-ipsat.com:1155/live/maria/12345678/2528.ts
-#EXTINF:-1,[FR] CANAL+ CINEMA SD
-http://world-ipsat.com:1155/live/maria/12345678/479.ts
-#EXTINF:-1,[FR] WARNER BROS HD
-http://world-ipsat.com:1155/live/maria/12345678/5215.ts
-#EXTINF:-1,[FR] OCS MAX HD
-http://world-ipsat.com:1155/live/maria/12345678/4313.ts
-#EXTINF:-1,[FR] OCS MAX SD
-http://world-ipsat.com:1155/live/maria/12345678/464.ts
-#EXTINF:-1,[FR] OCS CHOC SD
-http://world-ipsat.com:1155/live/maria/12345678/467.ts
-#EXTINF:-1,[FR] OCS CITY SD
-http://world-ipsat.com:1155/live/maria/12345678/466.ts
-#EXTINF:-1,[FR] OCS GEANTS SD
-http://world-ipsat.com:1155/live/maria/12345678/465.ts
-#EXTINF:-1,[FR] CINE+ PREMIER HD
-http://world-ipsat.com:1155/live/maria/12345678/3932.ts
-#EXTINF:-1,[FR] CINE+ PREMIER SD
-http://world-ipsat.com:1155/live/maria/12345678/459.ts
-#EXTINF:-1,[FR] CINE+ FRISSON HD
-http://world-ipsat.com:1155/live/maria/12345678/460.ts
-#EXTINF:-1,[FR] CINE+ FRISSON SD
-http://world-ipsat.com:1155/live/maria/12345678/2531.ts
-#EXTINF:-1,[FR] CINE+ FAMIZ SD
-http://world-ipsat.com:1155/live/maria/12345678/461.ts
-#EXTINF:-1,[FR] CINE+ EMOTION SD
-http://world-ipsat.com:1155/live/maria/12345678/462.ts
-#EXTINF:-1,[FR] ACTION  HD
-http://world-ipsat.com:1155/live/maria/12345678/2536.ts
-#EXTINF:-1,[FR] ACTiON HD
-http://world-ipsat.com:1155/live/maria/12345678/5491.ts
-#EXTINF:-1,[FR] ACTION  SD
-http://world-ipsat.com:1155/live/maria/12345678/473.ts
-#EXTINF:-1,[FR] CINE POLAR SD
-http://world-ipsat.com:1155/live/maria/12345678/758.ts
-#EXTINF:-1,[FR] CINE+ FX SD
-http://world-ipsat.com:1155/live/maria/12345678/759.ts
-#EXTINF:-1,[FR] TCM CINEMA SD
-http://world-ipsat.com:1155/live/maria/12345678/2296.ts
-#EXTINF:-1,[FR] CINE+ CLASSIC SD
-http://world-ipsat.com:1155/live/maria/12345678/463.ts
-#EXTINF:-1,[FR] PARAMOUNT CHANNEL HD
-http://world-ipsat.com:1155/live/maria/12345678/4314.ts
-#EXTINF:-1,[FR] PARAMOUNT CHANNEL SD
-http://world-ipsat.com:1155/live/maria/12345678/470.ts
-#EXTINF:-1,[FR]---[PPV-A.LA CARTE]---[FR]
-http://world-ipsat.com:1155/live/maria/12345678/776.ts
-#EXTINF:-1,[FR] A.LACARTE 8 HD
-http://world-ipsat.com:1155/live/maria/12345678/4697.ts
-#EXTINF:-1,[FR] ALACARTE 11
-http://world-ipsat.com:1155/live/maria/12345678/762.ts
-#EXTINF:-1,[FR] ALACARTE 12
-http://world-ipsat.com:1155/live/maria/12345678/783.ts
-#EXTINF:-1,[FR] ALACARTE 13
-http://world-ipsat.com:1155/live/maria/12345678/784.ts
-#EXTINF:-1,[FR] ALACARTE 14
-http://world-ipsat.com:1155/live/maria/12345678/785.ts
-#EXTINF:-1,[FR] ALACARTE 15
-http://world-ipsat.com:1155/live/maria/12345678/786.ts
-#EXTINF:-1,[FR] ALACARTE 16
-http://world-ipsat.com:1155/live/maria/12345678/787.ts
-#EXTINF:-1,[FR] ALACARTE 17
-http://world-ipsat.com:1155/live/maria/12345678/788.ts
-#EXTINF:-1,[FR] ALACARTE 18
-http://world-ipsat.com:1155/live/maria/12345678/789.ts
-#EXTINF:-1,[FR] ALACARTE 19
-http://world-ipsat.com:1155/live/maria/12345678/790.ts
-#EXTINF:-1,[FR] ALACARTE 20
-http://world-ipsat.com:1155/live/maria/12345678/791.ts
-#EXTINF:-1,[FR]---[ CANAL_PLAY ]---[FR]
-http://world-ipsat.com:1155/live/maria/12345678/1606.ts
-#EXTINF:-1,[FR] CANAL PLAY 1
-http://world-ipsat.com:1155/live/maria/12345678/4779.ts
-#EXTINF:-1,[FR] CANAL PLAY 4
-http://world-ipsat.com:1155/live/maria/12345678/4783.ts
-#EXTINF:-1,[FR] CANAL PLAY 5
-http://world-ipsat.com:1155/live/maria/12345678/4803.ts
-#EXTINF:-1,[FR] CANAL PLAY 6
-http://world-ipsat.com:1155/live/maria/12345678/4804.ts
-#EXTINF:-1,[FR] CANAL PLAY 7
-http://world-ipsat.com:1155/live/maria/12345678/4813.ts
-#EXTINF:-1,[FR] CANAL PLAY 8
-http://world-ipsat.com:1155/live/maria/12345678/4814.ts
-#EXTINF:-1,[FR] CANAL PLAY 11
-http://world-ipsat.com:1155/live/maria/12345678/1607.ts
-#EXTINF:-1,[FR] CANAL PLAY 12
-http://world-ipsat.com:1155/live/maria/12345678/1608.ts
-#EXTINF:-1,[FR] CANAL PLAY 13
-http://world-ipsat.com:1155/live/maria/12345678/1609.ts
-#EXTINF:-1,[FR] CANAL PLAY 14
-http://world-ipsat.com:1155/live/maria/12345678/1610.ts
-#EXTINF:-1,[FR] CANAL PLAY 15
-http://world-ipsat.com:1155/live/maria/12345678/1611.ts
-#EXTINF:-1,[FR] CANAL PLAY 16
-http://world-ipsat.com:1155/live/maria/12345678/1612.ts
-#EXTINF:-1,[FR] CANAL PLAY 17
-http://world-ipsat.com:1155/live/maria/12345678/1613.ts
-#EXTINF:-1,[FR] CANAL PLAY 18
-http://world-ipsat.com:1155/live/maria/12345678/1614.ts
-#EXTINF:-1,[FR] CANAL PLAY 19
-http://world-ipsat.com:1155/live/maria/12345678/1615.ts
-#EXTINF:-1,[FR] CANAL PLAY 20
-http://world-ipsat.com:1155/live/maria/12345678/1616.ts
-#EXTINF:-1,[FR]---[ ORANGE CINE ]---[FR]
-http://world-ipsat.com:1155/live/maria/12345678/2045.ts
-#EXTINF:-1,[FR] ORANGE CINE+1
-http://world-ipsat.com:1155/live/maria/12345678/2903.ts
-#EXTINF:-1,[FR] ORANGE CINE+2
-http://world-ipsat.com:1155/live/maria/12345678/2044.ts
-#EXTINF:-1,[FR] ORANGE CINE+3
-http://world-ipsat.com:1155/live/maria/12345678/2043.ts
-#EXTINF:-1,[FR] ORANGE CINE+4
-http://world-ipsat.com:1155/live/maria/12345678/2042.ts
-#EXTINF:-1,[FR] ORANGE CINE+5
-http://world-ipsat.com:1155/live/maria/12345678/2041.ts
-#EXTINF:-1,[FR] ORANGE CINE+6
-http://world-ipsat.com:1155/live/maria/12345678/2040.ts
-#EXTINF:-1,[FR] ORANGE CINE+ 7
-http://world-ipsat.com:1155/live/maria/12345678/2266.ts
-#EXTINF:-1,[FR] ORANGE CINE+8
-http://world-ipsat.com:1155/live/maria/12345678/2023.ts
-#EXTINF:-1,[FR] ORANGE CINE+9
-http://world-ipsat.com:1155/live/maria/12345678/1991.ts
-#EXTINF:-1,[FR] ORANGE CINE+10
-http://world-ipsat.com:1155/live/maria/12345678/2904.ts
-#EXTINF:-1,[FR]+-+-+SPORT FRANCE+-+-+-[FR]
-http://world-ipsat.com:1155/live/maria/12345678/481.ts
-#EXTINF:-1,[FR] SFR SPORTS.1 FHD
-http://world-ipsat.com:1155/live/maria/12345678/771.ts
-#EXTINF:-1,[FR] SFR SPORT.2 FHD
-http://world-ipsat.com:1155/live/maria/12345678/486.ts
-#EXTINF:-1,[FR] SFR SPORTS.3 FHD
-http://world-ipsat.com:1155/live/maria/12345678/487.ts
-#EXTINF:-1,[FR] SFR.SPORT.1-HD
-http://world-ipsat.com:1155/live/maria/12345678/3776.ts
-#EXTINF:-1,[FR] SFR.SPORT.1 HD
-http://world-ipsat.com:1155/live/maria/12345678/1448.ts
-#EXTINF:-1,[FR] SFR.SPORT.2-HD
-http://world-ipsat.com:1155/live/maria/12345678/3782.ts
-#EXTINF:-1,[FR]SFR.SPORT.2.HD
-http://world-ipsat.com:1155/live/maria/12345678/1451.ts
-#EXTINF:-1,[FR] SFR.SPORT.3 HD
-http://world-ipsat.com:1155/live/maria/12345678/2566.ts
-#EXTINF:-1,[FR]  RMC 4HD
-http://world-ipsat.com:1155/live/maria/12345678/2563.ts
-#EXTINF:-1,[FR] BEIN SPORTS 1 FHD
-http://world-ipsat.com:1155/live/maria/12345678/482.ts
-#EXTINF:-1,[FR] BEIN SPORTS 2 FHD
-http://world-ipsat.com:1155/live/maria/12345678/483.ts
-#EXTINF:-1,|FR| beIN SPORTS 3 FHD
-http://world-ipsat.com:1155/live/maria/12345678/484.ts
-#EXTINF:-1,[FR] beINSPORT 1 SD
-http://world-ipsat.com:1155/live/maria/12345678/2430.ts
-#EXTINF:-1,[FR] BEINSPORT 2HD
-http://world-ipsat.com:1155/live/maria/12345678/60.ts
-#EXTINF:-1,[FR]beINSPORT2-SD
-http://world-ipsat.com:1155/live/maria/12345678/1286.ts
-#EXTINF:-1,[FR] BEIN SPORT 3HD
-http://world-ipsat.com:1155/live/maria/12345678/151.ts
-#EXTINF:-1,[FR] BEIN SPORT MAX 4 HD
-http://world-ipsat.com:1155/live/maria/12345678/1739.ts
-#EXTINF:-1,[FR] BEIN SPORT MAX 5 HD
-http://world-ipsat.com:1155/live/maria/12345678/1740.ts
-#EXTINF:-1,[FR] BEIN SPORT MAX 6 HD
-http://world-ipsat.com:1155/live/maria/12345678/1741.ts
-#EXTINF:-1,[FR] BEIN SPORT MAX 7 HD
-http://world-ipsat.com:1155/live/maria/12345678/1742.ts
-#EXTINF:-1,[FR] BEIN SPORT MAX 8 HD
-http://world-ipsat.com:1155/live/maria/12345678/1627.ts
-#EXTINF:-1,[FR] BEIN SPORT MAX 9 HD
-http://world-ipsat.com:1155/live/maria/12345678/1628.ts
-#EXTINF:-1,[FR] BEIN SPORT MAX 10 HD
-http://world-ipsat.com:1155/live/maria/12345678/1756.ts
-#EXTINF:-1,[FR] CANAL+ SPORT FHD
-http://world-ipsat.com:1155/live/maria/12345678/1450.ts
-#EXTINF:-1,[FR] CANAL+ SPORT SD
-http://world-ipsat.com:1155/live/maria/12345678/3781.ts
-#EXTINF:-1,[FR] CANAL+ SPORT HD
-http://world-ipsat.com:1155/live/maria/12345678/761.ts
-#EXTINF:-1,[FR] EUROSPORT1 FHD
-http://world-ipsat.com:1155/live/maria/12345678/554.ts
-#EXTINF:-1,[FR] EUROSPORT 2 FHD
-http://world-ipsat.com:1155/live/maria/12345678/553.ts
-#EXTINF:-1,[FR] EUROSPORT1 HD
-http://world-ipsat.com:1155/live/maria/12345678/3869.ts
-#EXTINF:-1,[FR] EUROSPORT 2HD
-http://world-ipsat.com:1155/live/maria/12345678/17.ts
-#EXTINF:-1,[FR] KOMBA SPORT HD
-http://world-ipsat.com:1155/live/maria/12345678/99.ts
-#EXTINF:-1,[FR] EQUIDIA LIVE HD
-http://world-ipsat.com:1155/live/maria/12345678/490.ts
-#EXTINF:-1,[FR] EQUIDIA LIFE HD
-http://world-ipsat.com:1155/live/maria/12345678/1775.ts
-#EXTINF:-1,[FR] INFOSPORT  HD
-http://world-ipsat.com:1155/live/maria/12345678/485.ts
-#EXTINF:-1,[FR] EQUiPE 21 HD
-http://world-ipsat.com:1155/live/maria/12345678/5496.ts
-#EXTINF:-1,[FR] LEQUIPE21 FHD
-http://world-ipsat.com:1155/live/maria/12345678/489.ts
-#EXTINF:-1,[FR] FOOT+ HD
-http://world-ipsat.com:1155/live/maria/12345678/488.ts
-#EXTINF:-1,[FR] GOLF+ CHANNEL HD
-http://world-ipsat.com:1155/live/maria/12345678/2281.ts
-#EXTINF:-1,[FR] GOLF +HD
-http://world-ipsat.com:1155/live/maria/12345678/5929.ts
-#EXTINF:-1,[FR] AB MOTEUR SD
-http://world-ipsat.com:1155/live/maria/12345678/1623.ts
-#EXTINF:-1,[FR] LA CHAINE NORMADIE
-http://world-ipsat.com:1155/live/maria/12345678/1626.ts
-#EXTINF:-1,[FR]-----[DIVERTISSEMENT]-----[FR]
-http://world-ipsat.com:1155/live/maria/12345678/1705.ts
-#EXTINF:-1,[FR] TF1 SERIES FILMS FHD
-http://world-ipsat.com:1155/live/maria/12345678/4154.ts
-#EXTINF:-1,[FR] SERIE CLUB SD
-http://world-ipsat.com:1155/live/maria/12345678/468.ts
-#EXTINF:-1,[FR] CANAL+ SERIES HD
-http://world-ipsat.com:1155/live/maria/12345678/3779.ts
-#EXTINF:-1,[FR] CANAL+ SERIES SD
-http://world-ipsat.com:1155/live/maria/12345678/480.ts
-#EXTINF:-1,[FR] 13EME RUE SD
-http://world-ipsat.com:1155/live/maria/12345678/545.ts
-#EXTINF:-1,[FR] SYFY SD
-http://world-ipsat.com:1155/live/maria/12345678/472.ts
-#EXTINF:-1,[FR] TEVA SD
-http://world-ipsat.com:1155/live/maria/12345678/547.ts
-#EXTINF:-1,[FR] COMEDIE+ HD
-http://world-ipsat.com:1155/live/maria/12345678/2524.ts
-#EXTINF:-1,[FR] COMEDIE+ SD
-http://world-ipsat.com:1155/live/maria/12345678/471.ts
-#EXTINF:-1,[FR] E ENTERTAINEMENT HD
-http://world-ipsat.com:1155/live/maria/12345678/2546.ts
-#EXTINF:-1,[FR] WEO HD
-http://world-ipsat.com:1155/live/maria/12345678/546.ts
-#EXTINF:-1,[FR] WEO SD
-http://world-ipsat.com:1155/live/maria/12345678/2525.ts
-#EXTINF:-1,[FR] NRJ 12 HD
-http://world-ipsat.com:1155/live/maria/12345678/5497.ts
-#EXTINF:-1,[FR] NRJ12 SD
-http://world-ipsat.com:1155/live/maria/12345678/551.ts
-#EXTINF:-1,[FR] CHERIE 25 HD
-http://world-ipsat.com:1155/live/maria/12345678/5495.ts
-#EXTINF:-1,[FR] CHERIE 25 SD
-http://world-ipsat.com:1155/live/maria/12345678/760.ts
-#EXTINF:-1,[FR] NT1 HD
-http://world-ipsat.com:1155/live/maria/12345678/2521.ts
-#EXTINF:-1,[FR] NT1 SD
-http://world-ipsat.com:1155/live/maria/12345678/550.ts
-#EXTINF:-1,[FR] AB1 HD
-http://world-ipsat.com:1155/live/maria/12345678/1046.ts
-#EXTINF:-1,[FR] CSTAR SD
-http://world-ipsat.com:1155/live/maria/12345678/453.ts
-#EXTINF:-1,[FR] C STAR HD
-http://world-ipsat.com:1155/live/maria/12345678/2522.ts
-#EXTINF:-1,[FR] C8.HD
-http://world-ipsat.com:1155/live/maria/12345678/5494.ts
-#EXTINF:-1,[FR] C8 HD
-http://world-ipsat.com:1155/live/maria/12345678/452.ts
-#EXTINF:-1,[FR] C8 SD
-http://world-ipsat.com:1155/live/maria/12345678/2523.ts
-#EXTINF:-1,[FR] RTL9 SD
-http://world-ipsat.com:1155/live/maria/12345678/457.ts
-#EXTINF:-1,[FR] NUMERO 23 HD
-http://world-ipsat.com:1155/live/maria/12345678/5498.ts
-#EXTINF:-1,[FR] NUMERO23 SD
-http://world-ipsat.com:1155/live/maria/12345678/1356.ts
-#EXTINF:-1,[FR]+-+-+[France Culture]+-+- [FR]
-http://world-ipsat.com:1155/live/maria/12345678/507.ts
-#EXTINF:-1,[FR] CRIME DISTRICT HD
-http://world-ipsat.com:1155/live/maria/12345678/3418.ts
-#EXTINF:-1,[FR] DISCOVERY FAMLIY HD
-http://world-ipsat.com:1155/live/maria/12345678/5214.ts
-#EXTINF:-1,[FR] DISCOVERY INVESTIGATION HD
-http://world-ipsat.com:1155/live/maria/12345678/5212.ts
-#EXTINF:-1,[FR] DISCOVERY INVESTIGATION SD
-http://world-ipsat.com:1155/live/maria/12345678/29.ts
-#EXTINF:-1,[FR] DISCOVERY HD
-http://world-ipsat.com:1155/live/maria/12345678/516.ts
-#EXTINF:-1,[FR] DISCOVERY SD
-http://world-ipsat.com:1155/live/maria/12345678/2540.ts
-#EXTINF:-1,[FR] DISCOVERY SC HD
-http://world-ipsat.com:1155/live/maria/12345678/2541.ts
-#EXTINF:-1,[FR] DISCOVERY SC SD
-http://world-ipsat.com:1155/live/maria/12345678/517.ts
-#EXTINF:-1,[FR] VOYAGE HD
-http://world-ipsat.com:1155/live/maria/12345678/2248.ts
-#EXTINF:-1,[FR] VOYAGE SD
-http://world-ipsat.com:1155/live/maria/12345678/2542.ts
-#EXTINF:-1,[FR] ANIMAUX HD
-http://world-ipsat.com:1155/live/maria/12345678/2543.ts
-#EXTINF:-1,[FR] ANIMAUX SD
-http://world-ipsat.com:1155/live/maria/12345678/514.ts
-#EXTINF:-1,[FR] USHUAIA HD
-http://world-ipsat.com:1155/live/maria/12345678/2545.ts
-#EXTINF:-1,[FR] USHUAIA SD
-http://world-ipsat.com:1155/live/maria/12345678/511.ts
-#EXTINF:-1,[FR] SCIENCE VIE HD
-http://world-ipsat.com:1155/live/maria/12345678/3935.ts
-#EXTINF:-1,[FR] SCIENCE VIE SD
-http://world-ipsat.com:1155/live/maria/12345678/510.ts
-#EXTINF:-1,|FR| PLANETE+ HD
-http://world-ipsat.com:1155/live/maria/12345678/2544.ts
-#EXTINF:-1,|FR| PLANETE+ SD
-http://world-ipsat.com:1155/live/maria/12345678/508.ts
-#EXTINF:-1,|FR| PLANETE+ A.E SD
-http://world-ipsat.com:1155/live/maria/12345678/509.ts
-#EXTINF:-1,[FR] PLANETE CI SD
-http://world-ipsat.com:1155/live/maria/12345678/770.ts
-#EXTINF:-1,[FR] RMC HD
-http://world-ipsat.com:1155/live/maria/12345678/518.ts
-#EXTINF:-1,[FR] NATIONAL GEO HD
-http://world-ipsat.com:1155/live/maria/12345678/2549.ts
-#EXTINF:-1,[FR] NATIONAL GEO SD
-http://world-ipsat.com:1155/live/maria/12345678/513.ts
-#EXTINF:-1,[FR] NAT GEO WILD HD
-http://world-ipsat.com:1155/live/maria/12345678/512.ts
-#EXTINF:-1,[FR] NAT GEO WILD SD
-http://world-ipsat.com:1155/live/maria/12345678/2548.ts
-#EXTINF:-1,[FR] CHASSE PECHE SD
-http://world-ipsat.com:1155/live/maria/12345678/515.ts
-#EXTINF:-1,[FR] CHASSE.PECHE HD
-http://world-ipsat.com:1155/live/maria/12345678/2550.ts
-#EXTINF:-1,[FR] SEASON HD
-http://world-ipsat.com:1155/live/maria/12345678/1755.ts
-#EXTINF:-1,[FR] TOUTE L HISTOIRE SD
-http://world-ipsat.com:1155/live/maria/12345678/769.ts
-#EXTINF:-1,[FR] HISTOIRE SD
-http://world-ipsat.com:1155/live/maria/12345678/96.ts
-#EXTINF:-1,[FR] TREK SD
-http://world-ipsat.com:1155/live/maria/12345678/2282.ts
-#EXTINF:-1,[FR]----FRANCE INFO---[FR]
-http://world-ipsat.com:1155/live/maria/12345678/458.ts
-#EXTINF:-1,[FR] FRANCE 24 HD
-http://world-ipsat.com:1155/live/maria/12345678/15.ts
-#EXTINF:-1,[FR] TV5 MONDE
-http://world-ipsat.com:1155/live/maria/12345678/449.ts
-#EXTINF:-1,|FR| FRANCE INFO HD
-http://world-ipsat.com:1155/live/maria/12345678/2547.ts
-#EXTINF:-1,[FR] C NEWS
-http://world-ipsat.com:1155/live/maria/12345678/552.ts
-#EXTINF:-1,[FR] LCI HD
-http://world-ipsat.com:1155/live/maria/12345678/2312.ts
-#EXTINF:-1,[FR] BFM HD
-http://world-ipsat.com:1155/live/maria/12345678/5493.ts
-#EXTINF:-1,[FR] BFM TV HD
-http://world-ipsat.com:1155/live/maria/12345678/2314.ts
-#EXTINF:-1,[FR] BFM TV SD
-http://world-ipsat.com:1155/live/maria/12345678/2526.ts
-#EXTINF:-1,[FR] BFM BUISINESS HD
-http://world-ipsat.com:1155/live/maria/12345678/757.ts
-#EXTINF:-1,[FR] LCP HD
-http://world-ipsat.com:1155/live/maria/12345678/2313.ts
-#EXTINF:-1,[FR] EURONEWS
-http://world-ipsat.com:1155/live/maria/12345678/4817.ts
-#EXTINF:-1,[FR]----[MUSIC]----[FR]
-http://world-ipsat.com:1155/live/maria/12345678/1617.ts
-#EXTINF:-1,[FR] MTV DANCE
-http://world-ipsat.com:1155/live/maria/12345678/1620.ts
-#EXTINF:-1,[FR] MTV MUSIC
-http://world-ipsat.com:1155/live/maria/12345678/1619.ts
-#EXTINF:-1,[FR] MTV BASE
-http://world-ipsat.com:1155/live/maria/12345678/1621.ts
-#EXTINF:-1,[FR] M6 MUSIC HD
-http://world-ipsat.com:1155/live/maria/12345678/2293.ts
-#EXTINF:-1,[FR] NRJ12 HITS HD
-http://world-ipsat.com:1155/live/maria/12345678/2265.ts
-#EXTINF:-1,[FR] VIRGIN TV
-http://world-ipsat.com:1155/live/maria/12345678/98.ts
-#EXTINF:-1,[FR] MCM TOP HD
-http://world-ipsat.com:1155/live/maria/12345678/2149.ts
-#EXTINF:-1,[FR] MCM HD
-http://world-ipsat.com:1155/live/maria/12345678/2154.ts
-#EXTINF:-1,[FR] VH1 CASSIC HD
-http://world-ipsat.com:1155/live/maria/12345678/2148.ts
-#EXTINF:-1,[FR] MCM POP HD
-http://world-ipsat.com:1155/live/maria/12345678/2292.ts
-#EXTINF:-1,[FR] CAPITAL TV.
-http://world-ipsat.com:1155/live/maria/12345678/84.ts
-#EXTINF:-1,[FR] MEZZO LIVE  SD
-http://world-ipsat.com:1155/live/maria/12345678/2686.ts
-#EXTINF:-1,[FR] M2O MUSIC
-http://world-ipsat.com:1155/live/maria/12345678/100.ts
-#EXTINF:-1,[FR] Radio 5 TV
-http://world-ipsat.com:1155/live/maria/12345678/105.ts
-#EXTINF:-1,[FR]--------[ FRENCH KIDS ]--------[FR]
-http://world-ipsat.com:1155/live/maria/12345678/491.ts
-#EXTINF:-1,[FR] NICKELODEON 4TEEN HD
-http://world-ipsat.com:1155/live/maria/12345678/4005.ts
-#EXTINF:-1,[FR] BOOMERANG HD
-http://world-ipsat.com:1155/live/maria/12345678/2532.ts
-#EXTINF:-1,[FR] BOOMERANG SD
-http://world-ipsat.com:1155/live/maria/12345678/498.ts
-#EXTINF:-1,[FR] CARTOON NET HD
-http://world-ipsat.com:1155/live/maria/12345678/2533.ts
-#EXTINF:-1,[FR] CARTOON NET SD
-http://world-ipsat.com:1155/live/maria/12345678/497.ts
-#EXTINF:-1,[FR] DISNY CHANNEL HD
-http://world-ipsat.com:1155/live/maria/12345678/496.ts
-#EXTINF:-1,[FR] DISNY CHANNEL SD
-http://world-ipsat.com:1155/live/maria/12345678/2534.ts
-#EXTINF:-1,[FR] CANAL J  HD
-http://world-ipsat.com:1155/live/maria/12345678/495.ts
-#EXTINF:-1,[FR] DIsNY CHANNEL SD
-http://world-ipsat.com:1155/live/maria/12345678/2264.ts
-#EXTINF:-1,[FR] DISNEY CINEMA HD
-http://world-ipsat.com:1155/live/maria/12345678/494.ts
-#EXTINF:-1,[FR] DISNEY JUNIOR HD
-http://world-ipsat.com:1155/live/maria/12345678/493.ts
-#EXTINF:-1,[FR] DISNEY JUNIOR SD
-http://world-ipsat.com:1155/live/maria/12345678/2535.ts
-#EXTINF:-1,[FR] MANGAS HD
-http://world-ipsat.com:1155/live/maria/12345678/505.ts
-#EXTINF:-1,[FR] MANGAS SD
-http://world-ipsat.com:1155/live/maria/12345678/2539.ts
-#EXTINF:-1,[FR] DISNEY XD HD
-http://world-ipsat.com:1155/live/maria/12345678/492.ts
-#EXTINF:-1,[FR] GAME ONE SD
-http://world-ipsat.com:1155/live/maria/12345678/503.ts
-#EXTINF:-1,[FR] ZOUZOUS HD
-http://world-ipsat.com:1155/live/maria/12345678/1581.ts
-#EXTINF:-1,[FR] BOiNG HD
-http://world-ipsat.com:1155/live/maria/12345678/1702.ts
-#EXTINF:-1,[FR] GULLI HD
-http://world-ipsat.com:1155/live/maria/12345678/500.ts
-#EXTINF:-1,[FR] GULLI SD
-http://world-ipsat.com:1155/live/maria/12345678/2538.ts
-#EXTINF:-1,[FR] NICKELODEON JUN HD
-http://world-ipsat.com:1155/live/maria/12345678/3867.ts
-#EXTINF:-1,[FR] NICKELODEON HD
-http://world-ipsat.com:1155/live/maria/12345678/504.ts
-#EXTINF:-1,[FR] NICKELODEON  FHD
-http://world-ipsat.com:1155/live/maria/12345678/506.ts
-#EXTINF:-1,[FR] PIWI HD
-http://world-ipsat.com:1155/live/maria/12345678/2537.ts
-#EXTINF:-1,[FR] PIWI SD
-http://world-ipsat.com:1155/live/maria/12345678/499.ts
-#EXTINF:-1,[FR] TELETOON+ HD
-http://world-ipsat.com:1155/live/maria/12345678/502.ts
-#EXTINF:-1,[FR] TIJI SD
-http://world-ipsat.com:1155/live/maria/12345678/501.ts
-#EXTINF:-1,[FR]+++ DISNEY ORANGE +++[FR]
-http://world-ipsat.com:1155/live/maria/12345678/2449.ts
-#EXTINF:-1,[FR] DISNEY ORANGE 1
-http://world-ipsat.com:1155/live/maria/12345678/3632.ts
-#EXTINF:-1,[FR] DISNEY ORANGE 2
-http://world-ipsat.com:1155/live/maria/12345678/3633.ts
-#EXTINF:-1,[FR] DISNEY ORANGE 3
-http://world-ipsat.com:1155/live/maria/12345678/3634.ts
-#EXTINF:-1,[FR] DISNEY ORANGE 4
-http://world-ipsat.com:1155/live/maria/12345678/3635.ts
-#EXTINF:-1,[FR] DISNEY.ORANGE.5
-http://world-ipsat.com:1155/live/maria/12345678/3636.ts
-#EXTINF:-1,[FR]++ DESSINS ANIMES 24/24 ++[FR]
-http://world-ipsat.com:1155/live/maria/12345678/332.ts
-#EXTINF:-1,[FR] TOM AND JERRY 24/24
-http://world-ipsat.com:1155/live/maria/12345678/1440.ts
-#EXTINF:-1,[FR] LUCKY LUKE 24/24
-http://world-ipsat.com:1155/live/maria/12345678/3554.ts
-#EXTINF:-1,[FR] DOCTEUR CAILLOU
-http://world-ipsat.com:1155/live/maria/12345678/3630.ts
-#EXTINF:-1,[FR] LEO LE LION 24/24
-http://world-ipsat.com:1155/live/maria/12345678/3557.ts
-#EXTINF:-1,[FR] HORSELAND 24/24
-http://world-ipsat.com:1155/live/maria/12345678/3556.ts
-#EXTINF:-1,[FR]  PINOCCHIO
-http://world-ipsat.com:1155/live/maria/12345678/3631.ts
-#EXTINF:-1,[FR] MR BEAN
-http://world-ipsat.com:1155/live/maria/12345678/3421.ts
-#EXTINF:-1,[BE]---- [BELGIQUE]------ [BE]
-http://world-ipsat.com:1155/live/maria/12345678/1501.ts
-#EXTINF:-1,[BE] CLUB RTL
-http://world-ipsat.com:1155/live/maria/12345678/1506.ts
-#EXTINF:-1,[BE] LA DEUX HD
-http://world-ipsat.com:1155/live/maria/12345678/1503.ts
-#EXTINF:-1,[BE] LA TROIS HD
-http://world-ipsat.com:1155/live/maria/12345678/1504.ts
-#EXTINF:-1,[BE] LA UNE HD
-http://world-ipsat.com:1155/live/maria/12345678/1502.ts
-#EXTINF:-1,[BE] RTL TVI
-http://world-ipsat.com:1155/live/maria/12345678/1505.ts
-#EXTINF:-1,[BE] PLUG RTL
-http://world-ipsat.com:1155/live/maria/12345678/46.ts
-#EXTINF:-1,[BE] EEN HD
-http://world-ipsat.com:1155/live/maria/12345678/2236.ts
-#EXTINF:-1,[BE] VTM
-http://world-ipsat.com:1155/live/maria/12345678/2019.ts
-#EXTINF:-1,[BE] VIER
-http://world-ipsat.com:1155/live/maria/12345678/2241.ts
-#EXTINF:-1,[BE] JIM
-http://world-ipsat.com:1155/live/maria/12345678/2237.ts
-#EXTINF:-1,[BE] CINEMA1 HD
-http://world-ipsat.com:1155/live/maria/12345678/2228.ts
-#EXTINF:-1,[BE] CANVAS
-http://world-ipsat.com:1155/live/maria/12345678/2235.ts
-#EXTINF:-1,[BE] AB3
-http://world-ipsat.com:1155/live/maria/12345678/2233.ts
-
-#EXTINF:-1,FR:A_LA_CARTE_1_HD
-http://forinone.org:25461/live/sabri/skype/6576.ts
-#EXTINF:-1,FR:A_LA_CARTE_2_HD
-http://forinone.org:25461/live/sabri/skype/6577.ts
-#EXTINF:-1,FR:A_LA_CARTE_3_HD
-http://forinone.org:25461/live/sabri/skype/6578.ts
-#EXTINF:-1,FR:A_LA_CARTE_4_HD
-http://forinone.org:25461/live/sabri/skype/6579.ts
-#EXTINF:-1,FR:A_LA_CARTE_5_HD
-http://forinone.org:25461/live/sabri/skype/6580.ts
-#EXTINF:-1,FR:A_LA_CARTE_6_HD
-http://forinone.org:25461/live/sabri/skype/6581.ts
-#EXTINF:-1,FR:A_LA_CARTE_7_HD
-http://forinone.org:25461/live/sabri/skype/6582.ts
-#EXTINF:-1,FR:A_LA_CARTE_8_HD
-http://forinone.org:25461/live/sabri/skype/6583.ts
-#EXTINF:-1,FR:A_LA_CARTE_9_HD
-http://forinone.org:25461/live/sabri/skype/6584.ts
-#EXTINF:-1,FR:A_LA_CARTE_10_HD
-http://forinone.org:25461/live/sabri/skype/6585.ts
-#EXTINF:-1,FR:CANAL_HD
-http://forinone.org:25461/live/sabri/skype/6559.ts
-#EXTINF:-1,FR:CANAL_CINEMA_HD
-http://forinone.org:25461/live/sabri/skype/6563.ts
-#EXTINF:-1,FR:CANAL_FAMILY_HD
-http://forinone.org:25461/live/sabri/skype/6561.ts
-#EXTINF:-1,FR:CANAL_DECALE_HD
-http://forinone.org:25461/live/sabri/skype/6562.ts
-#EXTINF:-1,FR:CANAL_SERIE_HD
-http://forinone.org:25461/live/sabri/skype/6564.ts
-#EXTINF:-1,FR:CANAL_SPORT_HD
-http://forinone.org:25461/live/sabri/skype/6560.ts
-#EXTINF:-1,FR:WEO_HD
-http://forinone.org:25461/live/sabri/skype/6501.ts
-#EXTINF:-1,FR:W9_HD
-http://forinone.org:25461/live/sabri/skype/6490.ts
-#EXTINF:-1,FR:VOYAGE_HD
-http://forinone.org:25461/live/sabri/skype/6510.ts
-#EXTINF:-1,FR:USHUAIATV_HD
-http://forinone.org:25461/live/sabri/skype/6534.ts
-#EXTINF:-1,FR:TV5_MONDE
-http://forinone.org:25461/live/sabri/skype/6511.ts
-#EXTINF:-1,FR:TV_BREIZH
-http://forinone.org:25461/live/sabri/skype/6512.ts
-#EXTINF:-1,FR:TOUTE_HISTOIRE
-http://forinone.org:25461/live/sabri/skype/6513.ts
-#EXTINF:-1,FR:TMC_HD
-http://forinone.org:25461/live/sabri/skype/6489.ts
-#EXTINF:-1,FR:TEVA_HD
-http://forinone.org:25461/live/sabri/skype/6515.ts
-#EXTINF:-1,FR:SYFY_HD
-http://forinone.org:25461/live/sabri/skype/6558.ts
-#EXTINF:-1,FR:SERIE_CLUB_HD
-http://forinone.org:25461/live/sabri/skype/6495.ts
-#EXTINF:-1,FR:SCIENCE_ET_VIE
-http://forinone.org:25461/live/sabri/skype/6517.ts
-#EXTINF:-1,FR:RTL9_HD
-http://forinone.org:25461/live/sabri/skype/6486.ts
-#EXTINF:-1,FR:RTL_TVI
-http://forinone.org:25461/live/sabri/skype/6518.ts
-#EXTINF:-1,FR:RMC_DECOUVERTE
-http://forinone.org:25461/live/sabri/skype/6508.ts
-#EXTINF:-1,FR:PRAMOUNT_CHANNEL_HD
-http://forinone.org:25461/live/sabri/skype/6555.ts
-#EXTINF:-1,FR:PlUG_RTL
-http://forinone.org:25461/live/sabri/skype/6519.ts
-#EXTINF:-1,FR:PLANETE_HD
-http://forinone.org:25461/live/sabri/skype/6505.ts
-#EXTINF:-1,FR:PLANETE_CI
-http://forinone.org:25461/live/sabri/skype/6506.ts
-#EXTINF:-1,FR:PLANETE_A&E
-http://forinone.org:25461/live/sabri/skype/6507.ts
-#EXTINF:-1,FR:TIJI
-http://forinone.org:25461/live/sabri/skype/6514.ts
-#EXTINF:-1,FR:TELEETON_PLUS
-http://forinone.org:25461/live/sabri/skype/6516.ts
-#EXTINF:-1,FR:PIWI
-http://forinone.org:25461/live/sabri/skype/6520.ts
-#EXTINF:-1,FR:MANGA
-http://forinone.org:25461/live/sabri/skype/6525.ts
-#EXTINF:-1,FR:DISNEY_XD
-http://forinone.org:25461/live/sabri/skype/6550.ts
-#EXTINF:-1,FR:DISNEY_JUNIOR
-http://forinone.org:25461/live/sabri/skype/6529.ts
-#EXTINF:-1,FR:DISNEY_CINEMA
-http://forinone.org:25461/live/sabri/skype/6551.ts
-#EXTINF:-1,FR:DISNEY_CHANNEL
-http://forinone.org:25461/live/sabri/skype/6552.ts
-#EXTINF:-1,FR:CARTOONNETWORK
-http://forinone.org:25461/live/sabri/skype/6531.ts
-#EXTINF:-1,FR:CANAL_J
-http://forinone.org:25461/live/sabri/skype/6549.ts
-#EXTINF:-1,FR:BOMMERANG
-http://forinone.org:25461/live/sabri/skype/6532.ts
-#EXTINF:-1,FR:NICK_J_HD
-http://forinone.org:25461/live/sabri/skype/7330.ts
-#EXTINF:-1,FR:GULLI
-http://forinone.org:25461/live/sabri/skype/6547.ts
-#EXTINF:-1,FR:PARIS_PREMIERE_HD
-http://forinone.org:25461/live/sabri/skype/6556.ts
-#EXTINF:-1,FR:OLTV
-http://forinone.org:25461/live/sabri/skype/6521.ts
-#EXTINF:-1,FR:OCS_MAX_HD
-http://forinone.org:25461/live/sabri/skype/6570.ts
-#EXTINF:-1,FR:OCS_GEANT_HD
-http://forinone.org:25461/live/sabri/skype/6571.ts
-#EXTINF:-1,FR:OCS_CITY_HD
-http://forinone.org:25461/live/sabri/skype/6573.ts
-#EXTINF:-1,FR:OCS_CHOC_HD
-http://forinone.org:25461/live/sabri/skype/6572.ts
-#EXTINF:-1,FR:NT1
-http://forinone.org:25461/live/sabri/skype/6493.ts
-#EXTINF:-1,FR:NRJ_12_HD
-http://forinone.org:25461/live/sabri/skype/6522.ts
-#EXTINF:-1,FR:NATGEO_HD
-http://forinone.org:25461/live/sabri/skype/6535.ts
-#EXTINF:-1,FR:NAT_GEO_WILD HD
-http://forinone.org:25461/live/sabri/skype/6523.ts
-#EXTINF:-1,FR:MCM_TOP
-http://forinone.org:25461/live/sabri/skype/6524.ts
-#EXTINF:-1,FR:MA_CHAINE_SPORT_HD
-http://forinone.org:25461/live/sabri/skype/6526.ts
-#EXTINF:-1,FR:M6_MUSIC_HD
-http://forinone.org:25461/live/sabri/skype/6527.ts
-#EXTINF:-1,FR:M6_HD
-http://forinone.org:25461/live/sabri/skype/6485.ts
-#EXTINF:-1,FR:LEQUIPE21
-http://forinone.org:25461/live/sabri/skype/6543.ts
-#EXTINF:-1,FR:LA_UNE_HD
-http://forinone.org:25461/live/sabri/skype/6502.ts
-#EXTINF:-1,FR:LA_TROIS
-http://forinone.org:25461/live/sabri/skype/6504.ts
-#EXTINF:-1,FR:LA_DEUX_HD
-http://forinone.org:25461/live/sabri/skype/6503.ts
-#EXTINF:-1,FR:INFOSPORT
-http://forinone.org:25461/live/sabri/skype/6542.ts
-#EXTINF:-1,FR:I_TELE
-http://forinone.org:25461/live/sabri/skype/6494.ts
-#EXTINF:-1,FR:HD1
-http://forinone.org:25461/live/sabri/skype/6496.ts
-#EXTINF:-1,FR:FRANCE_O
-http://forinone.org:25461/live/sabri/skype/6488.ts
-#EXTINF:-1,FR:FRANCE_5_HD
-http://forinone.org:25461/live/sabri/skype/6497.ts
-#EXTINF:-1,FR:FRANCE_4_HD
-http://forinone.org:25461/live/sabri/skype/6484.ts
-#EXTINF:-1,FR:FRANCE_3_HD
-http://forinone.org:25461/live/sabri/skype/6483.ts
-#EXTINF:-1,FR:FRANCE_24
-http://forinone.org:25461/live/sabri/skype/6548.ts
-#EXTINF:-1,FR:FRANCE_2_HD
-http://forinone.org:25461/live/sabri/skype/6482.ts
-#EXTINF:-1,FR:TF1_HD
-http://forinone.org:25461/live/sabri/skype/6481.ts
-#EXTINF:-1,FR:FOOT
-http://forinone.org:25461/live/sabri/skype/6528.ts
-#EXTINF:-1,FR:EUROSPORT_2HD
-http://forinone.org:25461/live/sabri/skype/6541.ts
-#EXTINF:-1,FR:EUROSPORT_1HD
-http://forinone.org:25461/live/sabri/skype/6540.ts
-#EXTINF:-1,FR:EURONEWS
-http://forinone.org:25461/live/sabri/skype/6538.ts
-#EXTINF:-1,FR:DISCOVERY_SCIENCE_HD
-http://forinone.org:25461/live/sabri/skype/6509.ts
-#EXTINF:-1,FR:DISCOVERY_HD
-http://forinone.org:25461/live/sabri/skype/6533.ts
-#EXTINF:-1,FR:D8
-http://forinone.org:25461/live/sabri/skype/6491.ts
-#EXTINF:-1,FR:D17_HD
-http://forinone.org:25461/live/sabri/skype/6492.ts
-#EXTINF:-1,FR:COMEDIE_HD
-http://forinone.org:25461/live/sabri/skype/6553.ts
-#EXTINF:-1,FR:CLUB_RTL
-http://forinone.org:25461/live/sabri/skype/6530.ts
-#EXTINF:-1,FR:CINE_POLAR
-http://forinone.org:25461/live/sabri/skype/6574.ts
-#EXTINF:-1,FR:CINE_FX
-http://forinone.org:25461/live/sabri/skype/6575.ts
-#EXTINF:-1,FR:CINE_CINEMA_PREMIER_HD
-http://forinone.org:25461/live/sabri/skype/6565.ts
-#EXTINF:-1,FR:CINE_CINEMA_FRISSON_HD
-http://forinone.org:25461/live/sabri/skype/6566.ts
-#EXTINF:-1,FR:CINE_CINEMA_FAMIZ_HD
-http://forinone.org:25461/live/sabri/skype/6568.ts
-#EXTINF:-1,FR:CINE_CINEMA_EMOTION_HD
-http://forinone.org:25461/live/sabri/skype/6567.ts
-#EXTINF:-1,FR:CINE_CINEMA_CLASSIC
-http://forinone.org:25461/live/sabri/skype/6569.ts
-#EXTINF:-1,FR:CHERIE_25
-http://forinone.org:25461/live/sabri/skype/6539.ts
-#EXTINF:-1,FR:CHASSE_ET_PECHE
-http://forinone.org:25461/live/sabri/skype/6536.ts
-#EXTINF:-1,FR:BFM
-http://forinone.org:25461/live/sabri/skype/6500.ts
-#EXTINF:-1,FR:BEINSPORT_3HD
-http://forinone.org:25461/live/sabri/skype/6546.ts
-#EXTINF:-1,FR:BEINSPORT_2HD
-http://forinone.org:25461/live/sabri/skype/6545.ts
-#EXTINF:-1,FR:BEINSPORT_1HD
-http://forinone.org:25461/live/sabri/skype/6544.ts
-#EXTINF:-1,FR:ARTE_HD
-http://forinone.org:25461/live/sabri/skype/6498.ts
-#EXTINF:-1,FR:ANIMAUX_HD
-http://forinone.org:25461/live/sabri/skype/6537.ts
-#EXTINF:-1,FR:ACTION_HD
-http://forinone.org:25461/live/sabri/skype/6554.ts
-#EXTINF:-1,FR:AB1_HD
-http://forinone.org:25461/live/sabri/skype/6487.ts
-#EXTINF:-1,FR:6TER_HD
-http://forinone.org:25461/live/sabri/skype/6499.ts
-#EXTINF:-1,FR:13EME_RUE_HD
-http://forinone.org:25461/live/sabri/skype/6557.ts
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20392
+#EXTINF:-1,FR:VOYAGE
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20388
+#EXTINF:-1,FR:WEO
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20386
+#EXTINF:-1,FR:13EME RUE
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21334
+#EXTINF:-1,FR:beIN SPORTS FR 2 HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21336
+#EXTINF:-1,FR:beIN SPORTS FR 3 HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21337
+#EXTINF:-1,FR:CANAL  HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21339
+#EXTINF:-1,FR:CHASSE PECHE
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21341
+#EXTINF:-1,FR:CINE  CLASSIC
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21342
+#EXTINF:-1,FR:CINE  CLUB
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21343
+#EXTINF:-1,FR:CINE  EMOTION
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21344
+#EXTINF:-1,FR:CINE  FAMIZ
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21345
+#EXTINF:-1,FR:CINE FX FHD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21348
+#EXTINF:-1,FR:CINE POLAR
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21349
+#EXTINF:-1,FR:DISNEY CHANNEL
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21352
+#EXTINF:-1,FR:EUROSPORT 1
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21326
+#EXTINF:-1,FR:Foot   24
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21312
+#EXTINF:-1,FR:FRANCE 2
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21354
+#EXTINF:-1,FR:FRANCE 24
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21329
+#EXTINF:-1,FR:FRANCE 5
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21355
+#EXTINF:-1,FR:LCI
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21330
+#EXTINF:-1,FR:M6
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21356
+#EXTINF:-1,FR:M6 MUSIQUE
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21331
+#EXTINF:-1,FR:MTV
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21357
+#EXTINF:-1,FR:NATIONAL GEOGRAPHIC
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21358
+#EXTINF:-1,FR:NICKELODEON FR
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21359
+#EXTINF:-1,FR:OCS CITY HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21362
+#EXTINF:-1,FR:OCS GEANTS
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21363
+#EXTINF:-1,FR:Paris Premiere HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21313
+#EXTINF:-1,FR:PLANETE A&E HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21332
+#EXTINF:-1,FR:RMC DECOVERTE HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21333
+#EXTINF:-1,FR:SERIECLUB
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21366
+#EXTINF:-1,FR:TCM CINEMA
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21367
+#EXTINF:-1,FR:TV Breizh HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/21324
+#EXTINF:-1,FR: Canal Family
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/23565
+#EXTINF:-1,FR:AB MOTEUR HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24547
+#EXTINF:-1,FR:BEIN SPORTS 1 HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24548
+#EXTINF:-1,FR:BEIN SPORTS 2 HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24549
+#EXTINF:-1,FR:Bein Sports 3 HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/20997
+#EXTINF:-1,FR:BE_LA DEUX
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24550
+#EXTINF:-1,FR:BE_LA TROIS
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24551
+#EXTINF:-1,FR:BE_LA UNE
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24552
+#EXTINF:-1,FR:BFMTV
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24553
+#EXTINF:-1,FR:BOOMERANG HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24554
+#EXTINF:-1,FR:CANAL FAMILY
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24556
+#EXTINF:-1,FR:CSTAR HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24577
+#EXTINF:-1,FR:DISCOVERY HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24564
+#EXTINF:-1,FR:DISCOVERY SCIENCE HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24565
+#EXTINF:-1,FR:E! ENTERTAINMENT
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24566
+#EXTINF:-1,FR:EQUIDIA LIVE HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24567
+#EXTINF:-1,FR:FOOT  24
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24568
+#EXTINF:-1,FR:FRANCE 3
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24569
+#EXTINF:-1,FR:FRANCE 4
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24570
+#EXTINF:-1,FR:FRANCE O
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24571
+#EXTINF:-1,FR:L`EQUIPE21
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24572
+#EXTINF:-1,FR:NAT GEO
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24573
+#EXTINF:-1,FR:NAT GEO WILD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24574
+#EXTINF:-1,FR:NRJ12
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24575
+#EXTINF:-1,FR:PLANET   A&E
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24578
+#EXTINF:-1,FR:PLANETE CI
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24579
+#EXTINF:-1,FR:RTL 9
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24580
+#EXTINF:-1,FR:SCIENCES & VIE TV
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24581
+#EXTINF:-1,FR:TELETOON  1
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24582
+#EXTINF:-1,FR:TOUTE L'HISTOIRE
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24583
+#EXTINF:-1,FR:TVBREIZH
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24584
+#EXTINF:-1,FR:USHUAIA  HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24585
+#EXTINF:-1,FR:VIRGIN HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/24586
+#EXTINF:-1,FR:ELLE GIRL HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/27251
+#EXTINF:-1,FR:MOTORSPORT TV HD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/27245
+#EXTINF:-1,FR:MY CUISINE TV FHD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/27250
+#EXTINF:-1,FR:OL TV FHD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/27247
+#EXTINF:-1,FR:VICELAND  FHD
+http://cs22cs.uk:8000/hansna/DvA3dDqJnC/27248
 
 #EXTINF:-1,TF1
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5520.ts
+http://rb-group-server.com:25461/12341234/12341234/5520
 #EXTINF:-1,TF1 Series Films
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5502.ts
+http://rb-group-server.com:25461/12341234/12341234/5502
 #EXTINF:-1,TFX
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5510.ts
+http://rb-group-server.com:25461/12341234/12341234/5510
 #EXTINF:-1,M6
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5519.ts
+http://rb-group-server.com:25461/12341234/12341234/5519
 #EXTINF:-1,6TER
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5503.ts
+http://rb-group-server.com:25461/12341234/12341234/5503
 #EXTINF:-1,W9
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5512.ts
+http://rb-group-server.com:25461/12341234/12341234/5512
 #EXTINF:-1,C8
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5504.ts
+http://rb-group-server.com:25461/12341234/12341234/5504
 #EXTINF:-1,FRANCE 2
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5518.ts
+http://rb-group-server.com:25461/12341234/12341234/5518
 #EXTINF:-1,FRANCE 3
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5517.ts
+http://rb-group-server.com:25461/12341234/12341234/5517
 #EXTINF:-1,FRANCE 4
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5516.ts
+http://rb-group-server.com:25461/12341234/12341234/5516
 #EXTINF:-1,FRANCE 5
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5515.ts
+http://rb-group-server.com:25461/12341234/12341234/5515
 #EXTINF:-1,FRANCE O
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5514.ts
-#EXTINF:-1,FRANCE 24.
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9775.ts
+http://rb-group-server.com:25461/12341234/12341234/5514
 #EXTINF:-1,FRANCE INFO
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5513.ts
-#EXTINF:-1,CANAL NEWS
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5431.ts
-#EXTINF:-1,I24 NEWS
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/10682.ts
+http://rb-group-server.com:25461/12341234/12341234/5513
 #EXTINF:-1,Euronews
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3324.ts
+http://rb-group-server.com:25461/12341234/12341234/3324
 #EXTINF:-1,TV5 MONDE
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3325.ts
-#EXTINF:-1,RT FRANCE
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/11574.ts
-#EXTINF:-1,LCI
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9432.ts
+http://rb-group-server.com:25461/12341234/12341234/3325
+#EXTINF:-1,CANAL NEWS
+http://rb-group-server.com:25461/12341234/12341234/5431
 #EXTINF:-1,LCP
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3373.ts
+http://rb-group-server.com:25461/12341234/12341234/3373
+#EXTINF:-1,LCI
+http://rb-group-server.com:25461/12341234/12341234/9432
 #EXTINF:-1,Arte
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5507.ts
+http://rb-group-server.com:25461/12341234/12341234/5507
 #EXTINF:-1,BFM TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5432.ts
+http://rb-group-server.com:25461/12341234/12341234/5432
 #EXTINF:-1,BFM Business
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5433.ts
+http://rb-group-server.com:25461/12341234/12341234/5433
 #EXTINF:-1,Paris Premiere
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3320.ts
+http://rb-group-server.com:25461/12341234/12341234/3320
 #EXTINF:-1,13ème RUE
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5479.ts
+http://rb-group-server.com:25461/12341234/12341234/5479
 #EXTINF:-1,RMC Story
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5508.ts
+http://rb-group-server.com:25461/12341234/12341234/5508
 #EXTINF:-1,TV Breizh
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5419.ts
+http://rb-group-server.com:25461/12341234/12341234/5419
 #EXTINF:-1,Comédie
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5430.ts
+http://rb-group-server.com:25461/12341234/12341234/5430
 #EXTINF:-1,Elle Girl
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5428.ts
+http://rb-group-server.com:25461/12341234/12341234/5428
 #EXTINF:-1,Série Club
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5482.ts
+http://rb-group-server.com:25461/12341234/12341234/5482
 #EXTINF:-1,Syfy
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3316.ts
+http://rb-group-server.com:25461/12341234/12341234/3316
 #EXTINF:-1,Teva
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/6282.ts
+http://rb-group-server.com:25461/12341234/12341234/6282
 #EXTINF:-1,Chérie 25
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5505.ts
+http://rb-group-server.com:25461/12341234/12341234/5505
 #EXTINF:-1,TMC
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5511.ts
+http://rb-group-server.com:25461/12341234/12341234/5511
 #EXTINF:-1,TCM Cinéma
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5477.ts
-#EXTINF:-1,altice STUDIO
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9470.ts
-#EXTINF:-1,Sundance TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8712.ts
-#EXTINF:-1,TV8 Mont Blanc
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/10681.ts
-#EXTINF:-1,Rouge TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/10672.ts
-#EXTINF:-1,CSTAR
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5506.ts
-#EXTINF:-1,ONE TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/10679.ts
-#EXTINF:-1,ALSACE 20 HD
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/11592.ts
-#EXTINF:-1,Grand Lille TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/11593.ts
-#EXTINF:-1,RTL9
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5478.ts
-#EXTINF:-1,AB1
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5480.ts
-#EXTINF:-1,MCM
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5427.ts
+http://rb-group-server.com:25461/12341234/12341234/5477
 #EXTINF:-1,Paramount Channel
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5484.ts
-#EXTINF:-1,WARNER TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/11308.ts
+http://rb-group-server.com:25461/12341234/12341234/5484
 #EXTINF:-1,Action
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5481.ts
+http://rb-group-server.com:25461/12341234/12341234/5481
 #EXTINF:-1,Canal+
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12071.ts
+http://rb-group-server.com:25461/12341234/12341234/12071
 #EXTINF:-1,Canal+ Cinéma
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12073.ts
-#EXTINF:-1,Canal+ Décalé
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5495.ts
+http://rb-group-server.com:25461/12341234/12341234/12073
 #EXTINF:-1,Canal+ Séries
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12066.ts
+http://rb-group-server.com:25461/12341234/12341234/12066
+#EXTINF:-1,Canal+ Décalé
+http://rb-group-server.com:25461/12341234/12341234/5495
 #EXTINF:-1,Canal+ Family
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5494.ts
+http://rb-group-server.com:25461/12341234/12341234/5494
 #EXTINF:-1,Ciné+ Frisson
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5487.ts
+http://rb-group-server.com:25461/12341234/12341234/5487
 #EXTINF:-1,Ciné+ Emotion
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5489.ts
+http://rb-group-server.com:25461/12341234/12341234/5489
 #EXTINF:-1,Ciné+ Classic
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5491.ts
+http://rb-group-server.com:25461/12341234/12341234/5491
 #EXTINF:-1,Ciné+ Premier
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5492.ts
+http://rb-group-server.com:25461/12341234/12341234/5492
 #EXTINF:-1,Ciné+ Famiz
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5488.ts
+http://rb-group-server.com:25461/12341234/12341234/5488
 #EXTINF:-1,Cine Club
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8590.ts
+http://rb-group-server.com:25461/12341234/12341234/8590
 #EXTINF:-1,OCS City
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3347.ts
+http://rb-group-server.com:25461/12341234/12341234/3347
 #EXTINF:-1,OCS MAX
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3348.ts
+http://rb-group-server.com:25461/12341234/12341234/3348
 #EXTINF:-1,OCS CHOC
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3346.ts
+http://rb-group-server.com:25461/12341234/12341234/3346
 #EXTINF:-1,OCS Geants
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3345.ts
+http://rb-group-server.com:25461/12341234/12341234/3345
 #EXTINF:-1,SFR Action
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8705.ts
+http://rb-group-server.com:25461/12341234/12341234/8705
 #EXTINF:-1,SFR_Horror
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8708.ts
+http://rb-group-server.com:25461/12341234/12341234/8708
 #EXTINF:-1,SFR Comedy
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8706.ts
+http://rb-group-server.com:25461/12341234/12341234/8706
 #EXTINF:-1,SFR SCI-FI
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/8707.ts
-#EXTINF:-1,Bet.
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/10366.ts
-#EXTINF:-1,E!
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3274.ts
-#EXTINF:-1,My Cuisine
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9389.ts
-#EXTINF:-1,Ushuaïa
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5457.ts
-#EXTINF:-1,Animaux
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5455.ts
-#EXTINF:-1,Chasse et Peche
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3333.ts
-#EXTINF:-1,Seasons
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5456.ts
-#EXTINF:-1,Voyage
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5450.ts
-#EXTINF:-1,TREK
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5420.ts
-#EXTINF:-1,Planète+
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5462.ts
-#EXTINF:-1,Planète+ CI
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5460.ts
-#EXTINF:-1,Planète+ A&E
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5461.ts
-#EXTINF:-1,Science & Vie
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5454.ts
+http://rb-group-server.com:25461/12341234/12341234/8707
+#EXTINF:-1,altice STUDIO
+http://rb-group-server.com:25461/12341234/12341234/9470
+#EXTINF:-1,Sundance TV
+http://rb-group-server.com:25461/12341234/12341234/8712
+#EXTINF:-1,RTL9
+http://rb-group-server.com:25461/12341234/12341234/5478
+#EXTINF:-1,AB1
+http://rb-group-server.com:25461/12341234/12341234/5480
+#EXTINF:-1,RT FRANCE
+http://rb-group-server.com:25461/12341234/12341234/11574
 #EXTINF:-1,RMC Découverte
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5501.ts
+http://rb-group-server.com:25461/12341234/12341234/5501
+#EXTINF:-1,Chasse et Peche
+http://rb-group-server.com:25461/12341234/12341234/3333
+#EXTINF:-1,Ushuaïa
+http://rb-group-server.com:25461/12341234/12341234/5457
+#EXTINF:-1,Animaux
+http://rb-group-server.com:25461/12341234/12341234/5455
+#EXTINF:-1,Seasons
+http://rb-group-server.com:25461/12341234/12341234/5456
+#EXTINF:-1,My Cuisine
+http://rb-group-server.com:25461/12341234/12341234/9389
+#EXTINF:-1,Voyage
+http://rb-group-server.com:25461/12341234/12341234/5450
+#EXTINF:-1,TREK
+http://rb-group-server.com:25461/12341234/12341234/5420
+#EXTINF:-1,E!
+http://rb-group-server.com:25461/12341234/12341234/3274
+#EXTINF:-1,Planète+
+http://rb-group-server.com:25461/12341234/12341234/5462
+#EXTINF:-1,Planète+ CI
+http://rb-group-server.com:25461/12341234/12341234/5460
+#EXTINF:-1,Planète+ A&E
+http://rb-group-server.com:25461/12341234/12341234/5461
+#EXTINF:-1,Science & Vie
+http://rb-group-server.com:25461/12341234/12341234/5454
 #EXTINF:-1,Crime District
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9415.ts
+http://rb-group-server.com:25461/12341234/12341234/9415
 #EXTINF:-1,Histoire
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5453.ts
+http://rb-group-server.com:25461/12341234/12341234/5453
 #EXTINF:-1,Toute.l'histoire
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3330.ts
-#EXTINF:-1,Weo
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3315.ts
+http://rb-group-server.com:25461/12341234/12341234/3330
 #EXTINF:-1,Discovery
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5452.ts
-#EXTINF:-1,Discovery Family
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/11594.ts
+http://rb-group-server.com:25461/12341234/12341234/5452
 #EXTINF:-1,Discovery Science
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5451.ts
+http://rb-group-server.com:25461/12341234/12341234/5451
 #EXTINF:-1,Discovery Investigation
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3303.ts
+http://rb-group-server.com:25461/12341234/12341234/3303
 #EXTINF:-1,NatGeo Wild
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5459.ts
+http://rb-group-server.com:25461/12341234/12341234/5459
 #EXTINF:-1,National Geographic
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5458.ts
+http://rb-group-server.com:25461/12341234/12341234/5458
+#EXTINF:-1,Weo
+http://rb-group-server.com:25461/12341234/12341234/3315
 #EXTINF:-1,Canal+ Sport
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12072.ts
+http://rb-group-server.com:25461/12341234/12341234/12072
 #EXTINF:-1,RMC Sport 1
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12069.ts
+http://rb-group-server.com:25461/12341234/12341234/12069
 #EXTINF:-1,RMC Sport 2
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5472.ts
+http://rb-group-server.com:25461/12341234/12341234/5472
 #EXTINF:-1,RMC Sport 3
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5471.ts
+http://rb-group-server.com:25461/12341234/12341234/5471
 #EXTINF:-1,RMC Sport 5
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5470.ts
+http://rb-group-server.com:25461/12341234/12341234/5470
 #EXTINF:-1,Bein Sport HD 1
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12070.ts
+http://rb-group-server.com:25461/12341234/12341234/12070
 #EXTINF:-1,Bein Sport HD 2
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12074.ts
+http://rb-group-server.com:25461/12341234/12341234/12074
 #EXTINF:-1,Bein Sport HD 3
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/12065.ts
+http://rb-group-server.com:25461/12341234/12341234/12065
 #EXTINF:-1,beIN Sports max 4 HD
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3285.ts
+http://rb-group-server.com:25461/12341234/12341234/3285
 #EXTINF:-1,beIN Sports max 5 HD
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3284.ts
+http://rb-group-server.com:25461/12341234/12341234/3284
 #EXTINF:-1,beIN Sports max 6 HD
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3286.ts
+http://rb-group-server.com:25461/12341234/12341234/3286
 #EXTINF:-1,beIN Sports max 7 HD
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3283.ts
+http://rb-group-server.com:25461/12341234/12341234/3283
 #EXTINF:-1,beIN Sports max 8 HD
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3282.ts
+http://rb-group-server.com:25461/12341234/12341234/3282
 #EXTINF:-1,beIN Sports max 9 HD
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/11454.ts
+http://rb-group-server.com:25461/12341234/12341234/11454
 #EXTINF:-1,beIN Sports max 10 HD
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/11455.ts
-#EXTINF:-1,Teleclub Zoom
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/11595.ts
+http://rb-group-server.com:25461/12341234/12341234/11455
 #EXTINF:-1,Infosport
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5466.ts
-#EXTINF:-1,Eurosport 1
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3277.ts
-#EXTINF:-1,Eurosport 2
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3276.ts
-#EXTINF:-1,OL TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/10361.ts
+http://rb-group-server.com:25461/12341234/12341234/5466
 #EXTINF:-1,Foot 24
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3278.ts
-#EXTINF:-1,BFM Sport
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/10363.ts
+http://rb-group-server.com:25461/12341234/12341234/3278
+#EXTINF:-1,Eurosport 1
+http://rb-group-server.com:25461/12341234/12341234/3277
+#EXTINF:-1,Eurosport 2
+http://rb-group-server.com:25461/12341234/12341234/3276
 #EXTINF:-1,Equidia Live
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5467.ts
+http://rb-group-server.com:25461/12341234/12341234/5467
 #EXTINF:-1,L'équipe 21
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5465.ts
+http://rb-group-server.com:25461/12341234/12341234/5465
 #EXTINF:-1,AB Moteurs
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3335.ts
-#EXTINF:-1,Motorsport Tv.
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/10674.ts
+http://rb-group-server.com:25461/12341234/12341234/3335
 #EXTINF:-1,Golf
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5464.ts
-#EXTINF:-1,Golf+
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/10148.ts
-#EXTINF:-1,Golf+ HD
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/10360.ts
-#EXTINF:-1,NRJ12
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5509.ts
-#EXTINF:-1,LFM TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/10678.ts
-#EXTINF:-1,M6 MUSIC
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3290.ts
-#EXTINF:-1,VH1 Classic
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/11306.ts
+http://rb-group-server.com:25461/12341234/12341234/5464
 #EXTINF:-1,Trace Urban
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5421.ts
-#EXTINF:-1,Trace Africa
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/10364.ts
-#EXTINF:-1,Trace Tropical
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/10365.ts
-#EXTINF:-1,NRJ TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/10676.ts
-#EXTINF:-1,TVM3
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/10680.ts
-#EXTINF:-1,Brava tv
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/10362.ts
-#EXTINF:-1,RFM TV
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/10675.ts
-#EXTINF:-1,MTV HITS.
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/10677.ts
-#EXTINF:-1,MTV FRANCE.
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5424.ts
+http://rb-group-server.com:25461/12341234/12341234/5421
+#EXTINF:-1,M6 MUSIC
+http://rb-group-server.com:25461/12341234/12341234/3290
+#EXTINF:-1,CSTAR
+http://rb-group-server.com:25461/12341234/12341234/5506
+#EXTINF:-1,NRJ12
+http://rb-group-server.com:25461/12341234/12341234/5509
+#EXTINF:-1,MCM
+http://rb-group-server.com:25461/12341234/12341234/5427
 #EXTINF:-1,MCM  TOP
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5426.ts
+http://rb-group-server.com:25461/12341234/12341234/5426
 #EXTINF:-1,MEZZO LIVE.
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5425.ts
+http://rb-group-server.com:25461/12341234/12341234/5425
+#EXTINF:-1,MTV FRANCE.
+http://rb-group-server.com:25461/12341234/12341234/5424
 #EXTINF:-1,A LA CARTE 1
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3273.ts
+http://rb-group-server.com:25461/12341234/12341234/3273
 #EXTINF:-1,A LA CARTE 2
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3272.ts
+http://rb-group-server.com:25461/12341234/12341234/3272
 #EXTINF:-1,A LA CARTE 3
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3271.ts
+http://rb-group-server.com:25461/12341234/12341234/3271
 #EXTINF:-1,A LA CARTE 4
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3270.ts
+http://rb-group-server.com:25461/12341234/12341234/3270
 #EXTINF:-1,A LA CARTE 5
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3269.ts
+http://rb-group-server.com:25461/12341234/12341234/3269
 #EXTINF:-1,A LA CARTE 6
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3268.ts
+http://rb-group-server.com:25461/12341234/12341234/3268
 #EXTINF:-1,A LA CARTE 7
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/3267.ts
-#EXTINF:-1,FR: Tiji
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5444.ts
-#EXTINF:-1,FR: Piwi
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5443.ts
-#EXTINF:-1,FR: Gulli
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5439.ts
-#EXTINF:-1,FR: Mangas
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5438.ts
-#EXTINF:-1,FR: Canal J
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5448.ts
-#EXTINF:-1,FR: TéléTOON
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5445.ts
-#EXTINF:-1,FR: Boomerang
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5446.ts
-#EXTINF:-1,FR: Disney. Channel
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5437.ts
-#EXTINF:-1,FR: Disney Junior
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5435.ts
-#EXTINF:-1,FR: Disney Cinema
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5436.ts
-#EXTINF:-1,FR: Disney XD
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5434.ts
-#EXTINF:-1,FR: Cartoon Network'
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5449.ts
-#EXTINF:-1,FR: Nickelodeon'
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5442.ts
-#EXTINF:-1,FR: Nickelodeon Junior
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5441.ts
-#EXTINF:-1,FR: Nickelodeon 4teen
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/9486.ts
-#EXTINF:-1,FR:Toonami HD
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/7433.ts
-#EXTINF:-1,FR: BOING
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5447.ts
-#EXTINF:-1,FR: J ONE
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/11311.ts
-#EXTINF:-1,FR: Zouzous Tv
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/7985.ts
-#EXTINF:-1,FR: Game One
-http://rb-group-server.com:25461/live/fluxamibelge/PDXrdtP7y0/5440.ts
+http://rb-group-server.com:25461/12341234/12341234/3267
+
+#EXTINF:-1,««------FRANCE LOCAL------»»
+http://topiptv.net:5890/55555/55555/4845
+#EXTINF:-1,TF1 Full HD
+http://topiptv.net:5890/55555/55555/1905
+#EXTINF:-1,FR| TF1 HD
+http://topiptv.net:5890/55555/55555/4779
+#EXTINF:-1,FR: TF1 SD
+http://topiptv.net:5890/55555/55555/13342
+#EXTINF:-1,TF1 +1 Full HD
+http://topiptv.net:5890/55555/55555/13415
+#EXTINF:-1,FRANCE 2 Full HD
+http://topiptv.net:5890/55555/55555/1906
+#EXTINF:-1,FR| FRANCE 2 HD
+http://topiptv.net:5890/55555/55555/4778
+#EXTINF:-1,FR: FRANCE2 SD
+http://topiptv.net:5890/55555/55555/13341
+#EXTINF:-1,FRANCE 3 Full HD
+http://topiptv.net:5890/55555/55555/1953
+#EXTINF:-1,FR| FRANCE 3 HD
+http://topiptv.net:5890/55555/55555/4777
+#EXTINF:-1,FR: FRANCE3 SD
+http://topiptv.net:5890/55555/55555/13340
+#EXTINF:-1,FRANCE 4 Full HD
+http://topiptv.net:5890/55555/55555/2596
+#EXTINF:-1,FR| FRANCE 4 HD
+http://topiptv.net:5890/55555/55555/4776
+#EXTINF:-1,FR: FRANCE4 SD
+http://topiptv.net:5890/55555/55555/13339
+#EXTINF:-1,FRANCE 5 Full HD
+http://topiptv.net:5890/55555/55555/2204
+#EXTINF:-1,FR| FRANCE 5 HD
+http://topiptv.net:5890/55555/55555/4775
+#EXTINF:-1,FR: FRANCE5 SD
+http://topiptv.net:5890/55555/55555/13338
+#EXTINF:-1,FRANCE Ô Full HD
+http://topiptv.net:5890/55555/55555/5064
+#EXTINF:-1,FR| FRANCE Ô HD
+http://topiptv.net:5890/55555/55555/4774
+#EXTINF:-1,FR: FRANCE O SD
+http://topiptv.net:5890/55555/55555/13337
+#EXTINF:-1,W9 Full HD
+http://topiptv.net:5890/55555/55555/1909
+#EXTINF:-1,FR| W9 HD
+http://topiptv.net:5890/55555/55555/4772
+#EXTINF:-1,FR: W9 SD
+http://topiptv.net:5890/55555/55555/13207
+#EXTINF:-1,M6 Full HD
+http://topiptv.net:5890/55555/55555/1907
+#EXTINF:-1,FR| M6 HD
+http://topiptv.net:5890/55555/55555/4773
+#EXTINF:-1,FR: M6 SD
+http://topiptv.net:5890/55555/55555/13336
+#EXTINF:-1,C8 Full HD
+http://topiptv.net:5890/55555/55555/2039
+#EXTINF:-1,FR| C8 HD
+http://topiptv.net:5890/55555/55555/4766
+#EXTINF:-1,FR: C8 SD
+http://topiptv.net:5890/55555/55555/13217
+#EXTINF:-1,CSTAR Full HD
+http://topiptv.net:5890/55555/55555/2040
+#EXTINF:-1,FR| CSTAR HD
+http://topiptv.net:5890/55555/55555/4765
+#EXTINF:-1,FR: CSTAR SD
+http://topiptv.net:5890/55555/55555/13216
+#EXTINF:-1,RTS UN Full HD
+http://topiptv.net:5890/55555/55555/2634
+#EXTINF:-1,FR| RTS UN HD
+http://topiptv.net:5890/55555/55555/4742
+#EXTINF:-1,RTS DEUX Full HD
+http://topiptv.net:5890/55555/55555/2635
+#EXTINF:-1,FR| RTS DEUX HD
+http://topiptv.net:5890/55555/55555/4741
+#EXTINF:-1,6TER Full HD
+http://topiptv.net:5890/55555/55555/3703
+#EXTINF:-1,FR| 6TER HD
+http://topiptv.net:5890/55555/55555/4764
+#EXTINF:-1,FR: 6TER SD
+http://topiptv.net:5890/55555/55555/13332
+#EXTINF:-1,RTL 9 Full HD
+http://topiptv.net:5890/55555/55555/1479
+#EXTINF:-1,FR: RTL9 SD
+http://topiptv.net:5890/55555/55555/13211
+#EXTINF:-1,FR| TEVA HD
+http://topiptv.net:5890/55555/55555/1513
+#EXTINF:-1,FR: TEVA SD
+http://topiptv.net:5890/55555/55555/13232
+#EXTINF:-1,--|FR INFO|--
+http://topiptv.net:5890/55555/55555/1497
+#EXTINF:-1,CNEWS Full HD
+http://topiptv.net:5890/55555/55555/5083
+#EXTINF:-1,FR| CNEWS HD
+http://topiptv.net:5890/55555/55555/4685
+#EXTINF:-1,FR: CNEWS HD
+http://topiptv.net:5890/55555/55555/13138
+#EXTINF:-1,I24 NEWS Full HD
+http://topiptv.net:5890/55555/55555/5084
+#EXTINF:-1,LCI Full HD
+http://topiptv.net:5890/55555/55555/5085
+#EXTINF:-1,FR: LCI
+http://topiptv.net:5890/55555/55555/13141
+#EXTINF:-1,FR: LCP
+http://topiptv.net:5890/55555/55555/13140
+#EXTINF:-1,FR: LUXE TV
+http://topiptv.net:5890/55555/55555/13205
+#EXTINF:-1,FR: FASHIONTV HD
+http://topiptv.net:5890/55555/55555/13200
+#EXTINF:-1,BFM TV Full HD
+http://topiptv.net:5890/55555/55555/2704
+#EXTINF:-1,FR| BFM TV HD
+http://topiptv.net:5890/55555/55555/4722
+#EXTINF:-1,FR: BFM TV HD
+http://topiptv.net:5890/55555/55555/13143
+#EXTINF:-1,FR| BFM BUSINESS HD
+http://topiptv.net:5890/55555/55555/4687
+#EXTINF:-1,FR: BFM BUISINESS
+http://topiptv.net:5890/55555/55555/13142
+#EXTINF:-1,La Chainne Météo
+http://topiptv.net:5890/55555/55555/7759
+#EXTINF:-1,FR| EURONEWS HD
+http://topiptv.net:5890/55555/55555/4680
+#EXTINF:-1,FR: EURONEWS
+http://topiptv.net:5890/55555/55555/13145
+#EXTINF:-1,FR: EURO NEWS HD
+http://topiptv.net:5890/55555/55555/13312
+#EXTINF:-1,FR| FRANCE INFO HD
+http://topiptv.net:5890/55555/55555/4683
+#EXTINF:-1,FR: FRANCE INFO
+http://topiptv.net:5890/55555/55555/13137
+#EXTINF:-1,FR: LA CHAINE METEO
+http://topiptv.net:5890/55555/55555/13146
+#EXTINF:-1,FR: FRANCE 24
+http://topiptv.net:5890/55555/55555/13144
+#EXTINF:-1,TV5MONDE Full HD
+http://topiptv.net:5890/55555/55555/7576
+#EXTINF:-1,FR: TV 5 monde
+http://topiptv.net:5890/55555/55555/13135
+#EXTINF:-1,FR: TV5 MONDE
+http://topiptv.net:5890/55555/55555/13136
+#EXTINF:-1,--|FR DIVERTISSE|--
+http://topiptv.net:5890/55555/55555/1495
+#EXTINF:-1,ALTICE STUDIO Full HD
+http://topiptv.net:5890/55555/55555/5065
+#EXTINF:-1,FR: ALTICE STUDIO HD
+http://topiptv.net:5890/55555/55555/13313
+#EXTINF:-1,NON STOP PEOPLE Full HD
+http://topiptv.net:5890/55555/55555/5028
+#EXTINF:-1,TV8 MONT BLANC HD
+http://topiptv.net:5890/55555/55555/7574
+#EXTINF:-1,TF1 SÉRIES FILMS Full HD
+http://topiptv.net:5890/55555/55555/2209
+#EXTINF:-1,FR| TF1 SÉRIES FILMS HD
+http://topiptv.net:5890/55555/55555/4769
+#EXTINF:-1,FR: TF1 SÉRIES FILMS SD
+http://topiptv.net:5890/55555/55555/13219
+#EXTINF:-1,SUNDANCE TV Full HD
+http://topiptv.net:5890/55555/55555/5069
+#EXTINF:-1,FR: SUNDANCE CHANNEL SD
+http://topiptv.net:5890/55555/55555/13233
+#EXTINF:-1,E! Full HD
+http://topiptv.net:5890/55555/55555/1927
+#EXTINF:-1,FR| E! HD
+http://topiptv.net:5890/55555/55555/4721
+#EXTINF:-1,FR: E! ENTERTAINEMENT SD
+http://topiptv.net:5890/55555/55555/13228
+#EXTINF:-1,LUXE TV Full HD
+http://topiptv.net:5890/55555/55555/5991
+#EXTINF:-1,ELLE GIRL Full HD
+http://topiptv.net:5890/55555/55555/2073
+#EXTINF:-1,FR| ELLE GIRL HD
+http://topiptv.net:5890/55555/55555/4743
+#EXTINF:-1,FR: ELLE GIRL SD
+http://topiptv.net:5890/55555/55555/13223
+#EXTINF:-1,ARTE Full HD
+http://topiptv.net:5890/55555/55555/2598
+#EXTINF:-1,FR| ARTE HD
+http://topiptv.net:5890/55555/55555/4767
+#EXTINF:-1,FR: ARTE SD
+http://topiptv.net:5890/55555/55555/13331
+#EXTINF:-1,SYFY Full HD
+http://topiptv.net:5890/55555/55555/1924
+#EXTINF:-1,FR| SYFY HD
+http://topiptv.net:5890/55555/55555/4746
+#EXTINF:-1,FR: SYFY SD
+http://topiptv.net:5890/55555/55555/13234
+#EXTINF:-1,13EME RUE Full HD
+http://topiptv.net:5890/55555/55555/3117
+#EXTINF:-1,FR| 13EME RUE HD
+http://topiptv.net:5890/55555/55555/4771
+#EXTINF:-1,FR: 13Eme Rue SD
+http://topiptv.net:5890/55555/55555/13235
+#EXTINF:-1,CHERIE 25 Full HD
+http://topiptv.net:5890/55555/55555/2597
+#EXTINF:-1,FR| CHERIE 25 HD
+http://topiptv.net:5890/55555/55555/4761
+#EXTINF:-1,FR: CHERIE 25 SD
+http://topiptv.net:5890/55555/55555/13220
+#EXTINF:-1,AB1 Full HD
+http://topiptv.net:5890/55555/55555/4706
+#EXTINF:-1,FR| AB1 HD
+http://topiptv.net:5890/55555/55555/4705
+#EXTINF:-1,FR: AB1 SD
+http://topiptv.net:5890/55555/55555/13218
+#EXTINF:-1,AB3 Full HD
+http://topiptv.net:5890/55555/55555/5086
+#EXTINF:-1,FR| AB3 HD
+http://topiptv.net:5890/55555/55555/5089
+#EXTINF:-1,TFX Full HD
+http://topiptv.net:5890/55555/55555/2208
+#EXTINF:-1,FR| TFX HD
+http://topiptv.net:5890/55555/55555/4770
+#EXTINF:-1,FR: TFX SD
+http://topiptv.net:5890/55555/55555/13208
+#EXTINF:-1,RMC STORY Full HD
+http://topiptv.net:5890/55555/55555/3134
+#EXTINF:-1,FR| FOX STORY HD
+http://topiptv.net:5890/55555/55555/4762
+#EXTINF:-1,FR: RMC STORY SD
+http://topiptv.net:5890/55555/55555/13209
+#EXTINF:-1,SERIE CLUB Full HD
+http://topiptv.net:5890/55555/55555/1923
+#EXTINF:-1,FR| SERIE CLUB HD
+http://topiptv.net:5890/55555/55555/329
+#EXTINF:-1,FR:  SERIE CLUB SD
+http://topiptv.net:5890/55555/55555/13237
+#EXTINF:-1,A+ Full HD
+http://topiptv.net:5890/55555/55555/7575
+#EXTINF:-1,POLAR+ Full HD
+http://topiptv.net:5890/55555/55555/7578
+#EXTINF:-1,FR: POLAR+   HD
+http://topiptv.net:5890/55555/55555/13317
+#EXTINF:-1,NOVELAS TV Full HD
+http://topiptv.net:5890/55555/55555/6035
+#EXTINF:-1,WARNER TV Full HD
+http://topiptv.net:5890/55555/55555/6036
+#EXTINF:-1,FR: WARNER HD
+http://topiptv.net:5890/55555/55555/13318
+#EXTINF:-1,TV BREIZH Full HD
+http://topiptv.net:5890/55555/55555/2045
+#EXTINF:-1,FR| TV BREIZH HD
+http://topiptv.net:5890/55555/55555/4763
+#EXTINF:-1,FR: TV BREIZH SD
+http://topiptv.net:5890/55555/55555/13333
+#EXTINF:-1,PARAMOUNT CHANNEL Full HD
+http://topiptv.net:5890/55555/55555/2688
+#EXTINF:-1,FR| PARAMOUNT CHANNEL HD
+http://topiptv.net:5890/55555/55555/4745
+#EXTINF:-1,FR: PARAMOUNT CHANNEL SD
+http://topiptv.net:5890/55555/55555/13310
+#EXTINF:-1,PARAMOUNT CHANNEL DECALE  Full HD
+http://topiptv.net:5890/55555/55555/7577
+#EXTINF:-1,TCM CINEMA Full HD
+http://topiptv.net:5890/55555/55555/5080
+#EXTINF:-1,FR| TCM CINEMA HD
+http://topiptv.net:5890/55555/55555/5092
+#EXTINF:-1,FR: TCM SD
+http://topiptv.net:5890/55555/55555/13316
+#EXTINF:-1,TMC Full HD
+http://topiptv.net:5890/55555/55555/1925
+#EXTINF:-1,FR| TMC HD
+http://topiptv.net:5890/55555/55555/4768
+#EXTINF:-1,FR: TMC HD
+http://topiptv.net:5890/55555/55555/13334
+#EXTINF:-1,TMC +1 Full HD
+http://topiptv.net:5890/55555/55555/13416
+#EXTINF:-1,NOLLYWOOD Full HD
+http://topiptv.net:5890/55555/55555/3673
+#EXTINF:-1,PARIS PREMIERE Full HD
+http://topiptv.net:5890/55555/55555/5073
+#EXTINF:-1,FR| PARIS PREMIERE HD
+http://topiptv.net:5890/55555/55555/1186
+#EXTINF:-1,FR: PARIS PREMIERE SD
+http://topiptv.net:5890/55555/55555/13335
+#EXTINF:-1,ACTION Full HD
+http://topiptv.net:5890/55555/55555/5090
+#EXTINF:-1,FR| ACTION HD
+http://topiptv.net:5890/55555/55555/4760
+#EXTINF:-1,COMEDIE+ Full HD
+http://topiptv.net:5890/55555/55555/5074
+#EXTINF:-1,FR| COMEDIE+ HD
+http://topiptv.net:5890/55555/55555/4686
+#EXTINF:-1,FR: COMEDIE+ SD
+http://topiptv.net:5890/55555/55555/13230
+#EXTINF:-1,GEULO Full  HD
+http://topiptv.net:5890/55555/55555/4676
+#EXTINF:-1,FR: BET SD
+http://topiptv.net:5890/55555/55555/13222
+#EXTINF:-1,--|FR CINEMA|--
+http://topiptv.net:5890/55555/55555/1493
+#EXTINF:-1,CANAL+ Full HD
+http://topiptv.net:5890/55555/55555/1912
+#EXTINF:-1,FR| CANAL+ HD
+http://topiptv.net:5890/55555/55555/4759
+#EXTINF:-1,FR: CANAL+ SD
+http://topiptv.net:5890/55555/55555/13328
+#EXTINF:-1,CANAL+ CINEMA Full HD
+http://topiptv.net:5890/55555/55555/1913
+#EXTINF:-1,FR| CANAL+ CINEMA HD
+http://topiptv.net:5890/55555/55555/4755
+#EXTINF:-1,FR: CANAL+ CINEMA SD
+http://topiptv.net:5890/55555/55555/13325
+#EXTINF:-1,CANAL+ DECALE Full HD
+http://topiptv.net:5890/55555/55555/1915
+#EXTINF:-1,FR| CANAL+ DECALE HD
+http://topiptv.net:5890/55555/55555/4756
+#EXTINF:-1,FR: CANAL+ DECALE SD
+http://topiptv.net:5890/55555/55555/13327
+#EXTINF:-1,CANAL+ FAMILY Full HD
+http://topiptv.net:5890/55555/55555/1914
+#EXTINF:-1,FR| CANAL+ FAMILY HD
+http://topiptv.net:5890/55555/55555/4757
+#EXTINF:-1,FR: CANAL+ FAMILY SD
+http://topiptv.net:5890/55555/55555/13326
+#EXTINF:-1,CANAL+ SERIES Full HD
+http://topiptv.net:5890/55555/55555/1916
+#EXTINF:-1,FR| CANAL+ SERIES HD
+http://topiptv.net:5890/55555/55555/4758
+#EXTINF:-1,FR: CANAL+  SERIES HD
+http://topiptv.net:5890/55555/55555/13236
+#EXTINF:-1,CINE+ PREMIER Full HD
+http://topiptv.net:5890/55555/55555/2687
+#EXTINF:-1,FR| CINE+ PREMIER HD
+http://topiptv.net:5890/55555/55555/4750
+#EXTINF:-1,FR: CINE+ PREMIER SD
+http://topiptv.net:5890/55555/55555/13324
+#EXTINF:-1,CINE+ FAMIZ Full HD
+http://topiptv.net:5890/55555/55555/2628
+#EXTINF:-1,FR| CINE+ FAMIZ HD
+http://topiptv.net:5890/55555/55555/4753
+#EXTINF:-1,FR: CINE+ FAMIZ SD
+http://topiptv.net:5890/55555/55555/13322
+#EXTINF:-1,CINE+ CLASSIC Full HD
+http://topiptv.net:5890/55555/55555/2686
+#EXTINF:-1,FR| CINE+ CLASSIC HD
+http://topiptv.net:5890/55555/55555/4747
+#EXTINF:-1,FR: CINE+ CLASSIC SD
+http://topiptv.net:5890/55555/55555/13315
+#EXTINF:-1,CINE+ CLUB Full HD
+http://topiptv.net:5890/55555/55555/2685
+#EXTINF:-1,FR| CINE+ CLUB HD
+http://topiptv.net:5890/55555/55555/4748
+#EXTINF:-1,FR: CINE+ CLUB SD
+http://topiptv.net:5890/55555/55555/13320
+#EXTINF:-1,CINE+ EMOTION Full HD
+http://topiptv.net:5890/55555/55555/2684
+#EXTINF:-1,FR| CINE+ EMOTION HD
+http://topiptv.net:5890/55555/55555/4749
+#EXTINF:-1,FR: CINE+ EMOTION SD
+http://topiptv.net:5890/55555/55555/13321
+#EXTINF:-1,CINE+ FRISSON Full HD
+http://topiptv.net:5890/55555/55555/2585
+#EXTINF:-1,FR| CINE+ FRISSON HD
+http://topiptv.net:5890/55555/55555/4754
+#EXTINF:-1,FR: CINE+ FRISSON SD
+http://topiptv.net:5890/55555/55555/13323
+#EXTINF:-1,CINE POLAR Full HD
+http://topiptv.net:5890/55555/55555/2689
+#EXTINF:-1,FR| POLAR+ HD
+http://topiptv.net:5890/55555/55555/4752
+#EXTINF:-1,CINE FX Full HD
+http://topiptv.net:5890/55555/55555/2690
+#EXTINF:-1,FR| CINE FX HD
+http://topiptv.net:5890/55555/55555/4751
+#EXTINF:-1,OCS CHOC Full HD
+http://topiptv.net:5890/55555/55555/3128
+#EXTINF:-1,FR| OCS Choc
+http://topiptv.net:5890/55555/55555/4847
+#EXTINF:-1,OCS CITY Full HD
+http://topiptv.net:5890/55555/55555/3129
+#EXTINF:-1,FR| OCS CITY
+http://topiptv.net:5890/55555/55555/4908
+#EXTINF:-1,OCS GEANTS Full HD
+http://topiptv.net:5890/55555/55555/3126
+#EXTINF:-1,FR| OCS GEANTS
+http://topiptv.net:5890/55555/55555/4909
+#EXTINF:-1,OCS MAX Full HD
+http://topiptv.net:5890/55555/55555/3127
+#EXTINF:-1,--|FR SPORT|--
+http://topiptv.net:5890/55555/55555/1491
+#EXTINF:-1,CANAL+ SPORT Full HD
+http://topiptv.net:5890/55555/55555/1917
+#EXTINF:-1,FR| CANAL+ SPORT HD
+http://topiptv.net:5890/55555/55555/4694
+#EXTINF:-1,FR: CANAL+ SPORT SD
+http://topiptv.net:5890/55555/55555/13262
+#EXTINF:-1,FR| Eleven SPORTS 1 HD
+http://topiptv.net:5890/55555/55555/12502
+#EXTINF:-1,FR| Eleven SPORTS 2 HD
+http://topiptv.net:5890/55555/55555/12503
+#EXTINF:-1,FR| Eleven SPORTS 3 HD
+http://topiptv.net:5890/55555/55555/12504
+#EXTINF:-1,beIN SPORTS 1 Full HD
+http://topiptv.net:5890/55555/55555/1941
+#EXTINF:-1,FR| BEIN SPORTS 1 HD
+http://topiptv.net:5890/55555/55555/4701
+#EXTINF:-1,FR: beIN SPORTS 1 SD
+http://topiptv.net:5890/55555/55555/13260
+#EXTINF:-1,beIN SPORTS 2 Full HD
+http://topiptv.net:5890/55555/55555/1942
+#EXTINF:-1,FR| BEIN SPORTS 2 HD
+http://topiptv.net:5890/55555/55555/4700
+#EXTINF:-1,FR: beIN SPORTS 2 SD
+http://topiptv.net:5890/55555/55555/13259
+#EXTINF:-1,beIN SPORTS 3 Full HD
+http://topiptv.net:5890/55555/55555/1943
+#EXTINF:-1,FR| BEIN SPORTS 3 HD
+http://topiptv.net:5890/55555/55555/4699
+#EXTINF:-1,FR: beIN SPORTS 3 SD
+http://topiptv.net:5890/55555/55555/13258
+#EXTINF:-1,beIN SPORTS MAX 4 Full HD
+http://topiptv.net:5890/55555/55555/2631
+#EXTINF:-1,FR:beIN SPORTS MAX 4 HD
+http://topiptv.net:5890/55555/55555/13170
+#EXTINF:-1,beIN SPORTS MAX 5 Full HD
+http://topiptv.net:5890/55555/55555/2630
+#EXTINF:-1,FR:beIN SPORTS MAX 5 HD
+http://topiptv.net:5890/55555/55555/13147
+#EXTINF:-1,beIN SPORTS MAX 6 Full HD
+http://topiptv.net:5890/55555/55555/2632
+#EXTINF:-1,FR:beIN SPORTS MAX 6 HD
+http://topiptv.net:5890/55555/55555/13329
+#EXTINF:-1,beIN SPORTS MAX 7 Full HD
+http://topiptv.net:5890/55555/55555/2633
+#EXTINF:-1,FR:beIN SPORTS MAX 7 HD
+http://topiptv.net:5890/55555/55555/13343
+#EXTINF:-1,beIN SPORTS MAX 8 Full HD
+http://topiptv.net:5890/55555/55555/3681
+#EXTINF:-1,FR:beIN SPORTS MAX 8 HD
+http://topiptv.net:5890/55555/55555/14187
+#EXTINF:-1,beIN SPORTS  MAX 9 Full HD
+http://topiptv.net:5890/55555/55555/3682
+#EXTINF:-1,FR:beIN SPORTS MAX 9 HD
+http://topiptv.net:5890/55555/55555/14188
+#EXTINF:-1,beIN SPORTS MAX 10 Full HD
+http://topiptv.net:5890/55555/55555/3683
+#EXTINF:-1,FR:beIN SPORTS MAX 10 HD
+http://topiptv.net:5890/55555/55555/14189
+#EXTINF:-1,RMC SPORT NEWS FULL HD
+http://topiptv.net:5890/55555/55555/12980
+#EXTINF:-1,RMC SPORT NEWS HD
+http://topiptv.net:5890/55555/55555/2638
+#EXTINF:-1,FR| RMC SPORT NEWS HD
+http://topiptv.net:5890/55555/55555/13256
+#EXTINF:-1,RMC SPORT UHD
+http://topiptv.net:5890/55555/55555/2592
+#EXTINF:-1,RMC SPORT 1 Full HD
+http://topiptv.net:5890/55555/55555/2043
+#EXTINF:-1,FR| RMC SPORT 1 HD
+http://topiptv.net:5890/55555/55555/4698
+#EXTINF:-1,RMC SPORT 2 Full HD
+http://topiptv.net:5890/55555/55555/2046
+#EXTINF:-1,FR| RMC SPORT 2 HD
+http://topiptv.net:5890/55555/55555/4697
+#EXTINF:-1,RMC SPORT 3 Full HD
+http://topiptv.net:5890/55555/55555/2047
+#EXTINF:-1,FR| RMC SPORT 3 HD
+http://topiptv.net:5890/55555/55555/4696
+#EXTINF:-1,RMC SPORT 4 Full HD
+http://topiptv.net:5890/55555/55555/3125
+#EXTINF:-1,FR| RMC SPORT 4 HD
+http://topiptv.net:5890/55555/55555/4695
+#EXTINF:-1,FR: RMC SPORT LIVE 5 FHD
+http://topiptv.net:5890/55555/55555/13272
+#EXTINF:-1,FR: RMC SPORT LIVE 6 FHD
+http://topiptv.net:5890/55555/55555/13271
+#EXTINF:-1,FR: RMC SPORT LIVE 7 FHD
+http://topiptv.net:5890/55555/55555/13270
+#EXTINF:-1,FR: RMC SPORT LIVE 8 FHD
+http://topiptv.net:5890/55555/55555/13269
+#EXTINF:-1,FR: RMC SPORT LIVE 9 FHD
+http://topiptv.net:5890/55555/55555/13268
+#EXTINF:-1,FR: RMC SPORT LIVE 10 FHD
+http://topiptv.net:5890/55555/55555/13273
+#EXTINF:-1,FR: RMC SPORT LIVE 11 FHD
+http://topiptv.net:5890/55555/55555/13267
+#EXTINF:-1,FR: RMC SPORT LIVE 12 FHD
+http://topiptv.net:5890/55555/55555/13266
+#EXTINF:-1,FR: RMC SPORT LIVE 14 FHD
+http://topiptv.net:5890/55555/55555/13265
+#EXTINF:-1,FR: RMC SPORT LIVE 15 FHD
+http://topiptv.net:5890/55555/55555/13241
+#EXTINF:-1,FR: RMC SPORT LIVE 16 FHD
+http://topiptv.net:5890/55555/55555/13238
+#EXTINF:-1,MULTI SPORTS 1HD
+http://topiptv.net:5890/55555/55555/5985
+#EXTINF:-1,MULTI SPORTS 2HD
+http://topiptv.net:5890/55555/55555/5986
+#EXTINF:-1,MULTI SPORTS 3HD
+http://topiptv.net:5890/55555/55555/5987
+#EXTINF:-1,MULTI SPORTS 4HD
+http://topiptv.net:5890/55555/55555/5988
+#EXTINF:-1,MULTI SPORTS 5HD
+http://topiptv.net:5890/55555/55555/5989
+#EXTINF:-1,MULTI SPORTS 6HD
+http://topiptv.net:5890/55555/55555/5990
+#EXTINF:-1,INFOSPORT+ Full HD
+http://topiptv.net:5890/55555/55555/2471
+#EXTINF:-1,FR| INFOSPORT+ HD
+http://topiptv.net:5890/55555/55555/4691
+#EXTINF:-1,FR: INFOSPORT HD
+http://topiptv.net:5890/55555/55555/13255
+#EXTINF:-1,L'EQUIPE Full HD
+http://topiptv.net:5890/55555/55555/2041
+#EXTINF:-1,FR| L'EQUIPE HD
+http://topiptv.net:5890/55555/55555/4690
+#EXTINF:-1,FR: L'EQUIPE SD
+http://topiptv.net:5890/55555/55555/13254
+#EXTINF:-1,EQUIDIA LIFE Full HD
+http://topiptv.net:5890/55555/55555/4682
+#EXTINF:-1,EQUIDIA LIVE Full HD
+http://topiptv.net:5890/55555/55555/2600
+#EXTINF:-1,FR: EQUIDIA LIVE SD
+http://topiptv.net:5890/55555/55555/13243
+#EXTINF:-1,FR| EQUIDIA LIFE HD
+http://topiptv.net:5890/55555/55555/4681
+#EXTINF:-1,FR: EQUIDIA LIFE SD
+http://topiptv.net:5890/55555/55555/13242
+#EXTINF:-1,FR| EQUIDIA LIVE HD
+http://topiptv.net:5890/55555/55555/4689
+#EXTINF:-1,EUROSPORT 1 Full HD
+http://topiptv.net:5890/55555/55555/1936
+#EXTINF:-1,FR| EUROSPORT 1 HD
+http://topiptv.net:5890/55555/55555/4693
+#EXTINF:-1,FR: EUROSPORT1 SD
+http://topiptv.net:5890/55555/55555/13245
+#EXTINF:-1,EUROSPORT 2 Full HD
+http://topiptv.net:5890/55555/55555/1937
+#EXTINF:-1,FR| EUROSPORT 2 HD
+http://topiptv.net:5890/55555/55555/4692
+#EXTINF:-1,FR: EUROSPORT2 SD
+http://topiptv.net:5890/55555/55555/13244
+#EXTINF:-1,GOLF CHANNEL Full HD
+http://topiptv.net:5890/55555/55555/1939
+#EXTINF:-1,FR| GOLF CHANNELS HD
+http://topiptv.net:5890/55555/55555/4688
+#EXTINF:-1,FR: GOLF CHANNELS SD
+http://topiptv.net:5890/55555/55555/13239
+#EXTINF:-1,GOLF+ Full HD
+http://topiptv.net:5890/55555/55555/2028
+#EXTINF:-1,FR| GOLF+ HD
+http://topiptv.net:5890/55555/55555/5072
+#EXTINF:-1,FR: GOLF+  SD
+http://topiptv.net:5890/55555/55555/13240
+#EXTINF:-1,OM TV Full HD
+http://topiptv.net:5890/55555/55555/3691
+#EXTINF:-1,FOOT+ 24/24 Full HD
+http://topiptv.net:5890/55555/55555/5082
+#EXTINF:-1,FR| FOOT+ 24/24 HD
+http://topiptv.net:5890/55555/55555/1631
+#EXTINF:-1,FR: FOOT+ 24 SD
+http://topiptv.net:5890/55555/55555/13264
+#EXTINF:-1,TRACE SPORT * STARS HD
+http://topiptv.net:5890/55555/55555/7573
+#EXTINF:-1,FR: TRACE SPORT STARS HD
+http://topiptv.net:5890/55555/55555/13257
+#EXTINF:-1,AB MOTEURS Full HD
+http://topiptv.net:5890/55555/55555/5079
+#EXTINF:-1,FR| AB MOTEURS HD
+http://topiptv.net:5890/55555/55555/1947
+#EXTINF:-1,FR: AB MOTEUR HD
+http://topiptv.net:5890/55555/55555/13247
+#EXTINF:-1,FR: MOTOR SPORT HD
+http://topiptv.net:5890/55555/55555/13246
+#EXTINF:-1,FR: AB MOTEUR
+http://topiptv.net:5890/55555/55555/13248
+#EXTINF:-1,FR| EXTREME SPORTS HD
+http://topiptv.net:5890/55555/55555/5094
+#EXTINF:-1,FR: EXTREME SPORTS
+http://topiptv.net:5890/55555/55555/13250
+#EXTINF:-1,FR: OM TV HD
+http://topiptv.net:5890/55555/55555/13253
+#EXTINF:-1,FR: OL TV HD
+http://topiptv.net:5890/55555/55555/13252
+#EXTINF:-1,FR: GIRONDINS TV
+http://topiptv.net:5890/55555/55555/13251
+#EXTINF:-1,FR: ONZEO FHD
+http://topiptv.net:5890/55555/55555/13263
+#EXTINF:-1,--|FR DOCUMENTAIRE|--
+http://topiptv.net:5890/55555/55555/1492
+#EXTINF:-1,SEASONS Full HD
+http://topiptv.net:5890/55555/55555/1946
+#EXTINF:-1,FR| SEASON HD
+http://topiptv.net:5890/55555/55555/4712
+#EXTINF:-1,FR: SEASON SD
+http://topiptv.net:5890/55555/55555/13153
+#EXTINF:-1,TREK Full HD
+http://topiptv.net:5890/55555/55555/1944
+#EXTINF:-1,FR| TREK HD
+http://topiptv.net:5890/55555/55555/4711
+#EXTINF:-1,FR: TREK SD
+http://topiptv.net:5890/55555/55555/13155
+#EXTINF:-1,USHUAIA Full HD
+http://topiptv.net:5890/55555/55555/2587
+#EXTINF:-1,FR| USHUAIA HD
+http://topiptv.net:5890/55555/55555/4720
+#EXTINF:-1,FR: USHUAIA SD
+http://topiptv.net:5890/55555/55555/13158
+#EXTINF:-1,ANIMAUX Full HD
+http://topiptv.net:5890/55555/55555/1945
+#EXTINF:-1,FR| ANIMAUX HD
+http://topiptv.net:5890/55555/55555/4710
+#EXTINF:-1,FR: ANIMAUX SD
+http://topiptv.net:5890/55555/55555/13159
+#EXTINF:-1,PLANETE+ Full HD
+http://topiptv.net:5890/55555/55555/1928
+#EXTINF:-1,FR| PLANETE+ HD
+http://topiptv.net:5890/55555/55555/4704
+#EXTINF:-1,FR: PLANETE+ SD
+http://topiptv.net:5890/55555/55555/13169
+#EXTINF:-1,PLANETE+ CI Full HD
+http://topiptv.net:5890/55555/55555/2692
+#EXTINF:-1,FR| PLANETE+ CI HD
+http://topiptv.net:5890/55555/55555/4703
+#EXTINF:-1,FR: PLANETE+ CI SD
+http://topiptv.net:5890/55555/55555/13168
+#EXTINF:-1,PLANETE+ A&E Full HD
+http://topiptv.net:5890/55555/55555/2691
+#EXTINF:-1,FR| PLANETE+ A&E HD
+http://topiptv.net:5890/55555/55555/4702
+#EXTINF:-1,FR: PLANETE+ A&E SD
+http://topiptv.net:5890/55555/55555/13167
+#EXTINF:-1,RMC DECOUVERTE Full HD
+http://topiptv.net:5890/55555/55555/1910
+#EXTINF:-1,FR| RMC DECOUVERTE HD
+http://topiptv.net:5890/55555/55555/4708
+#EXTINF:-1,FR: RMC DECOUVERTE SD
+http://topiptv.net:5890/55555/55555/13157
+#EXTINF:-1,NAT GEO WILD Full HD
+http://topiptv.net:5890/55555/55555/2693
+#EXTINF:-1,FR| NAT GEO WILD HD
+http://topiptv.net:5890/55555/55555/4718
+#EXTINF:-1,FR: NAT GEO WILD SD
+http://topiptv.net:5890/55555/55555/13161
+#EXTINF:-1,NATIONAL GEO Full HD
+http://topiptv.net:5890/55555/55555/1952
+#EXTINF:-1,FR| NATIONAL GEO HD
+http://topiptv.net:5890/55555/55555/4719
+#EXTINF:-1,FR: NATIONAL GEO SD
+http://topiptv.net:5890/55555/55555/13162
+#EXTINF:-1,HISTOIRE Full HD
+http://topiptv.net:5890/55555/55555/4373
+#EXTINF:-1,FR| HISTOIRE HD
+http://topiptv.net:5890/55555/55555/4709
+#EXTINF:-1,FR: HISTOIRE SD
+http://topiptv.net:5890/55555/55555/13149
+#EXTINF:-1,SCIENCE ET VIE Full HD
+http://topiptv.net:5890/55555/55555/1929
+#EXTINF:-1,FR| SCIENCE&VIE HD
+http://topiptv.net:5890/55555/55555/4717
+#EXTINF:-1,FR: SCIENCE&VIE SD
+http://topiptv.net:5890/55555/55555/13160
+#EXTINF:-1,CRIME DISTRICT Full HD
+http://topiptv.net:5890/55555/55555/4266
+#EXTINF:-1,FR| CRIME DISTRICT HD
+http://topiptv.net:5890/55555/55555/4713
+#EXTINF:-1,FR: CRIME DISTRICT SD
+http://topiptv.net:5890/55555/55555/13151
+#EXTINF:-1,DISCOVERY CHANNEL Full HD
+http://topiptv.net:5890/55555/55555/1935
+#EXTINF:-1,FR| DISCOVERY HD
+http://topiptv.net:5890/55555/55555/4714
+#EXTINF:-1,FR: DISCOVERY SD
+http://topiptv.net:5890/55555/55555/13166
+#EXTINF:-1,DISCOVERY FAMILY FULL HD
+http://topiptv.net:5890/55555/55555/5227
+#EXTINF:-1,FR: DISCOVERY FAMILY SD
+http://topiptv.net:5890/55555/55555/13163
+#EXTINF:-1,DISCOVERY INVESTIGATION Full HD
+http://topiptv.net:5890/55555/55555/3704
+#EXTINF:-1,FR: DISCOVERY INVESTIGATION SD
+http://topiptv.net:5890/55555/55555/13164
+#EXTINF:-1,DISCOVERY SCIENCE Full HD
+http://topiptv.net:5890/55555/55555/1930
+#EXTINF:-1,FR| DISCOVERY SCIENCE HD
+http://topiptv.net:5890/55555/55555/4715
+#EXTINF:-1,FR: DISCOVERY SC SD
+http://topiptv.net:5890/55555/55555/13165
+#EXTINF:-1,CAMPAGNES TV Full HD
+http://topiptv.net:5890/55555/55555/2601
+#EXTINF:-1,FR| CAMPAGNES TV HD
+http://topiptv.net:5890/55555/55555/4707
+#EXTINF:-1,FR:CAMPAGNE-TV SD
+http://topiptv.net:5890/55555/55555/13152
+#EXTINF:-1,VOYAGE Full HD
+http://topiptv.net:5890/55555/55555/4780
+#EXTINF:-1,FR| VOYAGE HD
+http://topiptv.net:5890/55555/55555/4679
+#EXTINF:-1,FR: VOYAGE SD
+http://topiptv.net:5890/55555/55555/13156
+#EXTINF:-1,FR: VOSGES
+http://topiptv.net:5890/55555/55555/13202
+#EXTINF:-1,VICELAND Full HD
+http://topiptv.net:5890/55555/55555/4912
+#EXTINF:-1,MY ZEN TV Full HD
+http://topiptv.net:5890/55555/55555/4911
+#EXTINF:-1,MY CUISINE Full HD
+http://topiptv.net:5890/55555/55555/4372
+#EXTINF:-1,FR: MUSEUM HD
+http://topiptv.net:5890/55555/55555/13150
+#EXTINF:-1,ULTRA NATURE UHD
+http://topiptv.net:5890/55555/55555/4677
+#EXTINF:-1,BE CURIOUS Full HD
+http://topiptv.net:5890/55555/55555/4675
+#EXTINF:-1,Wéo Full HD
+http://topiptv.net:5890/55555/55555/5992
+#EXTINF:-1,FR: AZUR TV FULLHD
+http://topiptv.net:5890/55555/55555/13215
+#EXTINF:-1,FR: TN TV HD
+http://topiptv.net:5890/55555/55555/13204
+#EXTINF:-1,FR: MUSCULATION TV HD
+http://topiptv.net:5890/55555/55555/13249
+#EXTINF:-1,VIVOLTA HD
+http://topiptv.net:5890/55555/55555/12963
+#EXTINF:-1,FR: VIVOLTA HD
+http://topiptv.net:5890/55555/55555/13226
+#EXTINF:-1,BET° Full HD
+http://topiptv.net:5890/55555/55555/4678
+#EXTINF:-1,TOUTE L'HISTOIRE
+http://topiptv.net:5890/55555/55555/1737
+#EXTINF:-1,FR| CHASSE ET PECHE HD
+http://topiptv.net:5890/55555/55555/330
+#EXTINF:-1,FR: CHASSE&PECHE SD
+http://topiptv.net:5890/55555/55555/13154
+#EXTINF:-1,FR:TOUTE.L'HISTOIRE SD
+http://topiptv.net:5890/55555/55555/13148
+#EXTINF:-1,FR: NAUTICAL CHANNELS HD
+http://topiptv.net:5890/55555/55555/13214
+#EXTINF:-1,--|FR ENFANT|--
+http://topiptv.net:5890/55555/55555/1494
+#EXTINF:-1,CANAL J Full HD
+http://topiptv.net:5890/55555/55555/2699
+#EXTINF:-1,FR| CANAL J HD
+http://topiptv.net:5890/55555/55555/4740
+#EXTINF:-1,FR: CANAL J SD
+http://topiptv.net:5890/55555/55555/13184
+#EXTINF:-1,J-ONE Full HD
+http://topiptv.net:5890/55555/55555/3695
+#EXTINF:-1,FR: J ONE SD
+http://topiptv.net:5890/55555/55555/13175
+#EXTINF:-1,FR| J-ONE HD
+http://topiptv.net:5890/55555/55555/4728
+#EXTINF:-1,GAME ONE Full HD
+http://topiptv.net:5890/55555/55555/1934
+#EXTINF:-1,FR| GAME ONE HD
+http://topiptv.net:5890/55555/55555/4729
+#EXTINF:-1,FR: GAMEONE SD
+http://topiptv.net:5890/55555/55555/13177
+#EXTINF:-1,FR: GAMEONE HD
+http://topiptv.net:5890/55555/55555/13178
+#EXTINF:-1,FR: GAME ONE 1 SD
+http://topiptv.net:5890/55555/55555/13176
+#EXTINF:-1,FR: GINX HD
+http://topiptv.net:5890/55555/55555/13171
+#EXTINF:-1,FR: GONG SD
+http://topiptv.net:5890/55555/55555/13173
+#EXTINF:-1,FR: BABY TV HD
+http://topiptv.net:5890/55555/55555/13186
+#EXTINF:-1,MANGAS Full HD
+http://topiptv.net:5890/55555/55555/3696
+#EXTINF:-1,FR| MANGAS HD
+http://topiptv.net:5890/55555/55555/4727
+#EXTINF:-1,FR: MANGAS SD
+http://topiptv.net:5890/55555/55555/13172
+#EXTINF:-1,PIWI+ Full HD
+http://topiptv.net:5890/55555/55555/2696
+#EXTINF:-1,FR| PIWI+ HD
+http://topiptv.net:5890/55555/55555/4735
+#EXTINF:-1,FR: PIWI SD
+http://topiptv.net:5890/55555/55555/13187
+#EXTINF:-1,GULLI Full HD
+http://topiptv.net:5890/55555/55555/2015
+#EXTINF:-1,FR| GULLI HD
+http://topiptv.net:5890/55555/55555/4726
+#EXTINF:-1,FR: GULLI SD
+http://topiptv.net:5890/55555/55555/13174
+#EXTINF:-1,TÉLÉTOON+ Full HD
+http://topiptv.net:5890/55555/55555/2698
+#EXTINF:-1,FR| TÉLÉTOON+ HD
+http://topiptv.net:5890/55555/55555/4737
+#EXTINF:-1,FR: TELETOON+ SD
+http://topiptv.net:5890/55555/55555/13188
+#EXTINF:-1,TIJI Full HD
+http://topiptv.net:5890/55555/55555/2697
+#EXTINF:-1,FR| TIJI HD
+http://topiptv.net:5890/55555/55555/4738
+#EXTINF:-1,FR: TIJI SD
+http://topiptv.net:5890/55555/55555/13183
+#EXTINF:-1,TOONAMI Full HD
+http://topiptv.net:5890/55555/55555/4218
+#EXTINF:-1,FR| TOONAMI HD
+http://topiptv.net:5890/55555/55555/4846
+#EXTINF:-1,FR: TOONAMI SD
+http://topiptv.net:5890/55555/55555/13189
+#EXTINF:-1,BOOMERANG Full HD
+http://topiptv.net:5890/55555/55555/2700
+#EXTINF:-1,FR| BOOMERANG HD
+http://topiptv.net:5890/55555/55555/4739
+#EXTINF:-1,FR: BOOMERANG 1 SD
+http://topiptv.net:5890/55555/55555/13181
+#EXTINF:-1,FR: BOOMERANG SD
+http://topiptv.net:5890/55555/55555/13182
+#EXTINF:-1,BOING Full HD
+http://topiptv.net:5890/55555/55555/5081
+#EXTINF:-1,FR| BOING HD
+http://topiptv.net:5890/55555/55555/5088
+#EXTINF:-1,FR: BOING SD
+http://topiptv.net:5890/55555/55555/13180
+#EXTINF:-1,DISNEY CHANNEL Full HD
+http://topiptv.net:5890/55555/55555/2694
+#EXTINF:-1,FR| DISNEY CHANNEL HD
+http://topiptv.net:5890/55555/55555/4733
+#EXTINF:-1,FR: DISNEY CHANNELS SD
+http://topiptv.net:5890/55555/55555/13199
+#EXTINF:-1,FR: DISNEY CHA 1
+http://topiptv.net:5890/55555/55555/13198
+#EXTINF:-1,DISNEY CINEMA Full HD
+http://topiptv.net:5890/55555/55555/2016
+#EXTINF:-1,FR| DISNEY CINEMA HD
+http://topiptv.net:5890/55555/55555/4731
+#EXTINF:-1,FR: DISNEY CINEMA SD
+http://topiptv.net:5890/55555/55555/13195
+#EXTINF:-1,DISNEY JUNIOR Full HD
+http://topiptv.net:5890/55555/55555/2695
+#EXTINF:-1,FR| DISNEY JUNIOR HD
+http://topiptv.net:5890/55555/55555/4734
+#EXTINF:-1,FR: DISNEY JUNIOR SD
+http://topiptv.net:5890/55555/55555/13196
+#EXTINF:-1,DISNEY XD Full HD
+http://topiptv.net:5890/55555/55555/4371
+#EXTINF:-1,FR| DISNEY XD HD
+http://topiptv.net:5890/55555/55555/4736
+#EXTINF:-1,FR: DISNEY XD SD
+http://topiptv.net:5890/55555/55555/13197
+#EXTINF:-1,NICKELODEON Full HD
+http://topiptv.net:5890/55555/55555/1931
+#EXTINF:-1,FR| NICKELODEON HD
+http://topiptv.net:5890/55555/55555/4730
+#EXTINF:-1,FR: NICKELODEON  1 HD
+http://topiptv.net:5890/55555/55555/13193
+#EXTINF:-1,FR: NICKELODEON SD
+http://topiptv.net:5890/55555/55555/13194
+#EXTINF:-1,FR: NICKELODEON JUN SD
+http://topiptv.net:5890/55555/55555/13192
+#EXTINF:-1,FR: NICK JUNIOR SD
+http://topiptv.net:5890/55555/55555/13191
+#EXTINF:-1,Nickelodeon 4 TEEN Full HD
+http://topiptv.net:5890/55555/55555/2629
+#EXTINF:-1,FR: NICKELODEON 4 TEEN HD
+http://topiptv.net:5890/55555/55555/13190
+#EXTINF:-1,CARTOON NETWORK Full HD
+http://topiptv.net:5890/55555/55555/2211
+#EXTINF:-1,FR: CARTOON NET SD
+http://topiptv.net:5890/55555/55555/13179
+#EXTINF:-1,FR| CARTOON NETWORK HD
+http://topiptv.net:5890/55555/55555/4732
+#EXTINF:-1,FR| ZOUZOUS HD
+http://topiptv.net:5890/55555/55555/1898
+#EXTINF:-1,FR: LUCKY JACK HD
+http://topiptv.net:5890/55555/55555/13133
+#EXTINF:-1,FR: ZOUZOUS SD
+http://topiptv.net:5890/55555/55555/13185
+#EXTINF:-1,--|FR MUSIC|--
+http://topiptv.net:5890/55555/55555/1510
+#EXTINF:-1,ONE TV Full HD
+http://topiptv.net:5890/55555/55555/5093
+#EXTINF:-1,NRJ 12 Full HD
+http://topiptv.net:5890/55555/55555/1926
+#EXTINF:-1,FR| NRJ 12 HD
+http://topiptv.net:5890/55555/55555/4744
+#EXTINF:-1,FR: NRJ12 HD
+http://topiptv.net:5890/55555/55555/13224
+#EXTINF:-1,NRJ HITS
+http://topiptv.net:5890/55555/55555/4195
+#EXTINF:-1,MCM Full HD
+http://topiptv.net:5890/55555/55555/2702
+#EXTINF:-1,FR| MCM HD
+http://topiptv.net:5890/55555/55555/4724
+#EXTINF:-1,MCM TOP Full HD
+http://topiptv.net:5890/55555/55555/2703
+#EXTINF:-1,FR| MCM TOP HD
+http://topiptv.net:5890/55555/55555/4723
+#EXTINF:-1,MTV FRANCE Full HD
+http://topiptv.net:5890/55555/55555/1933
+#EXTINF:-1,FR[ MTV
+http://topiptv.net:5890/55555/55555/4725
+#EXTINF:-1,MTV HITS Full HD
+http://topiptv.net:5890/55555/55555/5078
+#EXTINF:-1,M6 MUSIC Full HD
+http://topiptv.net:5890/55555/55555/5076
+#EXTINF:-1,FR| M6 MUSIC HD
+http://topiptv.net:5890/55555/55555/1187
+#EXTINF:-1,FR: M6 BOUTIQUE
+http://topiptv.net:5890/55555/55555/13201
+#EXTINF:-1,RFM TV Full HD
+http://topiptv.net:5890/55555/55555/5075
+#EXTINF:-1,FR| RFM TV
+http://topiptv.net:5890/55555/55555/5087
+#EXTINF:-1,TRACE AFRICA Full HD
+http://topiptv.net:5890/55555/55555/5077
+#EXTINF:-1,TRACE URBAN Full HD
+http://topiptv.net:5890/55555/55555/5091
+#EXTINF:-1,FR| Trace urban
+http://topiptv.net:5890/55555/55555/4684
+#EXTINF:-1,TRACE GOSPEL
+http://topiptv.net:5890/55555/55555/12977
+#EXTINF:-1,TRACE MZIKI
+http://topiptv.net:5890/55555/55555/12976
+#EXTINF:-1,TRACE NAIJA
+http://topiptv.net:5890/55555/55555/12975
+#EXTINF:-1,TRACE TOCA
+http://topiptv.net:5890/55555/55555/12974
+#EXTINF:-1,TRACE TROPICAL HD
+http://topiptv.net:5890/55555/55555/12978
+#EXTINF:-1,OKLM HD
+http://topiptv.net:5890/55555/55555/12973
+#EXTINF:-1,NRJ HITS HD
+http://topiptv.net:5890/55555/55555/12971
+#EXTINF:-1,RFM TV HD
+http://topiptv.net:5890/55555/55555/12972
+#EXTINF:-1,VH1 Full HD
+http://topiptv.net:5890/55555/55555/12970
+#EXTINF:-1,VH1 CLASSIC
+http://topiptv.net:5890/55555/55555/12969
+#EXTINF:-1,MELODY TV HD
+http://topiptv.net:5890/55555/55555/12968
+#EXTINF:-1,DJAZZ TV HD
+http://topiptv.net:5890/55555/55555/12967
+#EXTINF:-1,BRAVA HD
+http://topiptv.net:5890/55555/55555/12966
+#EXTINF:-1,MEZZO LIVE HD
+http://topiptv.net:5890/55555/55555/12965
+#EXTINF:-1,ONE TV HD
+http://topiptv.net:5890/55555/55555/12964
+#EXTINF:-1,FR| Virgin HD
+http://topiptv.net:5890/55555/55555/1265
+#EXTINF:-1,FR: FUEL TV
+http://topiptv.net:5890/55555/55555/13225
+#EXTINF:-1,FR: ALSACE 20
+http://topiptv.net:5890/55555/55555/13203
+#EXTINF:-1,FR: MENSUP TV
+http://topiptv.net:5890/55555/55555/13139
+#EXTINF:-1,FR:OFIVE TV
+http://topiptv.net:5890/55555/55555/13206
+#EXTINF:-1,FR: SOUVENIRS FROM EHART HD
+http://topiptv.net:5890/55555/55555/13212
+#EXTINF:-1,--|FR PPV|--
+http://topiptv.net:5890/55555/55555/1490
+#EXTINF:-1,CANAL PLAY 1
+http://topiptv.net:5890/55555/55555/1037
+#EXTINF:-1,CANAL PLAY 2
+http://topiptv.net:5890/55555/55555/1038
+#EXTINF:-1,CANAL PLAY 3
+http://topiptv.net:5890/55555/55555/1039
+#EXTINF:-1,CANAL PLAY 4
+http://topiptv.net:5890/55555/55555/1040
+#EXTINF:-1,CANAL PLAY 5
+http://topiptv.net:5890/55555/55555/1041
+#EXTINF:-1,CANAL PLAY 6
+http://topiptv.net:5890/55555/55555/1036
+#EXTINF:-1,ORANGE CINEMA 1
+http://topiptv.net:5890/55555/55555/4670
+#EXTINF:-1,ORANGE CINEMA 2
+http://topiptv.net:5890/55555/55555/4671
+#EXTINF:-1,ORANGE CINEMA 3
+http://topiptv.net:5890/55555/55555/4672
+#EXTINF:-1,ORANGE CINEMA 4
+http://topiptv.net:5890/55555/55555/4673
+#EXTINF:-1,ORANGE CINEMA 5
+http://topiptv.net:5890/55555/55555/4674
+#EXTINF:-1,FR: CANAL PLAY 1
+http://topiptv.net:5890/55555/55555/13309
+#EXTINF:-1,FR: CANAL PLAY 2
+http://topiptv.net:5890/55555/55555/13308
+#EXTINF:-1,FR: CANAL PLAY 3
+http://topiptv.net:5890/55555/55555/13307
+#EXTINF:-1,FR: CANAL PLAY 4
+http://topiptv.net:5890/55555/55555/13306
+#EXTINF:-1,FR: CANAL PLAY 5
+http://topiptv.net:5890/55555/55555/13305
+#EXTINF:-1,FR: CANAL PLAY 6
+http://topiptv.net:5890/55555/55555/13304
+#EXTINF:-1,FR: CANAL PLAY 7
+http://topiptv.net:5890/55555/55555/13303
+#EXTINF:-1,FR: CANAL PLAY 8
+http://topiptv.net:5890/55555/55555/13302
+#EXTINF:-1,FR: CANAL PLAY 9
+http://topiptv.net:5890/55555/55555/13301
+#EXTINF:-1,FR: CANAL PLAY 10
+http://topiptv.net:5890/55555/55555/13300
+#EXTINF:-1,FR: CANAL PLAY 11
+http://topiptv.net:5890/55555/55555/13299
+#EXTINF:-1,FR: CANAL PLAY 12
+http://topiptv.net:5890/55555/55555/13298
+#EXTINF:-1,FR: CANAL PLAY 13
+http://topiptv.net:5890/55555/55555/13297
+#EXTINF:-1,FR: CANAL PLAY 14
+http://topiptv.net:5890/55555/55555/13296
+#EXTINF:-1,FR: CANAL PLAY 15
+http://topiptv.net:5890/55555/55555/13295
+#EXTINF:-1,FR:  CANAL PLAY 16
+http://topiptv.net:5890/55555/55555/13294
+#EXTINF:-1,FR: ALACARTE 1
+http://topiptv.net:5890/55555/55555/13284
+#EXTINF:-1,FR: ALACARTE 2
+http://topiptv.net:5890/55555/55555/13283
+#EXTINF:-1,FR: ALACARTE 3
+http://topiptv.net:5890/55555/55555/13282
+#EXTINF:-1,FR: ALACARTE 4
+http://topiptv.net:5890/55555/55555/13281
+#EXTINF:-1,FR: ALACARTE 5
+http://topiptv.net:5890/55555/55555/13280
+#EXTINF:-1,FR: ALACARTE 6
+http://topiptv.net:5890/55555/55555/13279
+#EXTINF:-1,FR: ALACARTE 7
+http://topiptv.net:5890/55555/55555/13278
+#EXTINF:-1,FR: ALACARTE 8
+http://topiptv.net:5890/55555/55555/13277
+#EXTINF:-1,FR: ALACARTE 9
+http://topiptv.net:5890/55555/55555/13276
+#EXTINF:-1,FR: ALACARTE 10
+http://topiptv.net:5890/55555/55555/13275
+#EXTINF:-1,FR: ORANGE CINE
+http://topiptv.net:5890/55555/55555/13293
+#EXTINF:-1,FR: ORANGE CINE  1
+http://topiptv.net:5890/55555/55555/13292
+#EXTINF:-1,FR: ORANGE CINE  2
+http://topiptv.net:5890/55555/55555/13291
+#EXTINF:-1,FR: ORANGE CINE  3
+http://topiptv.net:5890/55555/55555/13290
+#EXTINF:-1,FR: ORANGE CINE  4
+http://topiptv.net:5890/55555/55555/13289
+#EXTINF:-1,FR: ORANGE CINE  5
+http://topiptv.net:5890/55555/55555/13288
+#EXTINF:-1,FR: ORANGE CINE  6
+http://topiptv.net:5890/55555/55555/13287
+#EXTINF:-1,FR: ORANGE CINE  7
+http://topiptv.net:5890/55555/55555/13286
+#EXTINF:-1,FR: ORANGE CINE  8
+http://topiptv.net:5890/55555/55555/13285
+#EXTINF:-1,««------BELGIQUE------»»
+http://topiptv.net:5890/55555/55555/854
+#EXTINF:-1,LA UNE HD BE
+http://topiptv.net:5890/55555/55555/8684
+#EXTINF:-1,La Deux BE
+http://topiptv.net:5890/55555/55555/8683
+#EXTINF:-1,La Trois BE
+http://topiptv.net:5890/55555/55555/8682
+#EXTINF:-1,RTL TVI HD BE
+http://topiptv.net:5890/55555/55555/8664
+#EXTINF:-1,Plug RTL BE
+http://topiptv.net:5890/55555/55555/8667
+#EXTINF:-1,Club RTL BE
+http://topiptv.net:5890/55555/55555/8691
+#EXTINF:-1,192 TV BE
+http://topiptv.net:5890/55555/55555/8700
+#EXTINF:-1,2BE FHD BE
+http://topiptv.net:5890/55555/55555/8699
+#EXTINF:-1,Acht BE
+http://topiptv.net:5890/55555/55555/8698
+#EXTINF:-1,BX1 BE
+http://topiptv.net:5890/55555/55555/8697
+#EXTINF:-1,Canvas HD BE
+http://topiptv.net:5890/55555/55555/8695
+#EXTINF:-1,CAZ BE
+http://topiptv.net:5890/55555/55555/8696
+#EXTINF:-1,één HD BE
+http://topiptv.net:5890/55555/55555/8649
+#EXTINF:-1,Kadet BE
+http://topiptv.net:5890/55555/55555/8687
+#EXTINF:-1,Ketnet BE
+http://topiptv.net:5890/55555/55555/8686
+#EXTINF:-1,Nat Geo HD BE
+http://topiptv.net:5890/55555/55555/8681
+#EXTINF:-1,Q2 HD BE
+http://topiptv.net:5890/55555/55555/8665
+#EXTINF:-1,Vier FHD BE
+http://topiptv.net:5890/55555/55555/8654
+#EXTINF:-1,VIJF BE
+http://topiptv.net:5890/55555/55555/8660
+#EXTINF:-1,Vitaya BE
+http://topiptv.net:5890/55555/55555/8659
+#EXTINF:-1,VTM HD BE
+http://topiptv.net:5890/55555/55555/8656
+#EXTINF:-1,Voo Sport 1 BE
+http://topiptv.net:5890/55555/55555/8701
+#EXTINF:-1,Voo Sport 2 BE
+http://topiptv.net:5890/55555/55555/2029
+#EXTINF:-1,Voo Sport World 1 BE
+http://topiptv.net:5890/55555/55555/8653
+#EXTINF:-1,Voo Sport World 2 BE
+http://topiptv.net:5890/55555/55555/8652
+#EXTINF:-1,Voo Sport World 3 BE
+http://topiptv.net:5890/55555/55555/8651
+#EXTINF:-1,ELEVEN SPORTS 1 HD BE
+http://topiptv.net:5890/55555/55555/8689
+#EXTINF:-1,ELEVEN SPORTS 2 HD BE
+http://topiptv.net:5890/55555/55555/8688
+#EXTINF:-1,««------SWITZERLAND------»»
+http://topiptv.net:5890/55555/55555/4144
+#EXTINF:-1,RSI LA1HD SRG
+http://topiptv.net:5890/55555/55555/4143
+#EXTINF:-1,RSI LA2HD SRG
+http://topiptv.net:5890/55555/55555/4142
+#EXTINF:-1,RTS Un HD SRG
+http://topiptv.net:5890/55555/55555/4139
+#EXTINF:-1,RTS Deux HD SRG
+http://topiptv.net:5890/55555/55555/4140
+#EXTINF:-1,SRF 1 HD
+http://topiptv.net:5890/55555/55555/4137
+#EXTINF:-1,SRF 2 HD SRG
+http://topiptv.net:5890/55555/55555/4135
+#EXTINF:-1,SRF Info HD SRG
+http://topiptv.net:5890/55555/55555/4134
+#EXTINF:-1,««------FRANCE STANDARD------»»
+http://topiptv.net:5890/55555/55555/855
+#EXTINF:-1,TF1 FR
+http://topiptv.net:5890/55555/55555/1775
+#EXTINF:-1,FRANCE 2  FR
+http://topiptv.net:5890/55555/55555/1776
+#EXTINF:-1,FRANCE 3 FR
+http://topiptv.net:5890/55555/55555/1814
+#EXTINF:-1,FRANCE 4 FR
+http://topiptv.net:5890/55555/55555/314
+#EXTINF:-1,FRANCE 5 FR
+http://topiptv.net:5890/55555/55555/315
+#EXTINF:-1,FRANCE Ô FR
+http://topiptv.net:5890/55555/55555/316
+#EXTINF:-1,M6 FR
+http://topiptv.net:5890/55555/55555/1777
+#EXTINF:-1,W9 FR
+http://topiptv.net:5890/55555/55555/1778
+#EXTINF:-1,6TER FR
+http://topiptv.net:5890/55555/55555/1811
+#EXTINF:-1,RTL 9 FR
+http://topiptv.net:5890/55555/55555/318
+#EXTINF:-1,RTS Un FR
+http://topiptv.net:5890/55555/55555/995
+#EXTINF:-1,RTS Deux FR
+http://topiptv.net:5890/55555/55555/1653
+#EXTINF:-1,C STAR FR
+http://topiptv.net:5890/55555/55555/1008
+#EXTINF:-1,C8 FR
+http://topiptv.net:5890/55555/55555/321
+#EXTINF:-1,AB1 FR
+http://topiptv.net:5890/55555/55555/1786
+#EXTINF:-1,TFX FR
+http://topiptv.net:5890/55555/55555/926
+#EXTINF:-1,TF1 SÉRIES FILMS  FR
+http://topiptv.net:5890/55555/55555/1185
+#EXTINF:-1,ARTE FR
+http://topiptv.net:5890/55555/55555/324
+#EXTINF:-1,ACTION FR
+http://topiptv.net:5890/55555/55555/317
+#EXTINF:-1,POLAR+ FR
+http://topiptv.net:5890/55555/55555/1216
+#EXTINF:-1,CANAL+ FR
+http://topiptv.net:5890/55555/55555/331
+#EXTINF:-1,CANAL+ CINEMA FR
+http://topiptv.net:5890/55555/55555/1803
+#EXTINF:-1,CANAL+ DECALE FR
+http://topiptv.net:5890/55555/55555/337
+#EXTINF:-1,CANAL+ FAMIILY FR
+http://topiptv.net:5890/55555/55555/1804
+#EXTINF:-1,CANAL+ SERIES FR
+http://topiptv.net:5890/55555/55555/1832
+#EXTINF:-1,Ciné +Famiz FR
+http://topiptv.net:5890/55555/55555/827
+#EXTINF:-1,Cine+ Premier FR
+http://topiptv.net:5890/55555/55555/1805
+#EXTINF:-1,CINE+ CLASSIC FR
+http://topiptv.net:5890/55555/55555/1218
+#EXTINF:-1,CINE+ EMOTION FR
+http://topiptv.net:5890/55555/55555/336
+#EXTINF:-1,CINE+ FRISSON FR
+http://topiptv.net:5890/55555/55555/3217
+#EXTINF:-1,Cherie 25 FR
+http://topiptv.net:5890/55555/55555/1125
+#EXTINF:-1,E! HD FR
+http://topiptv.net:5890/55555/55555/1124
+#EXTINF:-1,Elle Girl FR
+http://topiptv.net:5890/55555/55555/4376
+#EXTINF:-1,RMC STORY FR
+http://topiptv.net:5890/55555/55555/1772
+#EXTINF:-1,13EME RUE FR
+http://topiptv.net:5890/55555/55555/826
+#EXTINF:-1,PARAMOUNT CHANNEL FR
+http://topiptv.net:5890/55555/55555/1630
+#EXTINF:-1,SERIE CLUB FR
+http://topiptv.net:5890/55555/55555/1833
+#EXTINF:-1,SYFY FR
+http://topiptv.net:5890/55555/55555/328
+#EXTINF:-1,TCM Cinema FR
+http://topiptv.net:5890/55555/55555/1891
+#EXTINF:-1,TMC FR
+http://topiptv.net:5890/55555/55555/1816
+#EXTINF:-1,TV BREIZH FR
+http://topiptv.net:5890/55555/55555/1773
+#EXTINF:-1,Comedie + FR
+http://topiptv.net:5890/55555/55555/1806
+#EXTINF:-1,MY CUISINE TV FR
+http://topiptv.net:5890/55555/55555/3124
+#EXTINF:-1,RMC SPORTS 1 FR
+http://topiptv.net:5890/55555/55555/2590
+#EXTINF:-1,RMC SPORTS 2 FR
+http://topiptv.net:5890/55555/55555/1267
+#EXTINF:-1,RMC SPORTS 3 FR
+http://topiptv.net:5890/55555/55555/2595
+#EXTINF:-1,RMC SPORTS 4 FR
+http://topiptv.net:5890/55555/55555/4194
+#EXTINF:-1,beIN SPORTS 1 FR
+http://topiptv.net:5890/55555/55555/1780
+#EXTINF:-1,beIN SPORTS 2 FR
+http://topiptv.net:5890/55555/55555/1781
+#EXTINF:-1,beIN SPORTS 3 FR
+http://topiptv.net:5890/55555/55555/2593
+#EXTINF:-1,beIN SPORTS HD1 FR
+http://topiptv.net:5890/55555/55555/2654
+#EXTINF:-1,beIN SPORTS HD2 FR
+http://topiptv.net:5890/55555/55555/2655
+#EXTINF:-1,beIN SPORTS HD3 FR
+http://topiptv.net:5890/55555/55555/829
+#EXTINF:-1,BeIN SPORTS MAX 4 FR
+http://topiptv.net:5890/55555/55555/1303
+#EXTINF:-1,BeIN SPORTS MAX 5 FR
+http://topiptv.net:5890/55555/55555/1304
+#EXTINF:-1,BeIN SPORTS MAX 6 FR
+http://topiptv.net:5890/55555/55555/1305
+#EXTINF:-1,BeIN SPORTS MAX 7 FR
+http://topiptv.net:5890/55555/55555/1306
+#EXTINF:-1,BeIN SPORTS MAX 8 FR
+http://topiptv.net:5890/55555/55555/1307
+#EXTINF:-1,CANAL+ SPORT FR
+http://topiptv.net:5890/55555/55555/1779
+#EXTINF:-1,RMC SPORT NEWS FR
+http://topiptv.net:5890/55555/55555/4294
+#EXTINF:-1,Equidia Live FR
+http://topiptv.net:5890/55555/55555/1774
+#EXTINF:-1,EURO SPORTS 1 FR
+http://topiptv.net:5890/55555/55555/872
+#EXTINF:-1,EURO SPORTS 2 FR
+http://topiptv.net:5890/55555/55555/1103
+#EXTINF:-1,INFOSPORT+ FR
+http://topiptv.net:5890/55555/55555/873
+#EXTINF:-1,L'EQUIPE  FR
+http://topiptv.net:5890/55555/55555/326
+#EXTINF:-1,GOLF+ FR
+http://topiptv.net:5890/55555/55555/1782
+#EXTINF:-1,DISNEY CHANNEL FR
+http://topiptv.net:5890/55555/55555/921
+#EXTINF:-1,DISNEY CINEMA FR
+http://topiptv.net:5890/55555/55555/1104
+#EXTINF:-1,CARTOON NETWORK FR
+http://topiptv.net:5890/55555/55555/822
+#EXTINF:-1,Boomerang FR
+http://topiptv.net:5890/55555/55555/868
+#EXTINF:-1,CANAL J FR
+http://topiptv.net:5890/55555/55555/820
+#EXTINF:-1,Game One FR
+http://topiptv.net:5890/55555/55555/1839
+#EXTINF:-1,MANGAS FR
+http://topiptv.net:5890/55555/55555/1035
+#EXTINF:-1,Gulli FR
+http://topiptv.net:5890/55555/55555/327
+#EXTINF:-1,PIWI+ FR
+http://topiptv.net:5890/55555/55555/819
+#EXTINF:-1,TéléToon+ FR
+http://topiptv.net:5890/55555/55555/1264
+#EXTINF:-1,TIJI FR
+http://topiptv.net:5890/55555/55555/871
+#EXTINF:-1,TOONAMI FR
+http://topiptv.net:5890/55555/55555/1217
+#EXTINF:-1,NICK JR FR
+http://topiptv.net:5890/55555/55555/1785
+#EXTINF:-1,NICKELODEON FR
+http://topiptv.net:5890/55555/55555/1787
+#EXTINF:-1,Discovery FR
+http://topiptv.net:5890/55555/55555/1810
+#EXTINF:-1,Discovery Science FR
+http://topiptv.net:5890/55555/55555/1831
+#EXTINF:-1,NAT GEO WILD HD FR
+http://topiptv.net:5890/55555/55555/343
+#EXTINF:-1,National Geo HD FR
+http://topiptv.net:5890/55555/55555/1809
+#EXTINF:-1,PLANETE+ FR
+http://topiptv.net:5890/55555/55555/345
+#EXTINF:-1,PLANETE+ A&E FR
+http://topiptv.net:5890/55555/55555/347
+#EXTINF:-1,PLANETE+ CI FR
+http://topiptv.net:5890/55555/55555/1807
+#EXTINF:-1,RMC Decouverte FR
+http://topiptv.net:5890/55555/55555/1009
+#EXTINF:-1,VOYAGE FR
+http://topiptv.net:5890/55555/55555/925
+#EXTINF:-1,USHUAIA TV FR
+http://topiptv.net:5890/55555/55555/828
+#EXTINF:-1,TREK FR
+http://topiptv.net:5890/55555/55555/1783
+#EXTINF:-1,SCIENCE ET VIE FR
+http://topiptv.net:5890/55555/55555/2074
+#EXTINF:-1,SEASON FR
+http://topiptv.net:5890/55555/55555/1784
+#EXTINF:-1,Animaux FR
+http://topiptv.net:5890/55555/55555/1808
+#EXTINF:-1,BFM FR
+http://topiptv.net:5890/55555/55555/1105
+#EXTINF:-1,Euronews FR
+http://topiptv.net:5890/55555/55555/1484
+#EXTINF:-1,France24 FR
+http://topiptv.net:5890/55555/55555/1486
+#EXTINF:-1,NRJ12 FR
+http://topiptv.net:5890/55555/55555/823
+#EXTINF:-1,OCS CITY FR
+http://topiptv.net:5890/55555/55555/824
+#EXTINF:-1,OCS MAX FR
+http://topiptv.net:5890/55555/55555/1100
+#EXTINF:-1,OCS CHOC FR
+http://topiptv.net:5890/55555/55555/1102
+#EXTINF:-1,OCS GEANTS FR
+http://topiptv.net:5890/55555/55555/1101
+#EXTINF:-1,OCS ACTION FR
+http://topiptv.net:5890/55555/55555/2020
+#EXTINF:-1,OCS AVENTURE FR
+http://topiptv.net:5890/55555/55555/2021
+#EXTINF:-1,OCS GO COMEDIE FR
+http://topiptv.net:5890/55555/55555/2017
+#EXTINF:-1,OCS HORREUR FR
+http://topiptv.net:5890/55555/55555/2019
+#EXTINF:-1,OCS DOCUMENTAIRE FR
+http://topiptv.net:5890/55555/55555/2018
+
+#EXTINF:-1,[FR] TF1.HD
+http://world-ipsat.com:1155/agadir/123456/6224
+#EXTINF:-1,[FR] TF1 SD
+http://world-ipsat.com:1155/agadir/123456/443
+#EXTINF:-1,[FR] FRANCE2 HD
+http://world-ipsat.com:1155/agadir/123456/2188
+#EXTINF:-1,[FR] FRANCE2 SD
+http://world-ipsat.com:1155/agadir/123456/444
+#EXTINF:-1,[FR] FRANCE3 HD
+http://world-ipsat.com:1155/agadir/123456/445
+#EXTINF:-1,[FR] FRANCE3 SD
+http://world-ipsat.com:1155/agadir/123456/2517
+#EXTINF:-1,[FR] FRANCE4 HD
+http://world-ipsat.com:1155/agadir/123456/446
+#EXTINF:-1,[FR] FRANCE4 SD
+http://world-ipsat.com:1155/agadir/123456/2518
+#EXTINF:-1,[FR] FRANCE5 HD
+http://world-ipsat.com:1155/agadir/123456/447
+#EXTINF:-1,[FR] FRANCE5 SD
+http://world-ipsat.com:1155/agadir/123456/2519
+#EXTINF:-1,[FR] FRANCE O HD
+http://world-ipsat.com:1155/agadir/123456/448
+#EXTINF:-1,[FR] FRANCE O SD
+http://world-ipsat.com:1155/agadir/123456/2520
+#EXTINF:-1,[FR] M6 HD
+http://world-ipsat.com:1155/agadir/123456/2587
+#EXTINF:-1,[FR] M6 FHD
+http://world-ipsat.com:1155/agadir/123456/2474
+#EXTINF:-1,[FR] M6 SD
+http://world-ipsat.com:1155/agadir/123456/450
+#EXTINF:-1,[FR] W9 HD
+http://world-ipsat.com:1155/agadir/123456/2295
+#EXTINF:-1,[FR] W9 SD
+http://world-ipsat.com:1155/agadir/123456/451
+#EXTINF:-1,[FR] TF1 SERIES FILMS SD
+http://world-ipsat.com:1155/agadir/123456/454
+#EXTINF:-1,[FR] 6TER SD
+http://world-ipsat.com:1155/agadir/123456/455
+#EXTINF:-1,[FR] ARTE SD
+http://world-ipsat.com:1155/agadir/123456/456
+#EXTINF:-1,[FR]----FRANCE INFO---[FR]
+http://world-ipsat.com:1155/agadir/123456/458
+#EXTINF:-1,[FR] FRANCE 24 HD
+http://world-ipsat.com:1155/agadir/123456/15
+#EXTINF:-1,[FR] TV5 MONDE
+http://world-ipsat.com:1155/agadir/123456/449
+#EXTINF:-1,|FR| FRANCE INFO HD
+http://world-ipsat.com:1155/agadir/123456/2547
+#EXTINF:-1,[FR] C NEWS
+http://world-ipsat.com:1155/agadir/123456/552
+#EXTINF:-1,[FR] LCI HD
+http://world-ipsat.com:1155/agadir/123456/2312
+#EXTINF:-1,[FR] BFM TV HD
+http://world-ipsat.com:1155/agadir/123456/2314
+#EXTINF:-1,[FR] BFM TV SD
+http://world-ipsat.com:1155/agadir/123456/2526
+#EXTINF:-1,[FR] BFM BUISINESS HD
+http://world-ipsat.com:1155/agadir/123456/757
+#EXTINF:-1,[FR] LCP HD
+http://world-ipsat.com:1155/agadir/123456/2313
+#EXTINF:-1,[FR]-----[DIVERTISSEMENT]-----[FR]
+http://world-ipsat.com:1155/agadir/123456/1705
+#EXTINF:-1,[FR] TF1 SERIES FILMS FHD
+http://world-ipsat.com:1155/agadir/123456/4154
+#EXTINF:-1,[FR] 13EME RUE SD
+http://world-ipsat.com:1155/agadir/123456/545
+#EXTINF:-1,[FR] WEO HD
+http://world-ipsat.com:1155/agadir/123456/546
+#EXTINF:-1,[FR] WEO SD
+http://world-ipsat.com:1155/agadir/123456/2525
+#EXTINF:-1,[FR] NT1 SD
+http://world-ipsat.com:1155/agadir/123456/550
+#EXTINF:-1,[FR] NT1 HD
+http://world-ipsat.com:1155/agadir/123456/2521
+#EXTINF:-1,[FR] NRJ12 SD
+http://world-ipsat.com:1155/agadir/123456/551
+#EXTINF:-1,[FR] TEVA SD
+http://world-ipsat.com:1155/agadir/123456/547
+#EXTINF:-1,[FR] CSTAR SD
+http://world-ipsat.com:1155/agadir/123456/453
+#EXTINF:-1,[FR] C STAR HD
+http://world-ipsat.com:1155/agadir/123456/2522
+#EXTINF:-1,[FR] C8 HD
+http://world-ipsat.com:1155/agadir/123456/452
+#EXTINF:-1,[FR] C8 SD
+http://world-ipsat.com:1155/agadir/123456/2523
+#EXTINF:-1,[FR] SYFY SD
+http://world-ipsat.com:1155/agadir/123456/472
+#EXTINF:-1,[FR] AB1 HD
+http://world-ipsat.com:1155/agadir/123456/1046
+#EXTINF:-1,[FR] CHERIE 25 SD
+http://world-ipsat.com:1155/agadir/123456/760
+#EXTINF:-1,[FR] PARIS PREMIERE SD
+http://world-ipsat.com:1155/agadir/123456/469
+#EXTINF:-1,[FR] RTL9 SD
+http://world-ipsat.com:1155/agadir/123456/457
+#EXTINF:-1,[FR] TREK SD
+http://world-ipsat.com:1155/agadir/123456/2282
+#EXTINF:-1,[FR] E ENTERTAINEMENT HD
+http://world-ipsat.com:1155/agadir/123456/2546
+#EXTINF:-1,[FR] NUMERO23 SD
+http://world-ipsat.com:1155/agadir/123456/1356
+#EXTINF:-1,[FR] COMEDIE+ SD
+http://world-ipsat.com:1155/agadir/123456/471
+#EXTINF:-1,[FR] COMEDIE+ HD
+http://world-ipsat.com:1155/agadir/123456/2524
+#EXTINF:-1,[FR] PARAMOUNT CHANNEL SD
+http://world-ipsat.com:1155/agadir/123456/470
+#EXTINF:-1,[FR] TMC SD
+http://world-ipsat.com:1155/agadir/123456/474
+#EXTINF:-1,[FR] TMC HD
+http://world-ipsat.com:1155/agadir/123456/1624
+#EXTINF:-1,[FR] TV BREIZH SD
+http://world-ipsat.com:1155/agadir/123456/1355
+#EXTINF:-1,[SU] RTS UN
+http://world-ipsat.com:1155/agadir/123456/548
+#EXTINF:-1,[SU] RTS DEUX
+http://world-ipsat.com:1155/agadir/123456/549
+#EXTINF:-1,[FR]-+-+-CINEMA FRANCE +-+-|FR|
+http://world-ipsat.com:1155/agadir/123456/475
+#EXTINF:-1,[FR] CANAL+HD
+http://world-ipsat.com:1155/agadir/123456/3777
+#EXTINF:-1,[FR] CANAL+ FHD
+http://world-ipsat.com:1155/agadir/123456/2527
+#EXTINF:-1,[FR] CANAL+SD
+http://world-ipsat.com:1155/agadir/123456/476
+#EXTINF:-1,[FR] CANAL+ CINEMA HD
+http://world-ipsat.com:1155/agadir/123456/2528
+#EXTINF:-1,[FR] CANAL+ CINEMA SD
+http://world-ipsat.com:1155/agadir/123456/479
+#EXTINF:-1,[FR] CANAL+ DECALE HD
+http://world-ipsat.com:1155/agadir/123456/2529
+#EXTINF:-1,[FR] CANAL+ DECALE SD
+http://world-ipsat.com:1155/agadir/123456/477
+#EXTINF:-1,[FR] CANAL+ FAMILY HD
+http://world-ipsat.com:1155/agadir/123456/478
+#EXTINF:-1,[FR] CANAL+ FAMILY SD
+http://world-ipsat.com:1155/agadir/123456/2530
+#EXTINF:-1,[FR] CANAL+ SERIES HD
+http://world-ipsat.com:1155/agadir/123456/3779
+#EXTINF:-1,[FR] CANAL+ SERIES SD
+http://world-ipsat.com:1155/agadir/123456/480
+#EXTINF:-1,[FR] SERIE CLUB SD
+http://world-ipsat.com:1155/agadir/123456/468
+#EXTINF:-1,[FR] CINE+ FRISSON HD
+http://world-ipsat.com:1155/agadir/123456/460
+#EXTINF:-1,[FR] CINE+ FRISSON SD
+http://world-ipsat.com:1155/agadir/123456/2531
+#EXTINF:-1,[FR] CINE+ EMOTION SD
+http://world-ipsat.com:1155/agadir/123456/462
+#EXTINF:-1,[FR] CINE+ FAMIZ SD
+http://world-ipsat.com:1155/agadir/123456/461
+#EXTINF:-1,[FR] CINE+ PREMIER HD
+http://world-ipsat.com:1155/agadir/123456/3932
+#EXTINF:-1,[FR] CINE+ PREMIER SD
+http://world-ipsat.com:1155/agadir/123456/459
+#EXTINF:-1,[FR] CINE+ CLASSIC SD
+http://world-ipsat.com:1155/agadir/123456/463
+#EXTINF:-1,[FR] CINE POLAR SD
+http://world-ipsat.com:1155/agadir/123456/758
+#EXTINF:-1,[FR] CINE+ FX SD
+http://world-ipsat.com:1155/agadir/123456/759
+#EXTINF:-1,[FR] ACTION  SD
+http://world-ipsat.com:1155/agadir/123456/473
+#EXTINF:-1,[FR] ACTION  HD
+http://world-ipsat.com:1155/agadir/123456/2536
+#EXTINF:-1,[FR] OCS MAX SD
+http://world-ipsat.com:1155/agadir/123456/464
+#EXTINF:-1,[FR] OCS CHOC SD
+http://world-ipsat.com:1155/agadir/123456/467
+#EXTINF:-1,[FR] OCS GEANTS SD
+http://world-ipsat.com:1155/agadir/123456/465
+#EXTINF:-1,[FR] OCS CITY SD
+http://world-ipsat.com:1155/agadir/123456/466
+#EXTINF:-1,[FR] TCM CINEMA SD
+http://world-ipsat.com:1155/agadir/123456/2296
+#EXTINF:-1,[FR]--------[ FRENCH KIDS ]--------[FR]
+http://world-ipsat.com:1155/agadir/123456/491
+#EXTINF:-1,[FR] BOOMERANG HD
+http://world-ipsat.com:1155/agadir/123456/2532
+#EXTINF:-1,[FR] BOOMERANG SD
+http://world-ipsat.com:1155/agadir/123456/498
+#EXTINF:-1,[FR] CARTOON NET HD
+http://world-ipsat.com:1155/agadir/123456/2533
+#EXTINF:-1,[FR] CARTOON NET SD
+http://world-ipsat.com:1155/agadir/123456/497
+#EXTINF:-1,[FR] DISNY CHANNEL HD
+http://world-ipsat.com:1155/agadir/123456/496
+#EXTINF:-1,[FR] DISNY CHANNEL SD
+http://world-ipsat.com:1155/agadir/123456/2534
+#EXTINF:-1,[FR] CANAL J  HD
+http://world-ipsat.com:1155/agadir/123456/495
+#EXTINF:-1,[FR] DIsNY CHANNEL SD
+http://world-ipsat.com:1155/agadir/123456/2264
+#EXTINF:-1,[FR] DISNEY CINEMA HD
+http://world-ipsat.com:1155/agadir/123456/494
+#EXTINF:-1,[FR] DISNEY JUNIOR HD
+http://world-ipsat.com:1155/agadir/123456/493
+#EXTINF:-1,[FR] DISNEY JUNIOR SD
+http://world-ipsat.com:1155/agadir/123456/2535
+#EXTINF:-1,[FR] MANGAS HD
+http://world-ipsat.com:1155/agadir/123456/505
+#EXTINF:-1,[FR] MANGAS SD
+http://world-ipsat.com:1155/agadir/123456/2539
+#EXTINF:-1,[FR] DISNEY XD HD
+http://world-ipsat.com:1155/agadir/123456/492
+#EXTINF:-1,[FR] GAME ONE SD
+http://world-ipsat.com:1155/agadir/123456/503
+#EXTINF:-1,[FR] ZOUZOUS HD
+http://world-ipsat.com:1155/agadir/123456/1581
+#EXTINF:-1,[FR] BOiNG HD
+http://world-ipsat.com:1155/agadir/123456/1702
+#EXTINF:-1,[FR] GULLI HD
+http://world-ipsat.com:1155/agadir/123456/500
+#EXTINF:-1,[FR] GULLI SD
+http://world-ipsat.com:1155/agadir/123456/2538
+#EXTINF:-1,[FR] NICKELODEON 4TEEN HD
+http://world-ipsat.com:1155/agadir/123456/4005
+#EXTINF:-1,[FR] NICKELODEON JUN HD
+http://world-ipsat.com:1155/agadir/123456/3867
+#EXTINF:-1,[FR] NICKELODEON HD
+http://world-ipsat.com:1155/agadir/123456/504
+#EXTINF:-1,[FR] NICKELODEON  FHD
+http://world-ipsat.com:1155/agadir/123456/506
+#EXTINF:-1,[FR] PIWI HD
+http://world-ipsat.com:1155/agadir/123456/2537
+#EXTINF:-1,[FR] PIWI SD
+http://world-ipsat.com:1155/agadir/123456/499
+#EXTINF:-1,[FR] TELETOON+ HD
+http://world-ipsat.com:1155/agadir/123456/502
+#EXTINF:-1,[FR] TIJI SD
+http://world-ipsat.com:1155/agadir/123456/501
+#EXTINF:-1,[FR]+-+-+[France Culture]+-+- [FR]
+http://world-ipsat.com:1155/agadir/123456/507
+#EXTINF:-1,[FR] CRIME DISTRICT HD
+http://world-ipsat.com:1155/agadir/123456/3418
+#EXTINF:-1,[FR] DISCOVERY INVESTIGATION SD
+http://world-ipsat.com:1155/agadir/123456/29
+#EXTINF:-1,[FR] DISCOVERY HD
+http://world-ipsat.com:1155/agadir/123456/516
+#EXTINF:-1,[FR] DISCOVERY SD
+http://world-ipsat.com:1155/agadir/123456/2540
+#EXTINF:-1,[FR] DISCOVERY SC HD
+http://world-ipsat.com:1155/agadir/123456/2541
+#EXTINF:-1,[FR] DISCOVERY SC SD
+http://world-ipsat.com:1155/agadir/123456/517
+#EXTINF:-1,[FR] VOYAGE HD
+http://world-ipsat.com:1155/agadir/123456/2248
+#EXTINF:-1,[FR] VOYAGE SD
+http://world-ipsat.com:1155/agadir/123456/2542
+#EXTINF:-1,[FR] ANIMAUX HD
+http://world-ipsat.com:1155/agadir/123456/2543
+#EXTINF:-1,[FR] ANIMAUX SD
+http://world-ipsat.com:1155/agadir/123456/514
+#EXTINF:-1,[FR] USHUAIA HD
+http://world-ipsat.com:1155/agadir/123456/2545
+#EXTINF:-1,[FR] USHUAIA SD
+http://world-ipsat.com:1155/agadir/123456/511
+#EXTINF:-1,[FR] SCIENCE VIE HD
+http://world-ipsat.com:1155/agadir/123456/3935
+#EXTINF:-1,[FR] SCIENCE VIE SD
+http://world-ipsat.com:1155/agadir/123456/510
+#EXTINF:-1,|FR| PLANETE+ HD
+http://world-ipsat.com:1155/agadir/123456/2544
+#EXTINF:-1,|FR| PLANETE+ SD
+http://world-ipsat.com:1155/agadir/123456/508
+#EXTINF:-1,|FR| PLANETE+ A.E SD
+http://world-ipsat.com:1155/agadir/123456/509
+#EXTINF:-1,[FR] PLANETE CI SD
+http://world-ipsat.com:1155/agadir/123456/770
+#EXTINF:-1,[FR] RMC HD
+http://world-ipsat.com:1155/agadir/123456/518
+#EXTINF:-1,[FR] NATIONAL GEO HD
+http://world-ipsat.com:1155/agadir/123456/2549
+#EXTINF:-1,[FR] NATIONAL GEO SD
+http://world-ipsat.com:1155/agadir/123456/513
+#EXTINF:-1,[FR] NAT GEO WILD HD
+http://world-ipsat.com:1155/agadir/123456/512
+#EXTINF:-1,[FR] NAT GEO WILD SD
+http://world-ipsat.com:1155/agadir/123456/2548
+#EXTINF:-1,[FR] CHASSE PECHE SD
+http://world-ipsat.com:1155/agadir/123456/515
+#EXTINF:-1,[FR] CHASSE.PECHE HD
+http://world-ipsat.com:1155/agadir/123456/2550
+#EXTINF:-1,[FR] SEASON HD
+http://world-ipsat.com:1155/agadir/123456/1755
+#EXTINF:-1,[FR] TOUTE L HISTOIRE SD
+http://world-ipsat.com:1155/agadir/123456/769
+#EXTINF:-1,[FR] HISTOIRE SD
+http://world-ipsat.com:1155/agadir/123456/96
+#EXTINF:-1,[FR] MEZZO LIVE  SD
+http://world-ipsat.com:1155/agadir/123456/2686
+#EXTINF:-1,[BE]---- [BELGIQUE]------ [BE]
+http://world-ipsat.com:1155/agadir/123456/1501
+#EXTINF:-1,[BE] CLUB RTL
+http://world-ipsat.com:1155/agadir/123456/1506
+#EXTINF:-1,[BE] LA DEUX HD
+http://world-ipsat.com:1155/agadir/123456/1503
+#EXTINF:-1,[BE] LA TROIS HD
+http://world-ipsat.com:1155/agadir/123456/1504
+#EXTINF:-1,[BE] LA UNE HD
+http://world-ipsat.com:1155/agadir/123456/1502
+#EXTINF:-1,[BE] RTL TVI
+http://world-ipsat.com:1155/agadir/123456/1505
+#EXTINF:-1,[BE] PLUG RTL
+http://world-ipsat.com:1155/agadir/123456/46
+#EXTINF:-1,[BE] EEN HD
+http://world-ipsat.com:1155/agadir/123456/2236
+#EXTINF:-1,[BE] VTM
+http://world-ipsat.com:1155/agadir/123456/2019
+#EXTINF:-1,[BE] VIER
+http://world-ipsat.com:1155/agadir/123456/2241
+#EXTINF:-1,[BE] JIM
+http://world-ipsat.com:1155/agadir/123456/2237
+#EXTINF:-1,[BE] CINEMA1 HD
+http://world-ipsat.com:1155/agadir/123456/2228
+#EXTINF:-1,[BE] CANVAS
+http://world-ipsat.com:1155/agadir/123456/2235
+#EXTINF:-1,[BE] AB3
+http://world-ipsat.com:1155/agadir/123456/2233
+#EXTINF:-1,[FR]----[MUSIC]----[FR]
+http://world-ipsat.com:1155/agadir/123456/1617
+#EXTINF:-1,[FR] MTV DANCE
+http://world-ipsat.com:1155/agadir/123456/1620
+#EXTINF:-1,[FR] MTV MUSIC
+http://world-ipsat.com:1155/agadir/123456/1619
+#EXTINF:-1,[FR] MTV BASE
+http://world-ipsat.com:1155/agadir/123456/1621
+#EXTINF:-1,[FR] M6 MUSIC HD
+http://world-ipsat.com:1155/agadir/123456/2293
+#EXTINF:-1,[FR] NRJ12 HITS HD
+http://world-ipsat.com:1155/agadir/123456/2265
+#EXTINF:-1,[FR] VIRGIN TV
+http://world-ipsat.com:1155/agadir/123456/98
+#EXTINF:-1,[FR] MCM TOP HD
+http://world-ipsat.com:1155/agadir/123456/2149
+#EXTINF:-1,[FR] MCM HD
+http://world-ipsat.com:1155/agadir/123456/2154
+#EXTINF:-1,[FR] VH1 CASSIC HD
+http://world-ipsat.com:1155/agadir/123456/2148
+#EXTINF:-1,[FR] MCM POP HD
+http://world-ipsat.com:1155/agadir/123456/2292
+#EXTINF:-1,[FR] CAPITAL TV.
+http://world-ipsat.com:1155/agadir/123456/84
+#EXTINF:-1,[FR] M2O MUSIC
+http://world-ipsat.com:1155/agadir/123456/100
+#EXTINF:-1,[FR] Radio 5 TV
+http://world-ipsat.com:1155/agadir/123456/105
+#EXTINF:-1,[FR]+-+-+SPORT FRANCE+-+-+-[FR]
+http://world-ipsat.com:1155/agadir/123456/481
+#EXTINF:-1,[FR] BEIN SPORTS 1 FHD
+http://world-ipsat.com:1155/agadir/123456/482
+#EXTINF:-1,[FR] beINSPORT 1 SD
+http://world-ipsat.com:1155/agadir/123456/2430
+#EXTINF:-1,[FR] BEIN SPORTS 2 FHD
+http://world-ipsat.com:1155/agadir/123456/483
+#EXTINF:-1,[FR]beINSPORT2-SD
+http://world-ipsat.com:1155/agadir/123456/1286
+#EXTINF:-1,|FR| beIN SPORTS 3 FHD
+http://world-ipsat.com:1155/agadir/123456/484
+#EXTINF:-1,[FR] BEIN SPORT 3HD
+http://world-ipsat.com:1155/agadir/123456/151
+#EXTINF:-1,[FR] BEIN SPORT MAX 4 HD
+http://world-ipsat.com:1155/agadir/123456/1739
+#EXTINF:-1,[FR] BEIN SPORT MAX 5 HD
+http://world-ipsat.com:1155/agadir/123456/1740
+#EXTINF:-1,[FR] BEIN SPORT MAX 6 HD
+http://world-ipsat.com:1155/agadir/123456/1741
+#EXTINF:-1,[FR] BEIN SPORT MAX 7 HD
+http://world-ipsat.com:1155/agadir/123456/1742
+#EXTINF:-1,[FR] BEIN SPORT MAX 8 HD
+http://world-ipsat.com:1155/agadir/123456/1627
+#EXTINF:-1,[FR] BEIN SPORT MAX 9 HD
+http://world-ipsat.com:1155/agadir/123456/1628
+#EXTINF:-1,[FR] BEIN SPORT MAX 10 HD
+http://world-ipsat.com:1155/agadir/123456/1756
+#EXTINF:-1,[FR] SFR.SPORT.1-HD
+http://world-ipsat.com:1155/agadir/123456/3776
+#EXTINF:-1,[FR] SFR SPORTS.1 FHD
+http://world-ipsat.com:1155/agadir/123456/771
+#EXTINF:-1,[FR] SFR.SPORT.1 HD
+http://world-ipsat.com:1155/agadir/123456/1448
+#EXTINF:-1,[FR] SFR SPORT.2 FHD
+http://world-ipsat.com:1155/agadir/123456/486
+#EXTINF:-1,[FR]SFR.SPORT.2.HD
+http://world-ipsat.com:1155/agadir/123456/1451
+#EXTINF:-1,[FR] SFR.SPORT.2-HD
+http://world-ipsat.com:1155/agadir/123456/3782
+#EXTINF:-1,[FR] SFR SPORTS.3 FHD
+http://world-ipsat.com:1155/agadir/123456/487
+#EXTINF:-1,[FR] SFR.SPORT.3 HD
+http://world-ipsat.com:1155/agadir/123456/2566
+#EXTINF:-1,[FR]  RMC 4HD
+http://world-ipsat.com:1155/agadir/123456/2563
+#EXTINF:-1,[FR] CANAL+ SPORT HD
+http://world-ipsat.com:1155/agadir/123456/761
+#EXTINF:-1,[FR] CANAL+ SPORT SD
+http://world-ipsat.com:1155/agadir/123456/3781
+#EXTINF:-1,[FR] CANAL+ SPORT FHD
+http://world-ipsat.com:1155/agadir/123456/1450
+#EXTINF:-1,[FR] EUROSPORT1 FHD
+http://world-ipsat.com:1155/agadir/123456/554
+#EXTINF:-1,[FR] EUROSPORT 2 FHD
+http://world-ipsat.com:1155/agadir/123456/553
+#EXTINF:-1,[FR] EUROSPORT 2HD
+http://world-ipsat.com:1155/agadir/123456/17
+#EXTINF:-1,[FR] KOMBA SPORT HD
+http://world-ipsat.com:1155/agadir/123456/99
+#EXTINF:-1,[FR] EQUIDIA LIVE HD
+http://world-ipsat.com:1155/agadir/123456/490
+#EXTINF:-1,[FR] EQUIDIA LIFE HD
+http://world-ipsat.com:1155/agadir/123456/1775
+#EXTINF:-1,[FR] INFOSPORT  HD
+http://world-ipsat.com:1155/agadir/123456/485
+#EXTINF:-1,[FR] LEQUIPE21 FHD
+http://world-ipsat.com:1155/agadir/123456/489
+#EXTINF:-1,[FR] FOOT+ HD
+http://world-ipsat.com:1155/agadir/123456/488
+#EXTINF:-1,[FR] GOLF+ CHANNEL HD
+http://world-ipsat.com:1155/agadir/123456/2281
+#EXTINF:-1,[FR] AB MOTEUR SD
+http://world-ipsat.com:1155/agadir/123456/1623
+#EXTINF:-1,[FR] LA CHAINE NORMADIE
+http://world-ipsat.com:1155/agadir/123456/1626
+#EXTINF:-1,[FR]---[PPV-A.LA CARTE]---[FR]
+http://world-ipsat.com:1155/agadir/123456/776
+#EXTINF:-1,[FR] ALACARTE 11
+http://world-ipsat.com:1155/agadir/123456/762
+#EXTINF:-1,[FR] ALACARTE 12
+http://world-ipsat.com:1155/agadir/123456/783
+#EXTINF:-1,[FR] ALACARTE 13
+http://world-ipsat.com:1155/agadir/123456/784
+#EXTINF:-1,[FR] ALACARTE 14
+http://world-ipsat.com:1155/agadir/123456/785
+#EXTINF:-1,[FR] ALACARTE 15
+http://world-ipsat.com:1155/agadir/123456/786
+#EXTINF:-1,[FR] ALACARTE 16
+http://world-ipsat.com:1155/agadir/123456/787
+#EXTINF:-1,[FR] ALACARTE 17
+http://world-ipsat.com:1155/agadir/123456/788
+#EXTINF:-1,[FR] ALACARTE 18
+http://world-ipsat.com:1155/agadir/123456/789
+#EXTINF:-1,[FR] ALACARTE 19
+http://world-ipsat.com:1155/agadir/123456/790
+#EXTINF:-1,[FR] ALACARTE 20
+http://world-ipsat.com:1155/agadir/123456/791
+#EXTINF:-1,[FR]---[ CANAL_PLAY ]---[FR]
+http://world-ipsat.com:1155/agadir/123456/1606
+#EXTINF:-1,[FR] CANAL PLAY 11
+http://world-ipsat.com:1155/agadir/123456/1607
+#EXTINF:-1,[FR] CANAL PLAY 12
+http://world-ipsat.com:1155/agadir/123456/1608
+#EXTINF:-1,[FR] CANAL PLAY 13
+http://world-ipsat.com:1155/agadir/123456/1609
+#EXTINF:-1,[FR] CANAL PLAY 14
+http://world-ipsat.com:1155/agadir/123456/1610
+#EXTINF:-1,[FR] CANAL PLAY 15
+http://world-ipsat.com:1155/agadir/123456/1611
+#EXTINF:-1,[FR] CANAL PLAY 16
+http://world-ipsat.com:1155/agadir/123456/1612
+#EXTINF:-1,[FR] CANAL PLAY 17
+http://world-ipsat.com:1155/agadir/123456/1613
+#EXTINF:-1,[FR] CANAL PLAY 18
+http://world-ipsat.com:1155/agadir/123456/1614
+#EXTINF:-1,[FR] CANAL PLAY 19
+http://world-ipsat.com:1155/agadir/123456/1615
+#EXTINF:-1,[FR] CANAL PLAY 20
+http://world-ipsat.com:1155/agadir/123456/1616
+#EXTINF:-1,[FR]---[ ORANGE CINE ]---[FR]
+http://world-ipsat.com:1155/agadir/123456/2045
+#EXTINF:-1,[FR] ORANGE CINE+1
+http://world-ipsat.com:1155/agadir/123456/2903
+#EXTINF:-1,[FR] ORANGE CINE+2
+http://world-ipsat.com:1155/agadir/123456/2044
+#EXTINF:-1,[FR] ORANGE CINE+3
+http://world-ipsat.com:1155/agadir/123456/2043
+#EXTINF:-1,[FR] ORANGE CINE+4
+http://world-ipsat.com:1155/agadir/123456/2042
+#EXTINF:-1,[FR] ORANGE CINE+5
+http://world-ipsat.com:1155/agadir/123456/2041
+#EXTINF:-1,[FR] ORANGE CINE+6
+http://world-ipsat.com:1155/agadir/123456/2040
+#EXTINF:-1,[FR] ORANGE CINE+ 7
+http://world-ipsat.com:1155/agadir/123456/2266
+#EXTINF:-1,[FR] ORANGE CINE+8
+http://world-ipsat.com:1155/agadir/123456/2023
+#EXTINF:-1,[FR] ORANGE CINE+9
+http://world-ipsat.com:1155/agadir/123456/1991
+#EXTINF:-1,[FR] ORANGE CINE+10
+http://world-ipsat.com:1155/agadir/123456/2904
